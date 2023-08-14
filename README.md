@@ -38,6 +38,7 @@ A list of Minecraft anticheats, for any version of Java Edition or Bedrock Editi
 |Ocean              |Java   |Plugin|Unknown     |1.13                  |[SpigotMC](https://spigotmc.org/resources/58907)                                                           |
 |Pandora            |Java   |Plugin|Unknown     |1.8 - 1.16            |[GitHub](https://github.com/GoDead/Pandora)                                                                |
 |Phoenix            |Java   |Plugin|Unknown     |1.7 - 1.13            |[SpigotMC](https://spigotmc.org/resources/6207)                                                            |
+|Proton             |Java   |Plugin|Unknown     |1.8                   |[GitHub](https://github.com/GoDead/proton-anticheat)                                                       |
 |Warden             |Java   |Plugin|Unknown     |1.8 - 1.16            |[SpigotMC](https://spigotmc.org/resources/81877)                                                           |
 |LightAntiCheat     |Java   |Plugin|Unavailable |Unknown               |[](https://spigotmc.org/resources/96341)                                                                   |
 |Reflex             |Java   |Plugin|Unavailable |Unknown               |[](https://spigotmc.org/resources/21122)                                                                   |
