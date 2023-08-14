@@ -9,6 +9,7 @@ A list of Minecraft anticheats, for any version of Java Edition or Bedrock Editi
 |Updated NoCheatPlus|Java   |Plugin|Active      |Unknown               |[GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus)                                               |
 |zHack              |Java   |Plugin|Active      |1.8                   |[Polymart](https://polymart.org/resource/460)                                                              |
 |Better Bubble      |Java   |Skript|Active      |1.13 - 1.19           |[SpigotMC](https://spigotmc.org/resources/81404)                                                           |
+|Scythe             |Bedrock|Addon |Active      |1.20.10               |[GitHub](https://github.com/Scythe-Anticheat/Scythe-Anticheat)                                             |
 |GK                 |Java   |Plugin|Inactive    |1.8 - 1.16            |[Dedicated Site](https://gkanticheat.weebly.com/free.html), [SpigotMC](https:/spigotmc.org/resources/75691)|
 |Hawk               |Java   |Plugin|Inactive    |1.7 - 1.8             |[SpigotMC](https://spigotmc.org/resources/40343)                                                           |
 |Wither             |Java   |Plugin|Inactive    |1.13 - 1.16           |[SpigotMC](https://spigotmc.org/resources/68657)                                                           |
