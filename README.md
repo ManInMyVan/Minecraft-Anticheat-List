@@ -3,6 +3,7 @@ A list of Minecraft anticheats, for any version of Java Edition or Bedrock Editi
 ## Free:
 |Anticheat          |Edition|Type  |Status      |Supported Versions    |Links                                                                                                      |
 |:-----------------:|:-----:|:----:|:----------:|:--------------------:|:---------------------------------------------------------------------------------------------------------:|
+|FoxAddition        |Java   |Plugin|Active      |1.8 - 1.20            |[SpigotMC](https://spigotmc.org/resources/111084)                                                          |
 |Ghost              |Java   |Plugin|Active      |1.7 - 1.20            |[SpigotMC](https://spigotmc.org/resources/111084)                                                          |
 |Negativity v1      |Java   |Plugin|Active      |1.8 - 1.20            |[SpigotMC](https://spigotmc.org/resources/48399)                                                           |
 |Themis             |Java   |Plugin|Active      |1.17 - 1.20           |[SpigotMC](https://spigotmc.org/resources/90766)                                                           |
