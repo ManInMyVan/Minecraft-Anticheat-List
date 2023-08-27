@@ -1,9 +1,9 @@
 # Minecraft Anticheat List
-A list of Minecraft anticheats, for any version of Java Edition or Bedrock Edition.\
+A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.\
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
 ## Free:
-|Anticheat             |Edition|Type  |Status      |Supported Versions    |Links                                                                                                      |
-|:--------------------:|:-----:|:----:|:----------:|:--------------------:|:---------------------------------------------------------------------------------------------------------:|
+|Anticheat              |Edition|Type  |Status      |Supported Versions    |Links                                                                                                      |
+|:---------------------:|:-----:|:----:|:----------:|:--------------------:|:---------------------------------------------------------------------------------------------------------:|
 |FoxAddition            |Java   |Plugin|Active      |1.8 - 1.20            |[SpigotMC](https://spigotmc.org/resources/111260)                                                          |
 |Ghost                  |Java   |Plugin|Active      |1.7 - 1.20            |[SpigotMC](https://spigotmc.org/resources/111084)                                                          |
 |LiteAntiCheat          |Java   |Plugin|Active      |1.13 - 1.20           |[SpigotMC](https://spigotmc.org/resources/112053)                                                          |
@@ -36,7 +36,7 @@ A list of Minecraft anticheats, for any version of Java Edition or Bedrock Editi
 |AntiHaxerman           |Java   |Plugin|Unknown     |1.7 - 1.8             |[SpigotMC](https://spigotmc.org/resources/83198)                                                           |
 |AutoEye                |Java   |Plugin|Unknown     |1.7 - 1.12            |[SpigotMC](https://spigotmc.org/resources/54046)                                                           |
 |Artemis                |Java   |Plugin|Unknown     |Unknown               |[Discord](https://discord.gg/hdRt4Qh)                                                                      |
-|Bubble Anticheat Reborn|Java   |Skript|Unknown     |Unknown               |[Dedicated Site](https://steviebeenz.github.io/BubbleAnticheatReborn)                                      |
+|Cava                   |Java   |Plugin|Unknown     |1.19                  |[SpigotMC](https://spigotmc.org/resources/102867)                                                          |
 |Flappy                 |Java   |Plugin|Unknown     |1.13 - 1.17           |[SpigotMC](https://spigotmc.org/resources/92180)                                                           |
 |Frequency              |Java   |Plugin|Unknown     |1.8                   |[GitHub](https://github.com/ElevatedDev/Frequency)                                                         |
 |HackDetective          |Java   |Plugin|Unknown     |Unknown               |[SpigotMC](https://spigotmc.org/resources/8702)                                                            |
@@ -54,6 +54,7 @@ A list of Minecraft anticheats, for any version of Java Edition or Bedrock Editi
 |Proton                 |Java   |Plugin|Unknown     |1.8                   |[GitHub](https://github.com/GoDead/proton-anticheat)                                                       |
 |Warden                 |Java   |Plugin|Unknown     |1.8 - 1.16            |[SpigotMC](https://spigotmc.org/resources/81877)                                                           |
 |Wolf                   |Java   |Plugin|Unknown     |1.7 - 1.8             |[SpigotMC](https://spigotmc.org/resources/18614)                                                           |
+|Bubble Anticheat Reborn|Java   |Skript|Unknown     |Unknown               |[Dedicated Site](https://steviebeenz.github.io/BubbleAnticheatReborn)                                      |
 |ABC                    |Java   |Plugin|Unavailable |Unknown               |[](https://spigotmc.org/resources/91606)                                                                   |
 |Axolotl Cheat Detector |Java   |Plugin|Unavailable |Unknown               |[](https://spigotmc.org/resources/94326)                                                                   |
 |BayMax                 |Java   |Plugin|Unavailable |Unknown               |[](https://spigotmc.org/resources/43972)                                                                   |
