@@ -16,6 +16,8 @@ body:
     options:
       - Free
       - Premium
+    validations:
+      required: true
 - type: dropdown
   attributes:
     label: Edition
