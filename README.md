@@ -109,7 +109,7 @@ Matrix           |Java   |Plugin|Unknown     |1.8.8, 1.12.2 - 1.19              
 Polar            |Java   |Plugin|Unknown     |1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1|[Dedicated Site](https://polar.top)
 Taka             |Java   |Plugin|Unknown     |1.8 - 1.16                        |[SpigotMC](https://spigotmc.org/resources/45167)
 UltraAC          |Java   |Plugin|Unknown     |Unknown                           |[BuiltByBit](https://builtbybit.com/resources/13413)
-Verus            |Java   |Plugin|Unknown     |1.7 - 1.19.9                      |[Dedicated Site](https://verus.ac)
+Verus            |Java   |Plugin|Unknown     |1.7 - 1.19.4                      |[Dedicated Site](https://verus.ac)
 XAntiCheat       |Java   |Plugin|Unknown     |Unknown                           |[BuiltByBit](https://builtbybit.com/resources/2802)
 Alice            |Java   |Plugin|Unavailable |Unknown                           |[](https://spigotmc.org/resources/89139)
 DakataAntiCheat  |Java   |Plugin|Unavailable |Unknown                           |[](https://spigotmc.org/resources/26911)
