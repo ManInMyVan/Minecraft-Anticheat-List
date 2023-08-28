@@ -23,6 +23,7 @@ body:
     required: true
 - type: checkboxes
   attributes:
+    label: Before submitting a bug report
     options:
-    - label: This bug hasn''t been reported yet.
+    - label: This bug wasn't already reported (I have searched bug reports on GitHub).
       required: true
