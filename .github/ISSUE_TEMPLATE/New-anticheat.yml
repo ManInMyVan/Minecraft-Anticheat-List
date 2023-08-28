@@ -40,6 +40,7 @@ body:
       - NukkitX
       - Addon
       - Skript
+      - PocketMine
       - Unknown
   validations:
     required: true
