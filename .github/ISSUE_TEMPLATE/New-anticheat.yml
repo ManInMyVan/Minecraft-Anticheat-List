@@ -1,0 +1,76 @@
+name: New AntiCheat
+description: Found a new anticheat? ask me to add it here.
+labels: ["New Anticheat"]
+body:
+- type: input
+  attributes:
+    label: Anticheat Name
+    description: "What is the anticheat called?"
+    render: bash
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Status
+    description: "Is the anticheat free or premium (paid)?"
+    multiple: false
+    options:
+      - Free
+      - Premium
+- type: dropdown
+  attributes:
+    label: Edition
+    description: "Is the anticheat for Java, or Bedrock?"
+    multiple: false
+    options:
+      - Java
+      - Bedrock
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Platform
+    description: "What platform is the anticheat on?"
+    multiple: false
+    options:
+      - Bukkit (or a fork)
+      - Fabric/Quilt
+      - Forge/NeoForge
+      - NukkitX
+      - Addon
+      - Skript
+      - Unknown
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Status
+    description: "What is the anticheat's current status?"
+    multiple: false
+    options:
+      - Active (Recent updates, not explicitly inactive/unmaintained/discontinue)
+      - Inactive (Explicitly Inactive)
+      - Unmaintained (Explicitly Unmaintained)
+      - Discontinued (Explicitly Discontinued)
+      - Unknown (No recent updates, not explicitly inactive/unmaintained/discontinue)
+      - Unavailable (No working official links to the anticheat)
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Versions
+    description: "What versions do the anticheat support (if discontinued, use last supported versions)?"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Links
+    description: "What official links can be used to obtain the anticheat? (Do not use direct download links)"
+  validations:
+    required: true
+- type: checkboxes
+  attributes:
+    label: Before submitting an anticheat
+    options:
+    - label: This anticheat wasn't already submitted (I have searched anticheat submitions on GitHub).
+      required: true
