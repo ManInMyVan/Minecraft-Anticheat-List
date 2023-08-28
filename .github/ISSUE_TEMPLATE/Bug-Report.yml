@@ -1,0 +1,11 @@
+name: Bug Report
+description: Found a bug? Report it here.
+labels: ["Bug"]
+body:
+- type: checkboxes
+  attributes:
+    label: LABEL
+    description: DESCRIPTION
+    options:
+    - label: This bug hasn''t been reported yet.
+      required: true
