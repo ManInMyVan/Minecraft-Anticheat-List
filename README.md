@@ -2,7 +2,7 @@
 A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.\
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
 
-## Number of anitcheats: 117
+## Number of anitcheats: 121
 
 ## Free:
 |Anticheat             |Edition|Platform  |Status      |Supported Versions                                                                         |Links|
@@ -38,6 +38,8 @@ SoaromaSAC             |Java   |Bukkit    |Discontinued|1.17 - 1.19             
 ThotPatrol             |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/79978)
 Bubble                 |Java   |Skript    |Discontinued|1.8 - 1.14                                                                                 |[SpigotMC](https://spigotmc.org/resources/78468)
 Guardian               |Java   |Skript    |Discontinued|1.8 - 1.10                                                                                 |[SpigotMC](https://spigotmc.org/resources/29264)
+Nukkit-AntiCheat       |Bedrock|NukkitX   |Discontinued|Unknown                                                                                    |[GitHub](https://github.com/WetABQ/Nukkit-AntiCheat)
+Pulse                  |Bedrock|Addon     |Discontinued|1.16.210+                                                                                  |[GitHub](https://github.com/Dream23322/Pulse-Anticheat)
 Shadow                 |Bedrock|PocketMine|Discontinued|Unknown                                                                                    |[GitHub](https://github.com/DarkWav/SAC)
 AntiCheatPlus          |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[SpigotMC](https://spigotmc.org/resources/2714)
 AntiHaxerman           |Java   |Bukkit    |Unknown     |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/83198)
@@ -53,7 +55,7 @@ FlopAC                 |Java   |Bukkit    |Unknown     |1.7 - 1.18.2            
 Flux                   |Java   |Bukkit    |Unknown     |1.8                                                                                        |[BuiltByBit](https://builtbybit.com/resources/29788)
 Foxbite                |Java   |Bukkit    |Unknown     |1.18                                                                                       |[GitHub](https://github.com/Foxikle/FoxBite)
 Frequency              |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[GitHub](https://github.com/ElevatedDev/Frequency)
-GuardianSponge         |Java   |Sponge    |Unknown     |                                                                                           |[GitHub](https://github.com/vectrixdevelops/guardiansponge)
+GuardianSponge         |Java   |Sponge    |Unknown     |Unknown                                                                                    |[GitHub](https://github.com/vectrixdevelops/guardiansponge)
 HackDetective          |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[SpigotMC](https://spigotmc.org/resources/8702)
 Horizon                |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2, 1.13.2, 1.14.2 - 1.14.4                                                     |[SpigotMC](https://spigotmc.org/resources/65830)
 Incognito              |Java   |Bukkit    |Unknown     |1.8 - 1.8.1, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16                                 |[Bukkit](https://dev.bukkit.org/projects/incognito)
@@ -82,6 +84,7 @@ WatchCat               |Java   |Bukkit    |Unknown     |1.8.8, 1.9.4, 1.10.2, 1.
 Wolf                   |Java   |Bukkit    |Unknown     |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/18614)
 CheaterDeleter         |Java   |Fabric    |Unknown     |1.17.x                                                                                     |[GitHub](https://github.com/CoolMineman/CheaterDeleter)
 Bubble Anticheat Reborn|Java   |Skript    |Unknown     |Unknown                                                                                    |[Dedicated Site](https://steviebeenz.github.io/BubbleAnticheatReborn)
+WAntiCheatPro          |Bedrock|NukkitX   |Unknown     |Unknown                                                                                    |[GitHub]()
 ShallowAC              |Bedrock|Addon     |Unknown     |1.16.0+                                                                                    |[GitHub](https://github.com/Shall0e/ShallowAC)
 ABC                    |Java   |Bukkit    |Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/91606)
 Axolotl Cheat Detector |Java   |Bukkit    |Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/94326)
