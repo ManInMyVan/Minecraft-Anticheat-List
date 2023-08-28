@@ -1,6 +1,9 @@
 # Minecraft Anticheat List
 A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.\
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
+
+## Number of anitcheats: 93
+
 ## Free:
 |Anticheat             |Edition|Type  |Status      |Supported Versions                                                                         |Links|
 |:--------------------:|:-----:|:----:|:----------:|:-----------------------------------------------------------------------------------------:|:---:|
