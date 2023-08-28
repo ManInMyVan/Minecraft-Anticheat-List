@@ -6,12 +6,11 @@ body:
   attributes:
     label: Anticheat Name
     description: "What is the anticheat called?"
-    render: bash
   validations:
     required: true
 - type: dropdown
   attributes:
-    label: Status
+    label: Cost
     description: "Is the anticheat free or premium (paid)?"
     multiple: false
     options:
