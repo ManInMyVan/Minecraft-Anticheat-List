@@ -2,7 +2,7 @@
 A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.\
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
 
-## Number of anitcheats: 104
+## Number of anitcheats: 105
 
 ## Free:
 |Anticheat             |Edition|Type  |Status      |Supported Versions                                                                         |Links|
@@ -68,6 +68,7 @@ Vagmemes               |Java   |Plugin|Unknown     |1.8.8                       
 Warden                 |Java   |Plugin|Unknown     |1.8 - 1.16                                                                                 |[SpigotMC](https://spigotmc.org/resources/81877)
 WatchCat               |Java   |Plugin|Unknown     |1.8.8, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.2                                               |[SpigotMC](https://spigotmc.org/resources/56472)
 Wolf                   |Java   |Plugin|Unknown     |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/18614)
+CheaterDeleter         |Java   |Fabric|Unknown     |1.17.x                                                                                     |[GitHub](https://github.com/CoolMineman/CheaterDeleter)
 Bubble Anticheat Reborn|Java   |Skript|Unknown     |Unknown                                                                                    |[Dedicated Site](https://steviebeenz.github.io/BubbleAnticheatReborn)
 ABC                    |Java   |Plugin|Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/91606)
 Axolotl Cheat Detector |Java   |Plugin|Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/94326)
