@@ -2,7 +2,7 @@
 A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.\
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
 
-## Number of anitcheats: 116
+## Number of anitcheats: 117
 
 ## Free:
 |Anticheat             |Edition|Platform  |Status      |Supported Versions                                                                         |Links|
@@ -41,6 +41,7 @@ Guardian               |Java   |Skript    |Discontinued|1.8 - 1.10              
 Shadow                 |Bedrock|PocketMine|Discontinued|Unknown                                                                                    |[GitHub](https://github.com/DarkWav/SAC)
 AntiCheatPlus          |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[SpigotMC](https://spigotmc.org/resources/2714)
 AntiHaxerman           |Java   |Bukkit    |Unknown     |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/83198)
+Arc                    |Java   |Bukkit    |Unknown     |1.7.10 - 1.8.8                                                                             |[GitHub](https://github.com/Vrekt/Arc-v2)
 Artemis                |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[Discord](https://discord.gg/hdRt4Qh)
 BadPacket              |Java   |Bukkit    |Unknown     |1.7.10 - 1.9                                                                               |[BuiltByBit](https://builtbybit.com/resources/14236)
 Cava                   |Java   |Bukkit    |Unknown     |1.19                                                                                       |[SpigotMC](https://spigotmc.org/resources/102867)
