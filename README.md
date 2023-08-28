@@ -2,7 +2,7 @@
 A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.\
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
 
-## Number of anitcheats: 93
+## Number of anitcheats: 104
 
 ## Free:
 |Anticheat             |Edition|Type  |Status      |Supported Versions                                                                         |Links|
@@ -40,22 +40,30 @@ Guardian               |Java   |Skript|Discontinued|1.8 - 1.10                  
 AntiCheatPlus          |Java   |Plugin|Unknown     |Unknown                                                                                    |[SpigotMC](https://spigotmc.org/resources/2714)
 AntiHaxerman           |Java   |Plugin|Unknown     |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/83198)
 Artemis                |Java   |Plugin|Unknown     |Unknown                                                                                    |[Discord](https://discord.gg/hdRt4Qh)
+BadPacket              |Java   |Plugin|Unknown     |1.7.10 - 1.9                                                                               |[BuiltByBit](https://builtbybit.com/resources/14236)
 Cava                   |Java   |Plugin|Unknown     |1.19                                                                                       |[SpigotMC](https://spigotmc.org/resources/102867)
+Cheese                 |Java   |Plugin|Unknown     |1.8                                                                                        |[BuiltByBit](https://builtbybit.com/resources/21664)
 Flappy                 |Java   |Plugin|Unknown     |1.13 - 1.17                                                                                |[SpigotMC](https://spigotmc.org/resources/92180)
+Flux                   |Java   |Plugin|Unknown     |1.8                                                                                        |[BuiltByBit](https://builtbybit.com/resources/29788)
 Frequency              |Java   |Plugin|Unknown     |Unknown                                                                                    |[GitHub](https://github.com/ElevatedDev/Frequency)
 HackDetective          |Java   |Plugin|Unknown     |Unknown                                                                                    |[SpigotMC](https://spigotmc.org/resources/8702)
 Horizon                |Java   |Plugin|Unknown     |1.8.8, 1.12.2, 1.13.2, 1.14.2 - 1.14.4                                                     |[SpigotMC](https://spigotmc.org/resources/65830)
 Incognito              |Java   |Plugin|Unknown     |1.8 - 1.8.1, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16                                 |[Bukkit](https://dev.bukkit.org/projects/incognito)
 JightAntiC             |Java   |Plugin|Unknown     |1.8 - 1.17                                                                                 |[SpigotMC](https://spigotmc.org/resources/88154)
 Kauri                  |Java   |Plugin|Unknown     |1.7 - 1.16                                                                                 |[SpigotMC](https://spigotmc.org/resources/101667)
+KokuminAntiCheat       |Java   |Plugin|Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/7564)
 Medusa Lite            |Java   |Plugin|Unknown     |1.7 - 1.12.2                                                                               |[SpigotMC](https://spigotmc.org/resources/83345)
+Meme                   |Java   |Plugin|Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/12279)
 MineSecure Lite        |Java   |Plugin|Unknown     |1.8 - 1.11.2                                                                               |[SpigotMC](https://spigotmc.org/resources/11996)
 NESS Reloaded          |Java   |Plugin|Unknown     |1.8 - 1.17                                                                                 |[SpigotMC](https://spigotmc.org/resources/75887)
 NoWeep                 |Java   |Plugin|Unknown     |1.4.7 - 1.8.4                                                                              |[SpigotMC](https://spigotmc.org/resources/6160)
 Ocean                  |Java   |Plugin|Unknown     |1.13                                                                                       |[SpigotMC](https://spigotmc.org/resources/58907)
 Pandora                |Java   |Plugin|Unknown     |1.8 - 1.16                                                                                 |[GitHub](https://github.com/GoDead/Pandora)
 Phoenix                |Java   |Plugin|Unknown     |1.7 - 1.13                                                                                 |[SpigotMC](https://spigotmc.org/resources/6207)
+Phantom                |Java   |Plugin|Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/3001)
 Proton                 |Java   |Plugin|Unknown     |1.8                                                                                        |[GitHub](https://github.com/GoDead/proton-anticheat)
+Shade                  |Java   |Plugin|Unknown     |1.8                                                                                        |[BuiltByBit](https://builtbybit.com/resources/22596)
+Storm                  |Java   |Plugin|Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/16353)
 Vagmemes               |Java   |Plugin|Unknown     |1.8.8                                                                                      |[SpigotMC](https://spigotmc.org/resources/57080)
 Warden                 |Java   |Plugin|Unknown     |1.8 - 1.16                                                                                 |[SpigotMC](https://spigotmc.org/resources/81877)
 WatchCat               |Java   |Plugin|Unknown     |1.8.8, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.2                                               |[SpigotMC](https://spigotmc.org/resources/56472)
@@ -77,8 +85,8 @@ Raven                  |Java   |Plugin|Unavailable |Unknown                     
 Tesla                  |Java   |Plugin|Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/32239)
 Visage                 |Java   |Plugin|Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/86757)
 ## Premium:
-|Anticheat       |Edition|Type  |Status      |Supported Versions          |Links|
-|:--------------:|:-----:|:----:|:----------:|:--------------------------:|:---:|
+|Anticheat       |Edition|Type  |Status      |Supported Versions                |Links|
+|:--------------:|:-----:|:----:|:----------:|:--------------------------------:|:---:|
 AntiAura v2      |Java   |Plugin|Active      |1.8 - 1.19                        |[SpigotMC](https://spigotmc.org/resources/1368)
 AntiCheatAddition|Java   |Plugin|Active      |1.8, 1.12, 1.15 - 1.19            |[SpigotMC](https://spigotmc.org/resources/33590)
 Cardinal         |Java   |Plugin|Active      |1.8 - 1.20                        |[BuiltByBit](https://builtbybit.com/resources/26622)
@@ -92,13 +100,16 @@ GK               |Java   |Plugin|Inactive    |1.8 - 1.16                        
 AntiAura v1      |Java   |Plugin|Discontinued|Unknown                           |[SpigotMC](https://spigotmc.org/resources/1368/update?update=10078)
 AAC              |Java   |Plugin|Unknown     |1.8 - 1.16                        |[SpigotMC](https://spigotmc.org/resources/6442)
 AngelX           |Java   |Plugin|Unknown     |1.8, 1.19                         |[BuiltByBit](https://builtbybit.com/resources/10396)
+FAAC             |Java   |Plugin|Unknown     |1.8 - 1.14                        |[BuiltByBit](https://builtbybit.com/resources/17153)
 Intave           |Java   |Plugin|Unknown     |1.8 - 1.20                        |[Dedicated Site](https://intave.ac)
 JI Janitor       |Java   |Plugin|Unknown     |1.7 - 1.13.2                      |[BuiltByBit](https://builtbybit.com/resources/2442)
 Karhu            |Java   |Plugin|Unknown     |1.8 - 1.18                        |[Dedicated Site](https://karhu.ac)
 Matrix           |Java   |Plugin|Unknown     |1.8.8, 1.12.2 - 1.19              |[BuiltByBit](https://builtbybit.com/resources/13999)
 Polar            |Java   |Plugin|Unknown     |1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1|[Dedicated Site](https://polar.top)
 Taka             |Java   |Plugin|Unknown     |1.8 - 1.16                        |[SpigotMC](https://spigotmc.org/resources/45167)
+UltraAC          |Java   |Plugin|Unknown     |Unknown                           |[BuiltByBit](https://builtbybit.com/resources/13413)
 Verus            |Java   |Plugin|Unknown     |1.7 - 1.19.9                      |[Dedicated Site](https://verus.ac)
+XAntiCheat       |Java   |Plugin|Unknown     |Unknown                           |[BuiltByBit](https://builtbybit.com/resources/2802)
 Alice            |Java   |Plugin|Unavailable |Unknown                           |[](https://spigotmc.org/resources/89139)
 DakataAntiCheat  |Java   |Plugin|Unavailable |Unknown                           |[](https://spigotmc.org/resources/26911)
 MineSecure       |Java   |Plugin|Unavailable |Unknown                           |[](https://spigotmc.org/resources/35305)
