@@ -5,19 +5,14 @@ body:
 - type: textarea
   attributes:
     label: Bug Description
-    description: "What is the bug?"
+    description: "A clear and concise description of what the issue is."
     render: bash
   validations:
     required: true
 - type: textarea
   attributes:
     label: Reproduction steps
-    description: "How do you trigger this bug? Please walk us through it step by step."
-    value: |
-      1.
-      2.
-      3.
-      ...
+    description: "How do you trigger this bug?"
     render: bash
   validations:
     required: true
