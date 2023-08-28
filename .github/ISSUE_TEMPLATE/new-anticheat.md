@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-Anticheat name*
+**Anticheat name**
+What is the name of the anticheat?
