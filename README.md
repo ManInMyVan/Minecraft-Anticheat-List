@@ -4,7 +4,7 @@ A list of (public) Minecraft anticheats, for any version of Java Edition or Bedr
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*.
 
-## Number of anitcheats: 121
+## Number of anitcheats: 126
 
 ## Free:
 |Anticheat             |Edition|Platform  |Status      |Supported Versions                                                                         |Links|
@@ -42,6 +42,7 @@ WatchCat               |Java   |Bukkit    |Discontinued|1.8.8, 1.9.4, 1.10.2, 1.
 Wolf                   |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/18614)
 Bubble                 |Java   |Skript    |Discontinued|1.8 - 1.14                                                                                 |[SpigotMC](https://spigotmc.org/resources/78468)
 Guardian               |Java   |Skript    |Discontinued|1.8 - 1.10                                                                                 |[SpigotMC](https://spigotmc.org/resources/29264)
+Moonlight              |Bedrock|NukkitX   |Discontinued|1.19.20                                                                                    |[GitHub](https://github.com/disepi/Moonlight)
 Nukkit-AntiCheat       |Bedrock|NukkitX   |Discontinued|Unknown                                                                                    |[GitHub](https://github.com/WetABQ/Nukkit-AntiCheat)
 Pulse                  |Bedrock|Addon     |Discontinued|1.16.210+                                                                                  |[GitHub](https://github.com/Dream23322/Pulse-Anticheat)
 Shadow                 |Bedrock|PocketMine|Discontinued|Unknown                                                                                    |[GitHub](https://github.com/DarkWav/SAC)
@@ -65,12 +66,14 @@ Horizon                |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2, 1.13.2, 1
 Incognito              |Java   |Bukkit    |Unknown     |1.8 - 1.8.1, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16                                 |[Bukkit](https://dev.bukkit.org/projects/incognito)
 JightAntiC             |Java   |Bukkit    |Unknown     |1.8 - 1.17                                                                                 |[SpigotMC](https://spigotmc.org/resources/88154)
 Kauri                  |Java   |Bukkit    |Unknown     |1.7 - 1.16                                                                                 |[SpigotMC](https://spigotmc.org/resources/101667)
+KnockbackPlusPlus      |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[GitHub](https://github.com/hugo4715/KnockbackPlusPlus)
 KokuminAntiCheat       |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/7564)
 Medusa Lite            |Java   |Bukkit    |Unknown     |1.7 - 1.12.2                                                                               |[SpigotMC](https://spigotmc.org/resources/83345)
 Meme                   |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/12279)
 MinecraftAntiCheat     |Java   |Bukkit    |Unknown     |1.13 - 1.15.2                                                                              |[GitHub](https://github.com/network-dev/MinecraftAntiCheat)
 MineSecure Lite        |Java   |Bukkit    |Unknown     |1.8 - 1.11.2                                                                               |[SpigotMC](https://spigotmc.org/resources/11996)
 NESS Reloaded          |Java   |Bukkit    |Unknown     |1.8 - 1.17                                                                                 |[SpigotMC](https://spigotmc.org/resources/75887)
+MIU                    |Java   |Bukkit    |Unknown     |1.8                                                                                        |[GitHub](https://github.com/securitygab/MIU-AntiCheat-Minecraft)
 NeuralAntiCheat        |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[GitHub](https://github.com/MrF1yn/NAC)
 NoAutoFish             |Java   |Bukkit    |Unknown     |1.12.2                                                                                     |[GitHub](https://github.com/saltedfishclub/NoAutoFish)
 NoWeep                 |Java   |Bukkit    |Unknown     |1.4.7 - 1.8.4                                                                              |[SpigotMC](https://spigotmc.org/resources/6160)
