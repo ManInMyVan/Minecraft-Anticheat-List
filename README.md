@@ -72,6 +72,7 @@ MinecraftAntiCheat     |Java   |Bukkit    |Unknown     |1.13 - 1.15.2           
 MineSecure Lite        |Java   |Bukkit    |Unknown     |1.8 - 1.11.2                                                                               |[SpigotMC](https://spigotmc.org/resources/11996)
 NESS Reloaded          |Java   |Bukkit    |Unknown     |1.8 - 1.17                                                                                 |[SpigotMC](https://spigotmc.org/resources/75887)
 NeuralAntiCheat        |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[GitHub](https://github.com/MrF1yn/NAC)
+NoAutoFish             |Java   |Bukkit    |Unknown     |1.12.2                                                                                     |[GitHub](https://github.com/saltedfishclub/NoAutoFish)
 NoWeep                 |Java   |Bukkit    |Unknown     |1.4.7 - 1.8.4                                                                              |[SpigotMC](https://spigotmc.org/resources/6160)
 Observer               |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[GitHub](https://github.com/gabrielvicenteYT/Observer)
 Ocean                  |Java   |Bukkit    |Unknown     |1.13                                                                                       |[SpigotMC](https://spigotmc.org/resources/58907)
