@@ -7,21 +7,21 @@ Some of the following anticheats cost money. Please do not pirate these antichea
 ## Number of anitcheats: 126
 
 ## Free:
-|Anticheat             |Edition|Platform  |Status      |Supported Versions                                                                         |Links|
-|:--------------------:|:-----:|:--------:|:----------:|:-----------------------------------------------------------------------------------------:|:---:|
-FoxAddition            |Java   |Bukkit    |Active      |1.8 - 1.20.1                                                                               |[SpigotMC](https://spigotmc.org/resources/111260)
-Ghost                  |Java   |Bukkit    |Active      |1.7 - 1.20                                                                                 |[SpigotMC](https://spigotmc.org/resources/111084)
-LiteAntiCheat          |Java   |Bukkit    |Active      |1.13 - 1.20                                                                                |[SpigotMC](https://spigotmc.org/resources/112053)
-Negativity v1          |Java   |Bukkit    |Active      |1.8 - 1.20                                                                                 |[SpigotMC](https://spigotmc.org/resources/48399)
-Themis                 |Java   |Bukkit    |Active      |1.17 - 1.20.1                                                                              |[SpigotMC](https://spigotmc.org/resources/90766)
-Updated NoCheatPlus    |Java   |Bukkit    |Active      |Unknown                                                                                    |[GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus)
-zHack                  |Java   |Bukkit    |Active      |1.8.8                                                                                      |[Polymart](https://polymart.org/resource/460)
-Better Bubble          |Java   |Skript    |Active      |1.13 - 1.19.4                                                                              |[SpigotMC](https://spigotmc.org/resources/81404)
-Rubedo                 |Bedrock|Addon     |Active      |1.19.60+                                                                                   |[GitHub](https://github.com/smell-of-curry/rubedo)
-SafeGuard              |Bedrock|Addon     |Active      |1.19.50+                                                                                   |[GitHub](https://github.com/BlaizerBrumo/SafeGuard)
-Scythe                 |Bedrock|Addon     |Active      |1.20.10+                                                                                   |[GitHub](https://github.com/Scythe-Anticheat/Scythe-Anticheat)
-GK                     |Java   |Bukkit    |Inactive    |1.8 - 1.16                                                                                 |[Dedicated Site](https://gkanticheat.weebly.com/free.html), [SpigotMC](https://spigotmc.org/resources/75691)
-Hawk                   |Java   |Bukkit    |Inactive    |1.7.10, 1.8.8                                                                              |[SpigotMC](https://spigotmc.org/resources/40343)
+|Anticheat             |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links|
+|:--------------------:|:-----:|:--------:|:----------:|:-----------------------------------------------------------------------------------------:|:-------------------:|:---:|
+FoxAddition            |Java   |Bukkit    |Active      |1.8 - 1.20.1                                                                               |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/111260)
+Ghost                  |Java   |Bukkit    |Active      |1.7 - 1.20                                                                                 |**42%**, 15 ratings  |[SpigotMC](https://spigotmc.org/resources/111084)
+LiteAntiCheat          |Java   |Bukkit    |Active      |1.13 - 1.20                                                                                |**100%**, 6 ratings  |[SpigotMC](https://spigotmc.org/resources/112053)
+Negativity v1          |Java   |Bukkit    |Active      |1.8 - 1.20                                                                                 |**≈80%**, 150 ratings|[SpigotMC](https://spigotmc.org/resources/48399)
+Themis                 |Java   |Bukkit    |Active      |1.17 - 1.20.1                                                                              |**≈90%**, 78 ratings |[SpigotMC](https://spigotmc.org/resources/90766)
+Updated NoCheatPlus    |Java   |Bukkit    |Active      |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/Updated-NoCheatPlus/NoCheatPlus)
+zHack                  |Java   |Bukkit    |Active      |1.8.8                                                                                      |**100%**, 2 ratings  |[Polymart](https://polymart.org/resource/460)
+Better Bubble          |Java   |Skript    |Active      |1.13 - 1.19.4                                                                              |**90%**, 16 ratings  |[SpigotMC](https://spigotmc.org/resources/81404)
+Rubedo                 |Bedrock|Addon     |Active      |1.19.60+                                                                                   |Unknown              |[GitHub](https://github.com/smell-of-curry/rubedo)
+SafeGuard              |Bedrock|Addon     |Active      |1.19.50+                                                                                   |Unknown              |[GitHub](https://github.com/BlaizerBrumo/SafeGuard)
+Scythe                 |Bedrock|Addon     |Active      |1.20.10+                                                                                   |Unknown              |[GitHub](https://github.com/Scythe-Anticheat/Scythe-Anticheat)
+GK                     |Java   |Bukkit    |Inactive    |1.8 - 1.16                                                                                 |**≈90%**, 19 ratings |[Dedicated Site](https://gkanticheat.weebly.com/free.html), [SpigotMC](https://spigotmc.org/resources/75691)
+Hawk                   |Java   |Bukkit    |Inactive    |1.7.10, 1.8.8                                                                              |**≈90%**, 75 ratings |[SpigotMC](https://spigotmc.org/resources/40343)
 Wither                 |Java   |Bukkit    |Inactive    |1.13 - 1.16.5                                                                              |[SpigotMC](https://spigotmc.org/resources/68657)
 AntiCheatReloaded      |Java   |Bukkit    |Unmaintained|1.12.2 - 1.18.1                                                                            |[SpigotMC](https://spigotmc.org/resources/23799)
 Basic Anti-Cheat       |Java   |Bukkit    |Unmaintained|1.8.x, 1.12.x, 1.14.x                                                                      |[SpigotMC](https://spigotmc.org/resources/70455)
