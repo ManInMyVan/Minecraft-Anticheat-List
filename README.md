@@ -122,7 +122,7 @@ Wraith           |Java   |Bukkit    |Active      |1.8.8 - 1.20.1                
 Anticheat        |Java   |Bukkit    |Inactive    |1.7 - 1.8.9                       |[SpigotMC](https://spigotmc.org/resources/93504)
 GK               |Java   |Bukkit    |Inactive    |1.8 - 1.16                        |Unknown              |[Dedicated Site](https://gkanticheat.weebly.com/premium1.html)
 AntiAura v1      |Java   |Bukkit    |Discontinued|Unknown                           |[SpigotMC](https://spigotmc.org/resources/1368/update?update=10078)
-AAC              |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |[SpigotMC](https://spigotmc.org/resources/6442)
+AAC              |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |**≈80%**, 530 ratings|[SpigotMC](https://spigotmc.org/resources/6442), [Discord](https://discord.com/invite/uc9w2nx)
 AngelX           |Java   |Bukkit    |Unknown     |1.8, 1.19                         |**≈100%**, 40 ratings|[BuiltByBit](https://builtbybit.com/resources/10396)
 FAAC             |Java   |Bukkit    |Unknown     |1.8 - 1.14                        |Unknown              |[BuiltByBit](https://builtbybit.com/resources/17153)
 Intave           |Java   |Bukkit    |Unknown     |1.8 - 1.20                        |Unknown              |[Dedicated Site](https://intave.ac)
