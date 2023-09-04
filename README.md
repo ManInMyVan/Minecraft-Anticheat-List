@@ -42,7 +42,6 @@ WatchCat               |Java   |Bukkit    |Discontinued|1.8.8, 1.9.4, 1.10.2, 1.
 Wolf                   |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/18614)
 Bubble                 |Java   |Skript    |Discontinued|1.8 - 1.14                                                                                 |[SpigotMC](https://spigotmc.org/resources/78468)
 Guardian               |Java   |Skript    |Discontinued|1.8 - 1.10                                                                                 |[SpigotMC](https://spigotmc.org/resources/29264)
-Moonlight              |Bedrock|NukkitX   |Discontinued|1.19.20                                                                                    |[GitHub](https://github.com/disepi/Moonlight)
 Nukkit-AntiCheat       |Bedrock|NukkitX   |Discontinued|Unknown                                                                                    |[GitHub](https://github.com/WetABQ/Nukkit-AntiCheat)
 Pulse                  |Bedrock|Addon     |Discontinued|1.16.210+                                                                                  |[GitHub](https://github.com/Dream23322/Pulse-Anticheat)
 Shadow                 |Bedrock|PocketMine|Discontinued|Unknown                                                                                    |[GitHub](https://github.com/DarkWav/SAC)
@@ -108,6 +107,7 @@ LightAntiCheat         |Java   |Bukkit    |Unavailable |Unknown                 
 Raven                  |Java   |Bukkit    |Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/59105)
 Tesla                  |Java   |Bukkit    |Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/32239)
 Visage                 |Java   |Bukkit    |Unavailable |Unknown                                                                                    |[](https://spigotmc.org/resources/86757)
+Moonlight              |Bedrock|NukkitX   |Unavailable |1.19.20                                                                                    |[](https://github.com/disepi/Moonlight)
 ## Premium:
 |Anticheat       |Edition|Platform|Status      |Supported Versions                |Links|
 |:--------------:|:-----:|:------:|:----------:|:--------------------------------:|:---:|
