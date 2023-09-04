@@ -109,8 +109,8 @@ Tesla                  |Java   |Bukkit    |Unavailable |Unknown                 
 Visage                 |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/86757)
 Moonlight              |Bedrock|NukkitX   |Unavailable |1.19.20                                                                                    |Unknown              |[](https://github.com/disepi/Moonlight)
 ## Premium:
-|Anticheat       |Edition|Platform|Status      |Supported Versions                  |Rating|Links|
-|:--------------:|:-----:|:------:|:----------:|:----------------------------------:|:----:|:---:|
+|Anticheat       |Edition|Platform|Status      |Supported Versions                  |Rating               |Links|
+|:--------------:|:-----:|:------:|:----------:|:----------------------------------:|:-------------------:|:---:|
 AntiAura v2      |Java   |Bukkit    |Active      |1.8 - 1.19                        |[SpigotMC](https://spigotmc.org/resources/1368)
 AntiCheatAddition|Java   |Bukkit    |Active      |1.8, 1.12, 1.15 - 1.19            |[SpigotMC](https://spigotmc.org/resources/33590)
 Cardinal         |Java   |Bukkit    |Active      |1.8 - 1.20                        |[BuiltByBit](https://builtbybit.com/resources/26622)
@@ -120,24 +120,24 @@ Spartan          |Java   |Bukkit    |Active      |1.7 - 1.20                    
 Vulcan           |Java   |Bukkit    |Active      |1.7 - 1.20.1                      |[SpigotMC](https://spigotmc.org/resources/83626)
 Wraith           |Java   |Bukkit    |Active      |1.8.8 - 1.20.1                    |[SpigotMC](https://spigotmc.org/resources/66887)
 Anticheat        |Java   |Bukkit    |Inactive    |1.7 - 1.8.9                       |[SpigotMC](https://spigotmc.org/resources/93504)
-GK               |Java   |Bukkit    |Inactive    |1.8 - 1.16                        |Unknown|[Dedicated Site](https://gkanticheat.weebly.com/premium1.html)
+GK               |Java   |Bukkit    |Inactive    |1.8 - 1.16                        |Unknown              |[Dedicated Site](https://gkanticheat.weebly.com/premium1.html)
 AntiAura v1      |Java   |Bukkit    |Discontinued|Unknown                           |[SpigotMC](https://spigotmc.org/resources/1368/update?update=10078)
 AAC              |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |[SpigotMC](https://spigotmc.org/resources/6442)
-AngelX           |Java   |Bukkit    |Unknown     |1.8, 1.19                         |[BuiltByBit](https://builtbybit.com/resources/10396)
-FAAC             |Java   |Bukkit    |Unknown     |1.8 - 1.14                        |[BuiltByBit](https://builtbybit.com/resources/17153)
-Intave           |Java   |Bukkit    |Unknown     |1.8 - 1.20                        |Unknown|[Dedicated Site](https://intave.ac)
-JI Janitor       |Java   |Bukkit    |Unknown     |1.7 - 1.13.2                      |[BuiltByBit](https://builtbybit.com/resources/2442)
-Karhu            |Java   |Bukkit    |Unknown     |1.8 - 1.18                        |Unknown|[Dedicated Site](https://karhu.ac)
-Matrix           |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2 - 1.19              |[BuiltByBit](https://builtbybit.com/resources/13999)
-Polar            |Java   |Bukkit    |Unknown     |1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1|Unknown|[Dedicated Site](https://polar.top)
-Taka             |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |[SpigotMC](https://spigotmc.org/resources/45167)
-UltraAC          |Java   |Bukkit    |Unknown     |Unknown                           |[BuiltByBit](https://builtbybit.com/resources/13413)
-Verus            |Java   |Bukkit    |Unknown     |1.7 - 1.19.4                      |Unknown|[Dedicated Site](https://verus.ac)
-XAntiCheat       |Java   |Bukkit    |Unknown     |Unknown                           |[BuiltByBit](https://builtbybit.com/resources/2802)
-Alice            |Java   |Bukkit    |Unavailable |Unknown                           |Unknown|[](https://spigotmc.org/resources/89139)
-DakataAntiCheat  |Java   |Bukkit    |Unavailable |Unknown                           |Unknown|[](https://spigotmc.org/resources/26911)
-MineSecure       |Java   |Bukkit    |Unavailable |Unknown                           |Unknown|[](https://spigotmc.org/resources/35305)
-Reflex           |Java   |Bukkit    |Unavailable |Unknown                           |Unknown|[](https://spigotmc.org/resources/21122)
+AngelX           |Java   |Bukkit    |Unknown     |1.8, 1.19                         |**≈100%**, 40 ratings|[BuiltByBit](https://builtbybit.com/resources/10396)
+FAAC             |Java   |Bukkit    |Unknown     |1.8 - 1.14                        |Unknown              |[BuiltByBit](https://builtbybit.com/resources/17153)
+Intave           |Java   |Bukkit    |Unknown     |1.8 - 1.20                        |Unknown              |[Dedicated Site](https://intave.ac)
+JI Janitor       |Java   |Bukkit    |Unknown     |1.7 - 1.13.2                      |**≈100%**, 48 ratings|[BuiltByBit](https://builtbybit.com/resources/2442)
+Karhu            |Java   |Bukkit    |Unknown     |1.8 - 1.18                        |Unknown              |[Dedicated Site](https://karhu.ac)
+Matrix           |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2 - 1.19              |**≈100%**, 50 ratings|[BuiltByBit](https://builtbybit.com/resources/13999)
+Polar            |Java   |Bukkit    |Unknown     |1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1|Unknown              |[Dedicated Site](https://polar.top)
+Taka             |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |**≈70%**, 35 ratings |[SpigotMC](https://spigotmc.org/resources/45167)
+UltraAC          |Java   |Bukkit    |Unknown     |Unknown                           |**80%**, 4 ratings   |[BuiltByBit](https://builtbybit.com/resources/13413)
+Verus            |Java   |Bukkit    |Unknown     |1.7 - 1.19.4                      |Unknown              |[Dedicated Site](https://verus.ac)
+XAntiCheat       |Java   |Bukkit    |Unknown     |Unknown                           |**80%**, 2 ratings   |[BuiltByBit](https://builtbybit.com/resources/2802)
+Alice            |Java   |Bukkit    |Unavailable |Unknown                           |Unknown              |[](https://spigotmc.org/resources/89139)
+DakataAntiCheat  |Java   |Bukkit    |Unavailable |Unknown                           |Unknown              |[](https://spigotmc.org/resources/26911)
+MineSecure       |Java   |Bukkit    |Unavailable |Unknown                           |Unknown              |[](https://spigotmc.org/resources/35305)
+Reflex           |Java   |Bukkit    |Unavailable |Unknown                           |Unknown              |[](https://spigotmc.org/resources/21122)
 
 *see an anticheat not on the list, discontinued/undiscontinued, want to make a improvement to the list, or see something wrong with it? Open an issue or pull request about it.*
 
