@@ -61,13 +61,25 @@ body:
 - type: input
   attributes:
     label: Versions
-    description: "What versions do the anticheat support (if discontinued, use last supported versions)?"
+    description: "What versions does the anticheat support (if discontinued, use last supported versions)?"
   validations:
     required: true
 - type: textarea
   attributes:
     label: Links
     description: "What official links can be used to obtain the anticheat? (Do not use direct download links)"
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Rating Percentage
+    description: "What is the anticheats rating as a percentage?"
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Number of ratings
+    description: "How many ratings does the anticheats have?"
   validations:
     required: true
 - type: checkboxes
