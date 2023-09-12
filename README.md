@@ -24,7 +24,7 @@ Scythe                 |Bedrock|Addon     |Active      |1.20.10+                
 GK                     |Java   |Bukkit    |Inactive    |1.8 - 1.16                                                                                 |**≈90%**, 19 ratings |[Dedicated Site](https://gkanticheat.weebly.com/free.html), [SpigotMC](https://spigotmc.org/resources/75691)
 Hawk                   |Java   |Bukkit    |Inactive    |1.7.10, 1.8.8                                                                              |**≈90%**, 75 ratings |[SpigotMC](https://spigotmc.org/resources/40343)
 Wither                 |Java   |Bukkit    |Inactive    |1.13 - 1.16.5                                                                              |**≈80%**, 99 ratings |[SpigotMC](https://spigotmc.org/resources/68657)
-AntiCheatReloaded      |Java   |Bukkit    |Unmaintained|1.12.2 - 1.18.1                                                                            |[SpigotMC](https://spigotmc.org/resources/23799)
+AntiCheatReloaded      |Java   |Bukkit    |Unmaintained|1.12.2 - 1.18.1                                                                            |**≈70%**, 123 ratings|[SpigotMC](https://spigotmc.org/resources/23799)
 Basic Anti-Cheat       |Java   |Bukkit    |Unmaintained|1.8.x, 1.12.x, 1.14.x                                                                      |[SpigotMC](https://spigotmc.org/resources/70455)
 AutoEye                |Java   |Bukkit    |Discontinued|1.7 - 1.12                                                                                 |[SpigotMC](https://spigotmc.org/resources/54046)
 Cenix                  |Java   |Bukkit    |Discontinued|1.13 - 1.14                                                                                |[SpigotMC](https://spigotmc.org/resources/59292)
@@ -112,11 +112,11 @@ Moonlight              |Bedrock|NukkitX   |Unavailable |1.19.20                 
 ## Premium:
 |Anticheat       |Edition|Platform|Status        |Supported Versions                |Rating                |Links|
 |:--------------:|:-----:|:------:|:------------:|:--------------------------------:|:--------------------:|:---:|
-AntiAura v2      |Java   |Bukkit    |Active      |1.8 - 1.19                        |[SpigotMC](https://spigotmc.org/resources/1368)
-AntiCheatAddition|Java   |Bukkit    |Active      |1.8, 1.12, 1.15 - 1.19            |[SpigotMC](https://spigotmc.org/resources/33590)
-Cardinal         |Java   |Bukkit    |Active      |1.8 - 1.20                        |[BuiltByBit](https://builtbybit.com/resources/26622)
-GodsEye          |Java   |Bukkit    |Active      |1.8 - 1.19                        |[SpigotMC](https://spigotmc.org/resources/69595)
-Negativity v2    |Java   |Bukkit    |Active      |1.8 - 1.20                        |[SpigotMC](https://spigotmc.org/resources/86874)
+AntiAura v2      |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈80%**, 353 ratings  |[SpigotMC](https://spigotmc.org/resources/1368)
+AntiCheatAddition|Java   |Bukkit    |Active      |1.8, 1.12, 1.15 - 1.19            |**≈90%**, 48 ratings  |[SpigotMC](https://spigotmc.org/resources/33590)
+Cardinal         |Java   |Bukkit    |Active      |1.8 - 1.20                        |**100%**, 3 ratings   |[BuiltByBit](https://builtbybit.com/resources/26622)
+GodsEye          |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈90%**, 77 ratings  |[SpigotMC](https://spigotmc.org/resources/69595)
+Negativity v2    |Java   |Bukkit    |Active      |1.8 - 1.20                        |**84%**, 18 ratings   |[SpigotMC](https://spigotmc.org/resources/86874)
 Spartan          |Java   |Bukkit    |Active      |1.7 - 1.20                        |**≈100%**, 641 ratings|[SpigotMC](https://spigotmc.org/resources/25638)
 Vulcan           |Java   |Bukkit    |Active      |1.7 - 1.20.1                      |**≈100%**, 302 ratings|[SpigotMC](https://spigotmc.org/resources/83626)
 Wraith           |Java   |Bukkit    |Active      |1.8.8 - 1.20.1                    |**≈70%**, 40 ratings  |[SpigotMC](https://spigotmc.org/resources/66887)
