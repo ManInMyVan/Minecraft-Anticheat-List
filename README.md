@@ -8,11 +8,11 @@ Some of the following anticheats cost money. Please do not pirate these antichea
 ## Number of anitcheats: 126
 
 ## Free:
-|Anticheat             |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links|
-|:--------------------:|:-----:|:--------:|:----------:|:-----------------------------------------------------------------------------------------:|:-------------------:|:---:|
+Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
+:---------------------:|:-----:|:--------:|:----------:|:-----------------------------------------------------------------------------------------:|:-------------------:|:-:
 FoxAddition            |Java   |Bukkit    |Active      |1.8 - 1.20.1                                                                               |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/111260)
 Ghost                  |Java   |Bukkit    |Active      |1.7 - 1.20                                                                                 |**42%**, 15 ratings  |[SpigotMC](https://spigotmc.org/resources/111084)
-Grim                   |Java   |Bukkit    |Active      |1.8, 1.12, 1.16 - 1.20                                                                     |[SpigotMC](https://spigotmc.org/resources/99923)
+Grim                   |Java   |Bukkit    |Active      |1.8, 1.12, 1.16 - 1.20                                                                     |**≈90%**, 152 ratings|[SpigotMC](https://spigotmc.org/resources/99923)
 LiteAntiCheat          |Java   |Bukkit    |Active      |1.13 - 1.20                                                                                |**100%**, 6 ratings  |[SpigotMC](https://spigotmc.org/resources/112053)
 Negativity v1          |Java   |Bukkit    |Active      |1.8 - 1.20                                                                                 |**≈80%**, 150 ratings|[SpigotMC](https://spigotmc.org/resources/48399)
 Themis                 |Java   |Bukkit    |Active      |1.17 - 1.20.1                                                                              |**≈90%**, 78 ratings |[SpigotMC](https://spigotmc.org/resources/90766)
@@ -110,8 +110,8 @@ Tesla                  |Java   |Bukkit    |Unavailable |Unknown                 
 Visage                 |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/86757)
 Moonlight              |Bedrock|NukkitX   |Unavailable |1.19.20                                                                                    |Unknown              |[](https://github.com/disepi/Moonlight)
 ## Premium:
-|Anticheat       |Edition|Platform|Status        |Supported Versions                |Rating                |Links|
-|:--------------:|:-----:|:------:|:------------:|:--------------------------------:|:--------------------:|:---:|
+Anticheat       |Edition|Platform|Status        |Supported Versions                |Rating                |Links
+:--------------:|:-----:|:------:|:------------:|:--------------------------------:|:--------------------:|:-:
 AntiAura v2      |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈80%**, 353 ratings  |[SpigotMC](https://spigotmc.org/resources/1368)
 AntiCheatAddition|Java   |Bukkit    |Active      |1.8, 1.12, 1.15 - 1.19            |**≈90%**, 48 ratings  |[SpigotMC](https://spigotmc.org/resources/33590)
 Cardinal         |Java   |Bukkit    |Active      |1.8 - 1.20                        |**100%**, 3 ratings   |[BuiltByBit](https://builtbybit.com/resources/26622)
@@ -142,8 +142,8 @@ Reflex           |Java   |Bukkit    |Unavailable |Unknown                       
 
 *see an anticheat not on the list, discontinued/undiscontinued, want to make a improvement to the list, or see something wrong with it? Open an issue or pull request about it.*
 
-|Value            |Description                                                  |Possible Values|
-|:---------------:|:-----------------------------------------------------------:|:-------------:|
+Value             |Description                                                  |Possible Values
+:----------------:|:-----------------------------------------------------------:|:-:
 Anticheat         |Name of The Anticheat                                        |
 Edition           |The edition of the game the anticheat is on                  |Java, Bedrock
 Platform          |How the anticheat runs                                       |Bukkit, Sponge, Fabric, Forge, Skript, Datapack, NukkitX, Addon, PocketMine
