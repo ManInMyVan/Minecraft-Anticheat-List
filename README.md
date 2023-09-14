@@ -10,6 +10,7 @@ Some of the following anticheats cost money. Please do not pirate these antichea
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
 :---------------------:|:-----:|:--------:|:----------:|:-----------------------------------------------------------------------------------------:|:-------------------:|:-:
+AntiHaxerman           |Java   |Bukkit    |Active      |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/83198)
 FoxAddition            |Java   |Bukkit    |Active      |1.8 - 1.20.1                                                                               |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/111260)
 Ghost                  |Java   |Bukkit    |Active      |1.7 - 1.20                                                                                 |**42%**, 15 ratings  |[SpigotMC](https://spigotmc.org/resources/111084)
 Grim                   |Java   |Bukkit    |Active      |1.8, 1.12, 1.16 - 1.20                                                                     |**≈90%**, 152 ratings|[SpigotMC](https://spigotmc.org/resources/99923)
@@ -47,7 +48,6 @@ Nukkit-AntiCheat       |Bedrock|NukkitX   |Discontinued|Unknown                 
 Pulse                  |Bedrock|Addon     |Discontinued|1.16.210+                                                                                  |Unknown              |[GitHub](https://github.com/Dream23322/Pulse-Anticheat)
 Shadow                 |Bedrock|PocketMine|Discontinued|Unknown                                                                                    |Unknown              |[GitHub](https://github.com/DarkWav/SAC)
 AntiCheatPlus          |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[SpigotMC](https://spigotmc.org/resources/2714)
-AntiHaxerman           |Java   |Bukkit    |Unknown     |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/83198)
 Arc                    |Java   |Bukkit    |Unknown     |1.8, 1.12, 1.16, 1.17                                                                      |Unknown              |[GitHub](https://github.com/Vrekt/Arc)
 Arc v2                 |Java   |Bukkit    |Unknown     |1.7.10 - 1.8.8                                                                             |Unknown              |[GitHub](https://github.com/Vrekt/Arc-v2)
 Artemis                |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[Discord](https://discord.gg/hdRt4Qh)
