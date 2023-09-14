@@ -12,6 +12,7 @@ Some of the following anticheats cost money. Please do not pirate these antichea
 |:--------------------:|:-----:|:--------:|:----------:|:-----------------------------------------------------------------------------------------:|:-------------------:|:---:|
 FoxAddition            |Java   |Bukkit    |Active      |1.8 - 1.20.1                                                                               |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/111260)
 Ghost                  |Java   |Bukkit    |Active      |1.7 - 1.20                                                                                 |**42%**, 15 ratings  |[SpigotMC](https://spigotmc.org/resources/111084)
+Grim                   |Java   |Bukkit    |Active      |1.8, 1.12, 1.16 - 1.20                                                                     |[SpigotMC](https://spigotmc.org/resources/99923)
 LiteAntiCheat          |Java   |Bukkit    |Active      |1.13 - 1.20                                                                                |**100%**, 6 ratings  |[SpigotMC](https://spigotmc.org/resources/112053)
 Negativity v1          |Java   |Bukkit    |Active      |1.8 - 1.20                                                                                 |**≈80%**, 150 ratings|[SpigotMC](https://spigotmc.org/resources/48399)
 Themis                 |Java   |Bukkit    |Active      |1.17 - 1.20.1                                                                              |**≈90%**, 78 ratings |[SpigotMC](https://spigotmc.org/resources/90766)
@@ -28,7 +29,6 @@ AntiCheatReloaded      |Java   |Bukkit    |Unmaintained|1.12.2 - 1.18.1         
 Basic Anti-Cheat       |Java   |Bukkit    |Unmaintained|1.8.x, 1.12.x, 1.14.x                                                                      |[SpigotMC](https://spigotmc.org/resources/70455)
 AutoEye                |Java   |Bukkit    |Discontinued|1.7 - 1.12                                                                                 |[SpigotMC](https://spigotmc.org/resources/54046)
 Cenix                  |Java   |Bukkit    |Discontinued|1.13 - 1.14                                                                                |[SpigotMC](https://spigotmc.org/resources/59292)
-Grim                   |Java   |Bukkit    |Discontinued|1.8, 1.12, 1.16 - 1.20                                                                     |[SpigotMC](https://spigotmc.org/resources/99923)
 Hades                  |Java   |Bukkit    |Discontinued|1.7 - 1.15                                                                                 |Unknown              |[GitHub](https://github.com/Tecnio/Hades)
 Kizuki                 |Java   |Bukkit    |Discontinued|1.8.8, 1.12.2                                                                              |[SpigotMC](https://spigotmc.org/resources/90468)
 LionGuard              |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/67207)
