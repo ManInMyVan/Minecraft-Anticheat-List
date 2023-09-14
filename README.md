@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anitcheats: 126
+## Number of anitcheats: 127
 
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -76,6 +76,7 @@ NESS Reloaded          |Java   |Bukkit    |Unknown     |1.8 - 1.17              
 MIU                    |Java   |Bukkit    |Unknown     |1.8                                                                                        |Unknown              |[GitHub](https://github.com/securitygab/MIU-AntiCheat-Minecraft)
 NeuralAntiCheat        |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/MrF1yn/NAC)
 NoAutoFish             |Java   |Bukkit    |Unknown     |1.12.2                                                                                     |Unknown              |[GitHub](https://github.com/saltedfishclub/NoAutoFish)
+Nova                   |Java   |Bukkit    |Unknown     |1.8                                                                                        |**100%**, 1 rating   |[SpigotMC](https://spigotmc.org/resources/104723)
 NoWeep                 |Java   |Bukkit    |Unknown     |1.4.7 - 1.8.4                                                                              |**68%**, 12 ratings  |[SpigotMC](https://spigotmc.org/resources/6160)
 Observer               |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/gabrielvicenteYT/Observer)
 Ocean                  |Java   |Bukkit    |Unknown     |1.13                                                                                       |**50%**, 2 ratings   |[SpigotMC](https://spigotmc.org/resources/58907)
