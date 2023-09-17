@@ -61,7 +61,7 @@ body:
 - type: input
   attributes:
     label: Versions
-    description: "What versions does the anticheat support (if discontinued, use last supported versions)?"
+    description: "What Minecraft versions does the anticheat support (if discontinued, use last supported versions)?"
   validations:
     required: true
 - type: textarea
