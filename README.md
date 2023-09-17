@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anitcheats: 127
+## Number of anitcheats: 128
 
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -80,6 +80,7 @@ Nova                   |Java   |Bukkit    |Unknown     |1.8                     
 NoWeep                 |Java   |Bukkit    |Unknown     |1.4.7 - 1.8.4                                                                              |**68%**, 12 ratings  |[SpigotMC](https://spigotmc.org/resources/6160)
 Observer               |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/gabrielvicenteYT/Observer)
 Ocean                  |Java   |Bukkit    |Unknown     |1.13                                                                                       |**50%**, 2 ratings   |[SpigotMC](https://spigotmc.org/resources/58907)
+Oneesan                |Unknown|Unknown   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/furyzen/Oneesan)
 Pandora                |Java   |Bukkit    |Unknown     |1.8 - 1.16                                                                                 |Unknown              |[GitHub](https://github.com/GoDead/Pandora)
 Phoenix                |Java   |Bukkit    |Unknown     |1.7 - 1.13                                                                                 |[SpigotMC](https://spigotmc.org/resources/6207)
 Phantom                |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/3001)
