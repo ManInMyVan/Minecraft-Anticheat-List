@@ -10,7 +10,7 @@ Some of the following anticheats cost money. Please do not pirate these antichea
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
 :---------------------:|:-----:|:--------:|:----------:|:-----------------------------------------------------------------------------------------:|:-------------------:|:-:
-AntiHaxerman           |Java   |Bukkit    |Active      |1.7 - 1.8                                                                                  |[SpigotMC](https://spigotmc.org/resources/83198)
+AntiHaxerman           |Java   |Bukkit    |Active      |1.7 - 1.8                                                                                  |**≈90%**, 41 ratings |[SpigotMC](https://spigotmc.org/resources/83198)
 FoxAddition            |Java   |Bukkit    |Active      |1.8 - 1.20.1                                                                               |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/111260)
 Ghost                  |Java   |Bukkit    |Active      |1.7 - 1.20                                                                                 |**42%**, 15 ratings  |[SpigotMC](https://spigotmc.org/resources/111084)
 Grim                   |Java   |Bukkit    |Active      |1.8, 1.12, 1.16 - 1.20                                                                     |**≈90%**, 152 ratings|[SpigotMC](https://spigotmc.org/resources/99923)
@@ -47,6 +47,7 @@ Guardian               |Java   |Skript    |Discontinued|1.8 - 1.10              
 Nukkit-AntiCheat       |Bedrock|NukkitX   |Discontinued|Unknown                                                                                    |Unknown              |[GitHub](https://github.com/WetABQ/Nukkit-AntiCheat)
 Pulse                  |Bedrock|Addon     |Discontinued|1.16.210+                                                                                  |Unknown              |[GitHub](https://github.com/Dream23322/Pulse-Anticheat)
 Shadow                 |Bedrock|PocketMine|Discontinued|Unknown                                                                                    |Unknown              |[GitHub](https://github.com/DarkWav/SAC)
+AntiBhop               |Java   |Bukkit    |Unknown     |1.7 - 1.16                                                                                 |**87.5%**, 8 ratings |[SpigotMC](https://spigotmc.org/resources/83054)
 AntiCheatPlus          |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[SpigotMC](https://spigotmc.org/resources/2714)
 Arc                    |Java   |Bukkit    |Unknown     |1.8, 1.12, 1.16, 1.17                                                                      |Unknown              |[GitHub](https://github.com/Vrekt/Arc)
 Arc v2                 |Java   |Bukkit    |Unknown     |1.7.10 - 1.8.8                                                                             |Unknown              |[GitHub](https://github.com/Vrekt/Arc-v2)
@@ -85,7 +86,7 @@ Pandora                |Java   |Bukkit    |Unknown     |1.8 - 1.16              
 Phoenix                |Java   |Bukkit    |Unknown     |1.7 - 1.13                                                                                 |[SpigotMC](https://spigotmc.org/resources/6207)
 Phantom                |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/3001)
 Proton                 |Java   |Bukkit    |Unknown     |1.8                                                                                        |Unknown              |[GitHub](https://github.com/GoDead/proton-anticheat)
-SafeguardAC            |Java   |Unknown   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/terminalsin/SafeguardAC4
+SafeguardAC            |Java   |Unknown   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/terminalsin/SafeguardAC)
 Shade                  |Java   |Bukkit    |Unknown     |1.8                                                                                        |[BuiltByBit](https://builtbybit.com/resources/22596)
 Storm                  |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/16353)
 Vagmemes               |Java   |Bukkit    |Unknown     |1.8.8                                                                                      |[SpigotMC](https://spigotmc.org/resources/57080)
