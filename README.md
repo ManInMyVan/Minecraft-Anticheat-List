@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anitcheats: 128
+## Number of anitcheats: 130
 
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -85,6 +85,7 @@ Pandora                |Java   |Bukkit    |Unknown     |1.8 - 1.16              
 Phoenix                |Java   |Bukkit    |Unknown     |1.7 - 1.13                                                                                 |[SpigotMC](https://spigotmc.org/resources/6207)
 Phantom                |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/3001)
 Proton                 |Java   |Bukkit    |Unknown     |1.8                                                                                        |Unknown              |[GitHub](https://github.com/GoDead/proton-anticheat)
+SafeguardAC            |Java   |Unknown   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/terminalsin/SafeguardAC4
 Shade                  |Java   |Bukkit    |Unknown     |1.8                                                                                        |[BuiltByBit](https://builtbybit.com/resources/22596)
 Storm                  |Java   |Bukkit    |Unknown     |Unknown                                                                                    |[BuiltByBit](https://builtbybit.com/resources/16353)
 Vagmemes               |Java   |Bukkit    |Unknown     |1.8.8                                                                                      |[SpigotMC](https://spigotmc.org/resources/57080)
@@ -96,25 +97,26 @@ NoCheatMinus           |Java   |Datapack  |Unknown     |1.20+                   
 WAntiCheatPro          |Bedrock|NukkitX   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/WetABQ/WAntiCheatPro)
 ShallowAC              |Bedrock|Addon     |Unknown     |1.16.0+                                                                                    |Unknown              |[GitHub](https://github.com/Shall0e/ShallowAC)
 ABC                    |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/91606)
+AntiFlyPlus            |Java   |Bukkit    |Unavailable |1.13 - 1.14                                                                                |Unknown              |[](https://spigotmc.org/resources/66144)
 Axolotl Cheat Detector |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/94326)
-BayMax                 |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/43972)
+BayMax                 |Java   |Bukkit    |Unavailable |1.8 - 1.12                                                                                 |Unknown              |[](https://spigotmc.org/resources/43972)
 CombatAnalyzer         |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/85220)
-Daedalus               |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/56953)
+Daedalus               |Java   |Bukkit    |Unavailable |1.7 - 1.12.2                                                                               |Unknown              |[](https://spigotmc.org/resources/56953)
 Dreya                  |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/64193)
 eFlame                 |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/17071)
 Exodus                 |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/51016)
 Jinx                   |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/68930)
-NoCombatHacks          |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/28159)
+NoCombatHacks          |Java   |Skript    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/28159)
 NOPE Anticheat         |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/64671)
 LightAntiCheat         |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/96341)
 Raven                  |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/59105)
-Tesla                  |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/32239)
+TeslaAntiCheat         |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/32239)
 Visage                 |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/86757)
 Moonlight              |Bedrock|NukkitX   |Unavailable |1.19.20                                                                                    |Unknown              |[](https://github.com/disepi/Moonlight)
 ## Premium:
 Anticheat       |Edition|Platform|Status        |Supported Versions                |Rating                |Links
-:--------------:|:-----:|:------:|:------------:|:--------------------------------:|:--------------------:|:-:
-AntiAura v2      |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈80%**, 353 ratings  |[SpigotMC](https://spigotmc.org/resources/1368)
+:---------------:|:-----:|:------:|:------------:|:--------------------------------:|:--------------------:|:-:
+AntiAura v2      |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈80%**, 353 ratings |[SpigotMC](https://spigotmc.org/resources/1368)
 AntiCheatAddition|Java   |Bukkit    |Active      |1.8, 1.12, 1.15 - 1.19            |**≈90%**, 48 ratings  |[SpigotMC](https://spigotmc.org/resources/33590)
 Cardinal         |Java   |Bukkit    |Active      |1.8 - 1.20                        |**100%**, 3 ratings   |[BuiltByBit](https://builtbybit.com/resources/26622)
 GodsEye          |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈90%**, 77 ratings  |[SpigotMC](https://spigotmc.org/resources/69595)
@@ -133,7 +135,7 @@ JI Janitor       |Java   |Bukkit    |Unknown     |1.7 - 1.13.2                  
 Karhu            |Java   |Bukkit    |Unknown     |1.8 - 1.18                        |Unknown               |[Dedicated Site](https://karhu.ac)
 Matrix           |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2 - 1.19              |**≈100%**, 50 ratings |[BuiltByBit](https://builtbybit.com/resources/13999)
 Polar            |Java   |Bukkit    |Unknown     |1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1|Unknown               |[Dedicated Site](https://polar.top)
-Taka             |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |**≈70%**, 35 ratings  |[SpigotMC](https://spigotmc.org/resources/45167)
+TakaAntiCheat    |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |**≈70%**, 35 ratings  |[SpigotMC](https://spigotmc.org/resources/45167)
 UltraAC          |Java   |Bukkit    |Unknown     |Unknown                           |**80%**, 4 ratings    |[BuiltByBit](https://builtbybit.com/resources/13413)
 Verus            |Java   |Bukkit    |Unknown     |1.7 - 1.19.4                      |Unknown               |[Dedicated Site](https://verus.ac)
 XAntiCheat       |Java   |Bukkit    |Unknown     |Unknown                           |**80%**, 2 ratings    |[BuiltByBit](https://builtbybit.com/resources/2802)
