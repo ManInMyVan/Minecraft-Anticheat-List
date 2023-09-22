@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anitcheats: 132
+## Number of anticheats: 134
 
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -26,7 +26,7 @@ Scythe                 |Bedrock|Addon     |Active      |1.20.10+                
 GK                     |Java   |Bukkit    |Inactive    |1.8 - 1.16                                                                                 |**≈90%**, 19 ratings |[Dedicated Site](https://gkanticheat.weebly.com/free.html), [SpigotMC](https://spigotmc.org/resources/75691)
 Hawk                   |Java   |Bukkit    |Inactive    |1.7.10, 1.8.8                                                                              |**≈90%**, 75 ratings |[SpigotMC](https://spigotmc.org/resources/40343)
 Wither                 |Java   |Bukkit    |Inactive    |1.13 - 1.16.5                                                                              |**≈80%**, 99 ratings |[SpigotMC](https://spigotmc.org/resources/68657)
-AntiCheatReloaded      |Java   |Bukkit    |Unmaintained|1.12.2 - 1.18.1                                                                            |**≈70%**, 123 ratings|[SpigotMC](https://spigotmc.org/resources/23799)
+AntiCheatReloaded      |Java   |Bukkit    |Unmaintained|1.12.2 - 1.18.1                                                                            |**≈70%**, 123 ratings|[SpigotMC](https://spigotmc.org/resources/23799), [Bukkit](https://dev.bukkit.org/projects/anticheatreloaded)
 Basic Anti-Cheat       |Java   |Bukkit    |Unmaintained|1.8.x, 1.12.x, 1.14.x                                                                      |**≈60%**, 25 ratings |[SpigotMC](https://spigotmc.org/resources/70455)
 AutoEye                |Java   |Bukkit    |Discontinued|1.7 - 1.12                                                                                 |**≈90%**, 64 ratings |[SpigotMC](https://spigotmc.org/resources/54046)
 Cenix                  |Java   |Bukkit    |Discontinued|1.13 - 1.14                                                                                |**90%**, 6 ratings   |[SpigotMC](https://spigotmc.org/resources/59292)
@@ -55,10 +55,11 @@ Arc v2                 |Java   |Bukkit    |Unknown     |1.7.10 - 1.8.8          
 Artemis                |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[Discord](https://discord.gg/hdRt4Qh)
 Argus                  |Java   |Bukkit    |Unknown     |1.7.10                                                                                     |Unknown              |[GitHub](https://github.com/Y4nN0xX/Argus-Anticheat-minecraft-1.7.10-Paladium)
 BadPacket              |Java   |Bukkit    |Unknown     |1.7.10 - 1.9                                                                               |**100%**, 1 ratings  |[BuiltByBit](https://builtbybit.com/resources/14236)
+Blitz AntiCheat        |Java   |Bukkit    |Unknown     |1.8, 1.9                                                                                   |Unknown              |[Bukkit](https://dev.bukkit.org/projects/blitz-anticheat)
 Cava                   |Java   |Bukkit    |Unknown     |1.19                                                                                       |**100%**, 4 ratings  |[SpigotMC](https://spigotmc.org/resources/102867)
 Cheese                 |Java   |Bukkit    |Unknown     |1.8                                                                                        |**63.33%**, 5 ratings|[BuiltByBit](https://builtbybit.com/resources/21664)
 EdgeAC                 |Java   |Bukkit    |Unknown     |1.18.2                                                                                     |Unknown              |[GitHub](https://github.com/TypicalModMaker/EdgeAC)
-Flappy                 |Java   |Bukkit    |Unknown     |1.13 - 1.17                                                                                |**≈80%**, 21 ratings |[SpigotMC](https://spigotmc.org/resources/92180)
+Flappy                 |Java   |Bukkit    |Unknown     |1.13 - 1.17                                                                                |**≈80%**, 21 ratings |[SpigotMC](https://spigotmc.org/resources/92180), [Bukkit](https://dev.bukkit.org/projects/flappy-anticheat-1-16-1-17)
 FlopAC                 |Java   |Bukkit    |Unknown     |1.7 - 1.18.2                                                                               |Unknown              |[GitHub](https://github.com/JTXOfficial/FlopAC)
 Flux                   |Java   |Bukkit    |Unknown     |1.8                                                                                        |Unknown              |[BuiltByBit](https://builtbybit.com/resources/29788)
 Foxbite                |Java   |Bukkit    |Unknown     |1.18                                                                                       |Unknown              |[GitHub](https://github.com/Foxikle/FoxBite)
@@ -67,6 +68,7 @@ HackDetective          |Java   |Bukkit    |Unknown     |Unknown                 
 Horizon                |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2, 1.13.2, 1.14.2 - 1.14.4                                                     |**≈80%**, 92 ratings |[SpigotMC](https://spigotmc.org/resources/65830)
 Incognito              |Java   |Bukkit    |Unknown     |1.8 - 1.8.1, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16                                 |Unknown              |[Bukkit](https://dev.bukkit.org/projects/incognito)
 JightAntiC             |Java   |Bukkit    |Unknown     |1.8 - 1.17                                                                                 |**20%**, 1 rating    |[SpigotMC](https://spigotmc.org/resources/88154)
+KasAnticheat           |Java   |Bukkit    |Unknown     |1.10, 1.11, 1.12                                                                           |Unknown              |[Bukkit](https://dev.bukkit.org/projects/kasanticheat)
 Kauri                  |Java   |Bukkit    |Unknown     |1.7 - 1.16                                                                                 |**≈70%**, 17 ratings |[SpigotMC](https://spigotmc.org/resources/101667)
 KnockbackPlusPlus      |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/hugo4715/KnockbackPlusPlus)
 Medusa Lite            |Java   |Bukkit    |Unknown     |1.7 - 1.12.2                                                                               |**≈90%**, 32 ratings |[SpigotMC](https://spigotmc.org/resources/83345)
