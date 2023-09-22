@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anitcheats: 131
+## Number of anitcheats: 132
 
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
