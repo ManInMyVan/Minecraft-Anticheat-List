@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 135
+## Number of anticheats: 136
 
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -137,6 +137,7 @@ Intave           |Java   |Bukkit    |Unknown     |1.8 - 1.20                    
 JI Janitor       |Java   |Bukkit    |Unknown     |1.7 - 1.13.2                      |**≈100%**, 48 ratings |[BuiltByBit](https://builtbybit.com/resources/2442)
 Karhu            |Java   |Bukkit    |Unknown     |1.8 - 1.18                        |Unknown               |[Dedicated Site](https://karhu.ac)
 KokuminAntiCheat |Java   |Bukkit    |Unknown     |Unknown                           |Unknown               |[BuiltByBit](https://builtbybit.com/resources/7564)
+Logic            |Java   |Bukkit    |Unknown     |1.7 - 1.20.2                      |Unknown               |[Dedicated Site](https://logicac.cc)
 Matrix           |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2 - 1.19              |**≈100%**, 50 ratings |[BuiltByBit](https://builtbybit.com/resources/13999)
 Polar            |Java   |Bukkit    |Unknown     |1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1|Unknown               |[Dedicated Site](https://polar.top)
 TakaAntiCheat    |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |**≈70%**, 35 ratings  |[SpigotMC](https://spigotmc.org/resources/45167)
