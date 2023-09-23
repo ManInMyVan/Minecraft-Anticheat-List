@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 136
+## Number of anticheats: 138
 
 ## Free:
 Anticheat              |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -32,6 +32,7 @@ AutoEye                |Java   |Bukkit    |Discontinued|1.7 - 1.12              
 Cenix                  |Java   |Bukkit    |Discontinued|1.13 - 1.14                                                                                |**90%**, 6 ratings   |[SpigotMC](https://spigotmc.org/resources/59292)
 Daedalus               |Java   |Bukkit    |Discontinued|1.7 - 1.13                                                                                 |**≈70%**, 37 ratings |[SpigotMC](https://spigotmc.org/resources/49215)
 Hades                  |Java   |Bukkit    |Discontinued|1.7 - 1.15                                                                                 |Unknown              |[GitHub](https://github.com/Tecnio/Hades)
+Integral               |Unknown|Unknown   |Discontinued|Unknown                                                                                    |Unknown              |[GitHub](https://github.com/Incognitolol/Integral)
 Kizuki                 |Java   |Bukkit    |Discontinued|1.8.8, 1.12.2                                                                              |**≈80%**, 35 ratings |[SpigotMC](https://spigotmc.org/resources/90468)
 LionGuard              |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/67207)
 NoCheat                |Java   |Bukkit    |Discontinued|1.2.4                                                                                      |Unknown              |[Bukkit](https://dev.bukkit.org/projects/nocheat)
@@ -88,6 +89,7 @@ Pandora                |Java   |Bukkit    |Unknown     |1.8 - 1.16              
 Phoenix                |Java   |Bukkit    |Unknown     |1.7 - 1.13                                                                                 |**≈70%**, 235 ratings|[SpigotMC](https://spigotmc.org/resources/6207)
 Phantom                |Java   |Bukkit    |Unknown     |Unknown                                                                                    |**≈80%**, 14 ratings |[BuiltByBit](https://builtbybit.com/resources/3001)
 Proton                 |Java   |Bukkit    |Unknown     |1.8                                                                                        |Unknown              |[GitHub](https://github.com/GoDead/proton-anticheat)
+Rogue                  |Java   |Bukkit    |Unknown     |1.8.8                                                                                      |Unknown              |[GutHub](https://github.com/george/rogue-anticheat)
 SafeguardAC            |Java   |Unknown   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/terminalsin/SafeguardAC)
 Shade                  |Java   |Bukkit    |Unknown     |1.8                                                                                        |**20%**, 1 rating    |[BuiltByBit](https://builtbybit.com/resources/22596)
 Storm                  |Java   |Bukkit    |Unknown     |Unknown                                                                                    |**20%**, 2 ratings   |[BuiltByBit](https://builtbybit.com/resources/16353)
