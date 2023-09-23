@@ -126,7 +126,7 @@ Cardinal         |Java   |Bukkit    |Active      |1.8 - 1.20                    
 GodsEye          |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈90%**, 77 ratings  |[SpigotMC](https://spigotmc.org/resources/69595)
 Negativity v2    |Java   |Bukkit    |Active      |1.8 - 1.20                        |**84%**, 18 ratings   |[SpigotMC](https://spigotmc.org/resources/86874)
 Spartan          |Java   |Bukkit    |Active      |1.7 - 1.20                        |**≈100%**, 641 ratings|[SpigotMC](https://spigotmc.org/resources/25638)
-Vulcan           |Java   |Bukkit    |Active      |1.7 - 1.20.1                      |**≈100%**, 302 ratings|[SpigotMC](https://spigotmc.org/resources/83626)
+Vulcan           |Java   |Bukkit    |Active      |1.7 - 1.20.2                      |**≈100%**, 302 ratings|[SpigotMC](https://spigotmc.org/resources/83626)
 Wraith           |Java   |Bukkit    |Active      |1.8.8 - 1.20.1                    |**≈70%**, 40 ratings  |[SpigotMC](https://spigotmc.org/resources/66887)
 Anticheat        |Java   |Bukkit    |Inactive    |1.7 - 1.8.9                       |**88%**, 10 ratings   |[SpigotMC](https://spigotmc.org/resources/93504)
 GK               |Java   |Bukkit    |Inactive    |1.8 - 1.16                        |Unknown               |[Dedicated Site](https://gkanticheat.weebly.com/premium1.html)
