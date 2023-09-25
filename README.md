@@ -123,7 +123,7 @@ Anticheat           |Edition|Platform  |Status        |Supported Versions       
 :------------------:|:-----:|:--------:|:------------:|:------------------------------:|:--------------------:|:-:
 AntiAura v2         |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈80%**, 353 ratings |[SpigotMC](https://spigotmc.org/resources/1368)
 AntiCheatAddition   |Java   |Bukkit    |Active      |1.8, 1.12, 1.15 - 1.19            |**≈90%**, 48 ratings  |[SpigotMC](https://spigotmc.org/resources/33590)
-Cardinal Pro Edition|Java   |Bukkit    |Active      |1.8 - 1.20                        |**100%**, 3 ratings   |[BuiltByBit](https://builtbybit.com/resources/26622)
+Cardinal Pro Edition|Java   |Bukkit    |Active      |1.8 - 1.20                        |**100%**, 3 ratings   |[BuiltByBit](https://builtbybit.com/resources/26622), [Dedicated Site](https://cardinalanticheat.github.io/documentation)
 GodsEye             |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈90%**, 77 ratings  |[SpigotMC](https://spigotmc.org/resources/69595)
 Negativity v2       |Java   |Bukkit    |Active      |1.8 - 1.20                        |**84%**, 18 ratings   |[SpigotMC](https://spigotmc.org/resources/86874)
 Spartan             |Java   |Bukkit    |Active      |1.7 - 1.20                        |**≈100%**, 641 ratings|[SpigotMC](https://spigotmc.org/resources/25638)
