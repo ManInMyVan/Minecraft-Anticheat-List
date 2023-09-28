@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 139
+## Number of anticheats: 140
 
 ## Free:
 Anticheat                 |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -94,6 +94,7 @@ Proton                    |Java   |Bukkit    |Unknown     |1.8                  
 Rogue                     |Java   |Bukkit    |Unknown     |1.8.8                                                                                      |Unknown              |[GutHub](https://github.com/george/rogue-anticheat)
 SafeguardAC               |Java   |Unknown   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/terminalsin/SafeguardAC)
 Shade                     |Java   |Bukkit    |Unknown     |1.8                                                                                        |**20%**, 1 rating    |[BuiltByBit](https://builtbybit.com/resources/22596)
+Singularity               |Java   |Bukkit    |Unknown     |1.17.1                                                                                     |**100%**, 4 ratings  |[SpigotMC](https://spigotmc.org/resources/97779)
 Storm                     |Java   |Bukkit    |Unknown     |Unknown                                                                                    |**20%**, 2 ratings   |[BuiltByBit](https://builtbybit.com/resources/16353)
 Vagmemes                  |Java   |Bukkit    |Unknown     |1.8.8                                                                                      |**≈70%**, 19 ratings |[SpigotMC](https://spigotmc.org/resources/57080)
 Warden                    |Java   |Bukkit    |Unknown     |1.8 - 1.16                                                                                 |**≈80%**, 25 ratings |[SpigotMC](https://spigotmc.org/resources/81877)
