@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 146
+## Number of anticheats: 148
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -54,6 +54,7 @@ Pulse                             |Bedrock|Addon     |Discontinued|1.16.210+    
 Shadow                            |Bedrock|PocketMine|Discontinued|Unknown                                                                                    |Unknown              |[GitHub](https://github.com/DarkWav/SAC)
 Alex AntiCheat                    |Java   |Skript    |Unknown     |1.7, 1.8                                                                                   |Unknown              |[SpigotMC](https://spigotmc.org/resources/74573)
 AntiBhop                          |Java   |Bukkit    |Unknown     |1.7 - 1.16                                                                                 |**87.5%**, 8 ratings |[SpigotMC](https://spigotmc.org/resources/83054)
+Anticheat (by ItsJustDamian)      |Java   |Bukkit    |Unknown     |1.7 - 1.12                                                                                 |**60%**, 4 ratings   |[SpigotMC](https://spigotmc.org/resources/57925)
 ANTICHEAT (by WeLoveSpigotPlugins)|Java   |Bukkit    |Unknown     |1.8.8                                                                                      |**56.9%**, 12 ratings|[SpigotMC](https://spigotmc.org/resources/38918)
 AntiCheatPlus                     |Java   |Bukkit    |Unknown     |Unknown                                                                                    |**60%**, 7 ratings   |[SpigotMC](https://spigotmc.org/resources/2714)
 AnvilAC                           |Java   |Bukkit    |Unknown     |1.8 - 1.19                                                                                 |**60%**, 4 ratings   |[SpigotMC](https://spigotmc.org/resources/99000)
