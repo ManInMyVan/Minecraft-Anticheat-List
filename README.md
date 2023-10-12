@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 145
+## Number of anticheats: 146
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -60,6 +60,7 @@ Arc                               |Java   |Bukkit    |Unknown     |1.8, 1.12, 1.
 Arc v2                            |Java   |Bukkit    |Unknown     |1.7.10 - 1.8.8                                                                             |**77.7%**, 9 ratings |[GitHub](https://github.com/Vrekt/Arc-v2), [SpigotMC](https://spigotmc.org/resources/50805)
 Argus                             |Java   |Bukkit    |Unknown     |1.7.10                                                                                     |Unknown              |[GitHub](https://github.com/Y4nN0xX/Argus-Anticheat-minecraft-1.7.10-Paladium)
 Artemis                           |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[Discord](https://discord.gg/hdRt4Qh), [GitHub](https://github.com/artemisac/artemis-minecraft-anticheat) [](https://artemis.ac)
+AZ-AC                             |Java   |Bukkit    |Unknown     |1.8 - 1.15                                                                                 |**40%**, 4 ratings   |[SpigotMC](https://spigotmc.org/resources/78727)
 BadPacket                         |Java   |Bukkit    |Unknown     |1.7.10 - 1.9                                                                               |**100%**, 1 ratings  |[BuiltByBit](https://builtbybit.com/resources/14236)
 Blitz AntiCheat                   |Java   |Bukkit    |Unknown     |1.8, 1.9                                                                                   |Unknown              |[Bukkit](https://dev.bukkit.org/projects/blitz-anticheat)
 Cava                              |Java   |Bukkit    |Unknown     |1.19                                                                                       |**100%**, 4 ratings  |[SpigotMC](https://spigotmc.org/resources/102867)
