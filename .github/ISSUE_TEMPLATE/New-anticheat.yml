@@ -1,6 +1,6 @@
 name: New AntiCheat
 description: Found a new anticheat? ask me to add it here.
-labels: [ new_anticheat]
+labels: [ new-anticheat]
 body:
 - type: input
   attributes:
