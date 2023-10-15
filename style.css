@@ -36,3 +36,12 @@ td.dark-mode {
 td.light-mode {
   background: #ffffff;
 }
+th {
+  background: #302c2c;
+}
+th.dark-mode {
+  
+}
+th.light-mode {
+  
+}
