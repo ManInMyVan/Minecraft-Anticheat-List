@@ -3,6 +3,7 @@ body {
 }
 .table {
   margin-left:auto;
+  width: 750px;
   margin-right:auto;
 }
 body.dark-mode {
