@@ -6,3 +6,12 @@ body.light-mode {
   background-color: white;
   color: black;
 }
+table {
+  border-collapse:collapse;
+}
+.dark-mode {
+  border: 1px solid #5f6368
+}
+.light-mode {
+  border: 1px solid #b3adad;
+}
