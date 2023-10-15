@@ -10,9 +10,21 @@ table {
   border-collapse:collapse;
   border: 1px solid #5f6368;
 }
-.dark-mode {
+table.dark-mode {
   border: 1px solid #5f6368;
 }
-.light-mode {
+table.light-mode {
   border: 1px solid #b3adad;
+}
+td {
+  border:1px solid #5f6368;
+  text-align:center;
+  padding:5px;
+  background: #171717;
+}
+td.dark-mode {
+  background: #171717;
+}
+td.light-mode {
+  background: #ffffff;
 }
