@@ -8,9 +8,10 @@ body.light-mode {
 }
 table {
   border-collapse:collapse;
+  border: 1px solid #5f6368;
 }
 .dark-mode {
-  border: 1px solid #5f6368
+  border: 1px solid #5f6368;
 }
 .light-mode {
   border: 1px solid #b3adad;
