@@ -38,9 +38,11 @@ td.light-mode {
 }
 th {
   background: #302c2c;
+  border:1px solid #5f6368;
 }
 th.dark-mode {
-  
+  background: #302c2c;
+  border:1px solid #5f6368;
 }
 th.light-mode {
   
