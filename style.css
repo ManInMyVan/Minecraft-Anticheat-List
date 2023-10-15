@@ -1,6 +1,10 @@
 body {
   font-family: roboto,sans-serif;
 }
+.table {
+  margin-left:auto;
+  margin-right:auto;
+}
 body.dark-mode {
   background-color: #202124;
   color: white;
