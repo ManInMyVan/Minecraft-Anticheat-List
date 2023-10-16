@@ -1,49 +1,66 @@
+/* light theme definitions */
 body {
-  font-family: roboto,sans-serif;
+  --light-theme-definition-body-background: #fff;
+  --light-theme-definition-body-foreground: #000;
+  --light-theme-definition-table-background: #fff;
+  --light-theme-definition-table-border: #b3adad;
 }
-.table {
-  margin-left:auto;
-  width: 750px;
-  margin-right:auto;
+/* dark theme definitions */
+body {
+  --dark-theme-definition-body-background: #202124;
+  --dark-theme-definition-body-foreground: #fff;
+  --dark-theme-definition-table-background: #171717;
+  --dark-theme-definition-table-border: #5f6368;
+}
+
+/* light theme first */
+body {
+  --color-bg: var(--light-theme-definition-body-background);
+  --color-text: var(--light-theme-definition-body-foreground);
+  --color-table-bg: var(--light-theme-definition-table-background);
+  --color-table-border: var(--light-theme-definition-table-border);
 }
 body.dark-mode {
-  background-color: #202124;
-  color: white;
+  --color-bg: var(--dark-theme-definition-body-background);
+  --color-text: var(--dark-theme-definition-body-foreground);
+  --color-table-bg: var(--dark-theme-definition-table-background);
+  --color-table-border: var(--dark-theme-definition-table-border);
 }
-body.light-mode {
-  background-color: white;
-  color: black;
+/* dark them when preferred */
+@media (prefers-color-scheme: dark) {
+  body {
+    --color-bg: var(--dark-theme-definition-body-background);
+    --color-text: var(--dark-theme-definition-body-foreground);
+    --color-table-bg: var(--dark-theme-definition-table-background);
+    --color-table-border: var(--dark-theme-definition-table-border);
+  }
+  body.light-mode {
+    --color-bg: var(--light-theme-definition-body-background);
+    --color-text: var(--light-theme-definition-body-foreground);
+    --color-table-bg: var(--light-theme-definition-table-background);
+    --color-table-border: var(--light-theme-definition-table-border);
+  }
+}
+
+/* website styles */
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: roboto, sans-serif;
+}
+.table-container {
+  margin-left: auto;
+  width: 750px;
+  margin-right: auto;
 }
 table {
-  border-collapse:collapse;
-  border: 1px solid #5f6368;
-}
-table.dark-mode {
-  border: 1px solid #5f6368;
-}
-table.light-mode {
-  border: 1px solid #b3adad;
+  border: 1px solid var(--color-table-border);
+  border-collapse: collapse;
 }
 td {
-  border:1px solid #5f6368;
-  text-align:center;
-  padding:5px;
-  background: #171717;
-}
-td.dark-mode {
-  background: #171717;
-}
-td.light-mode {
-  background: #ffffff;
-}
-th {
-  background: #302c2c;
-  border:1px solid #5f6368;
-}
-th.dark-mode {
-  background: #302c2c;
-  border:1px solid #5f6368;
-}
-th.light-mode {
-  
+  background: var(--color-table-bg);
+  border: 1px solid var(--color-table-border);
+  text-align: center;
+  padding: 5px;
 }
