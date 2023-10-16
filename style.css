@@ -55,6 +55,11 @@ body {
   color: var(--color-text);
   font-family: roboto, sans-serif;
 }
+.text-container {
+  max-width:75%;
+  margin-left:auto;
+  margin-right:auto;
+}
 .table-container {
   margin-left: auto;
   width: 750px;
