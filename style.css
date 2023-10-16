@@ -1,50 +1,48 @@
-/* light theme definitions */
-body {
-  --light-theme-definition-body-background: #fff;
-  --light-theme-definition-body-foreground: #000;
-  --light-theme-definition-table-background: #fff;
-  --light-theme-definition-table-border: #b3adad;
-  --light-theme-definition-link-color: #1A0DAB;
-}
-/* dark theme definitions */
-body {
-  --dark-theme-definition-body-background: #202124;
-  --dark-theme-definition-body-foreground: #fff;
-  --dark-theme-definition-table-background: #171717;
-  --dark-theme-definition-table-border: #5f6368;
-  --dark-theme-definition-link-color: #8AB4F8;
+:root {
+  /* light mode */
+  --light-theme-body-background: #fff;
+  --light-theme-body-foreground: #000;
+  --light-theme-table-background: #fff;
+  --light-theme-table-border: #b3adad;
+  --light-theme-link-color: #1A0DAB;
+  /* dark mode */
+  --dark-theme-body-background: #202124;
+  --dark-theme-foreground: #fff;
+  --dark-theme-table-background: #171717;
+  --dark-theme-table-border: #5f6368;
+  --dark-theme-link-color: #8AB4F8;
 }
 
-/* light theme first */
+/* default to light theme */
 body {
-  --color-bg: var(--light-theme-definition-body-background);
-  --color-text: var(--light-theme-definition-body-foreground);
-  --color-table-bg: var(--light-theme-definition-table-background);
-  --color-table-border: var(--light-theme-definition-table-border);
+  --color-bg: var(--light-theme-body-background);
+  --color-text: var(--light-theme-body-foreground);
+  --color-table-bg: var(--light-theme-table-background);
+  --color-table-border: var(--light-theme-table-border);
   --link-color: var(--light-theme-definition-link-color);
 }
 body.dark-mode {
-  --color-bg: var(--dark-theme-definition-body-background);
-  --color-text: var(--dark-theme-definition-body-foreground);
-  --color-table-bg: var(--dark-theme-definition-table-background);
-  --color-table-border: var(--dark-theme-definition-table-border);
-  --link-color: var(--dark-theme-definition-link-color);
+  --color-bg: var(--dark-theme-body-background);
+  --color-text: var(--dark-theme-body-foreground);
+  --color-table-bg: var(--dark-theme-table-background);
+  --color-table-border: var(--dark-theme-table-border);
+  --link-color: var(--dark-theme-link-color);
 }
-/* dark them when preferred */
+/* dark theme when preferred */
 @media (prefers-color-scheme: dark) {
   body {
-    --color-bg: var(--dark-theme-definition-body-background);
-    --color-text: var(--dark-theme-definition-body-foreground);
-    --color-table-bg: var(--dark-theme-definition-table-background);
-    --color-table-border: var(--dark-theme-definition-table-border);
-    --link-color: var(--dark-theme-definition-link-color);
+    --color-bg: var(--dark-theme-body-background);
+    --color-text: var(--dark-theme-body-foreground);
+    --color-table-bg: var(--dark-theme-table-background);
+    --color-table-border: var(--dark-theme-table-border);
+    --link-color: var(--dark-theme-link-color);
   }
   body.light-mode {
-    --color-bg: var(--light-theme-definition-body-background);
-    --color-text: var(--light-theme-definition-body-foreground);
-    --color-table-bg: var(--light-theme-definition-table-background);
-    --color-table-border: var(--light-theme-definition-table-border);
-    --link-color: var(--light-theme-definition-link-color);
+    --color-bg: var(--light-theme-body-background);
+    --color-text: var(--light-theme-body-foreground);
+    --color-table-bg: var(--light-theme-table-background);
+    --color-table-border: var(--light-theme-table-border);
+    --link-color: var(--light-theme-link-color);
   }
 }
 
@@ -64,6 +62,11 @@ body {
   margin-left: auto;
   width: 750px;
   margin-right: auto;
+}
+.theme-switcher {
+  position:absolute;
+  top:1%;
+  right:1%;
 }
 table {
   border: 1px solid var(--color-table-border);
