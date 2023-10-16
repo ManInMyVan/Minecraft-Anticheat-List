@@ -58,6 +58,12 @@ table {
   border: 1px solid var(--color-table-border);
   border-collapse: collapse;
 }
+th {
+  background: var(--color-table-bg);
+  border: 1px solid var(--color-table-border);
+  text-align: center;
+  padding: 5px;
+}
 td {
   background: var(--color-table-bg);
   border: 1px solid var(--color-table-border);
