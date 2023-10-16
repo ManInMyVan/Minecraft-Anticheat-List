@@ -7,7 +7,7 @@
   --light-theme-link-color: #1A0DAB;
   /* dark mode */
   --dark-theme-body-background: #202124;
-  --dark-theme-foreground: #fff;
+  --dark-theme-body-foreground: #fff;
   --dark-theme-table-background: #171717;
   --dark-theme-table-border: #5f6368;
   --dark-theme-link-color: #8AB4F8;
@@ -19,7 +19,7 @@ body {
   --color-text: var(--light-theme-body-foreground);
   --color-table-bg: var(--light-theme-table-background);
   --color-table-border: var(--light-theme-table-border);
-  --link-color: var(--light-theme-definition-link-color);
+  --link-color: var(--light-theme-link-color);
 }
 body.dark-mode {
   --color-bg: var(--dark-theme-body-background);
