@@ -1,16 +1,16 @@
 :root {
   /* light mode */
   --light-theme-body-background: #fff;
-  --light-theme-body-foreground: #000;
+  --light-theme-text: #000;
   --light-theme-table-background-light: #fff;
   --light-theme-table-background-dark: #fff;
   --light-theme-table-border: #b3adad;
   --light-theme-link-color: #1A0DAB;
   /* dark mode */
   --dark-theme-body-background: #202124;
-  --dark-theme-body-foreground: #fff;
+  --dark-theme-text: #adbac7; /* */
   --dark-theme-table-background-light: #171717;
-  --dark-theme-table-background-dark: #22272e;
+  --dark-theme-table-background-dark: #22272e; /* */
   --dark-theme-table-border: #444c56;
   --dark-theme-link-color: #8AB4F8;
 }
@@ -18,7 +18,7 @@
 /* default to light theme */
 body {
   --color-bg: var(--light-theme-body-background);
-  --color-text: var(--light-theme-body-foreground);
+  --color-text: var(--light-theme-text);
   --color-table-bg-light: var(--light-theme-table-background-light);
   --color-table-bg-dark: var(--light-theme-table-background-dark);
   --color-table-border: var(--light-theme-table-border);
@@ -26,7 +26,7 @@ body {
 }
 body.dark-mode {
   --color-bg: var(--dark-theme-body-background);
-  --color-text: var(--dark-theme-body-foreground);
+  --color-text: var(--dark-theme-text);
   --color-table-bg-light: var(--dark-theme-table-background-light);
   --color-table-bg-dark: var(--dark-theme-table-background-dark);
   --color-table-border: var(--dark-theme-table-border);
@@ -36,7 +36,7 @@ body.dark-mode {
 @media (prefers-color-scheme: dark) {
   body {
     --color-bg: var(--dark-theme-body-background);
-    --color-text: var(--dark-theme-body-foreground);
+    --color-text: var(--dark-theme-text);
     --color-table-bg-light: var(--dark-theme-table-background-light);
     --color-table-bg-dark: var(--dark-theme-table-background-dark);
     --color-table-border: var(--dark-theme-table-border);
@@ -44,7 +44,7 @@ body.dark-mode {
   }
   body.light-mode {
     --color-bg: var(--light-theme-body-background);
-    --color-text: var(--light-theme-body-foreground);
+    --color-text: var(--light-theme-text);
     --color-table-bg-light: var(--light-theme-table-background-light);
     --color-table-bg-dark: var(--light-theme-table-background-dark);
     --color-table-border: var(--light-theme-table-border);
