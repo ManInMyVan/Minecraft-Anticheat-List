@@ -7,12 +7,12 @@
   --light-theme-table-border: #b3adad;
   --light-theme-link-color: #1A0DAB;
   /* dark mode */
-  --dark-theme-body-background: #22272e; /* */
-  --dark-theme-text: #adbac7; /* */
-  --dark-theme-table-background-light: #171717;
-  --dark-theme-table-background-dark: #22272e; /* */
-  --dark-theme-table-border: #444c56; /* */
-  --dark-theme-link-color: #8AB4F8;
+  --dark-theme-body-background: #22272e;
+  --dark-theme-text: #adbac7;
+  --dark-theme-table-background-light: #2d333b;
+  --dark-theme-table-background-dark: #22272e;
+  --dark-theme-table-border: #444c56;
+  --dark-theme-link-color: #539bf5;
 }
 
 /* default to light theme */
