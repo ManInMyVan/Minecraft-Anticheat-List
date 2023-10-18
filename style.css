@@ -2,14 +2,16 @@
   /* light mode */
   --light-theme-body-background: #fff;
   --light-theme-body-foreground: #000;
-  --light-theme-table-background: #fff;
+  --light-theme-table-background-light: #fff;
+  --light-theme-table-background-dark: #fff;
   --light-theme-table-border: #b3adad;
   --light-theme-link-color: #1A0DAB;
   /* dark mode */
   --dark-theme-body-background: #202124;
-  --dark-theme-body-foreground: #fff;
-  --dark-theme-table-background: #171717;
-  --dark-theme-table-border: #5f6368;
+  --dark-theme-body-foreground: #fff;#22272e
+  --dark-theme-table-background-light: #171717;
+  --dark-theme-table-background-dark: #22272e;
+  --dark-theme-table-border: #444c56;
   --dark-theme-link-color: #8AB4F8;
 }
 
@@ -17,14 +19,16 @@
 body {
   --color-bg: var(--light-theme-body-background);
   --color-text: var(--light-theme-body-foreground);
-  --color-table-bg: var(--light-theme-table-background);
+  --color-table-bg-light: var(--light-theme-table-background-light);
+  --color-table-bg-dark: var(--light-theme-table-background-dark);
   --color-table-border: var(--light-theme-table-border);
   --link-color: var(--light-theme-link-color);
 }
 body.dark-mode {
   --color-bg: var(--dark-theme-body-background);
   --color-text: var(--dark-theme-body-foreground);
-  --color-table-bg: var(--dark-theme-table-background);
+  --color-table-bg-light: var(--dark-theme-table-background-light);
+  --color-table-bg-dark: var(--dark-theme-table-background-dark);
   --color-table-border: var(--dark-theme-table-border);
   --link-color: var(--dark-theme-link-color);
 }
@@ -33,14 +37,16 @@ body.dark-mode {
   body {
     --color-bg: var(--dark-theme-body-background);
     --color-text: var(--dark-theme-body-foreground);
-    --color-table-bg: var(--dark-theme-table-background);
+    --color-table-bg-light: var(--dark-theme-table-background-light);
+    --color-table-bg-dark: var(--dark-theme-table-background-dark);
     --color-table-border: var(--dark-theme-table-border);
     --link-color: var(--dark-theme-link-color);
   }
   body.light-mode {
     --color-bg: var(--light-theme-body-background);
     --color-text: var(--light-theme-body-foreground);
-    --color-table-bg: var(--light-theme-table-background);
+    --color-table-bg-light: var(--light-theme-table-background-light);
+    --color-table-bg-dark: var(--light-theme-table-background-dark);
     --color-table-border: var(--light-theme-table-border);
     --link-color: var(--light-theme-link-color);
   }
@@ -73,13 +79,13 @@ table {
   border-collapse: collapse;
 }
 th {
-  background: var(--color-table-bg);
+  background: var(--color-table-bg-dark);
   border: 1px solid var(--color-table-border);
   text-align: center;
   padding: 5px;
 }
 td {
-  background: var(--color-table-bg);
+  background: var(--color-table-bg-light);
   border: 1px solid var(--color-table-border);
   text-align: center;
   padding: 5px;
@@ -89,4 +95,7 @@ a:link {
 }
 a:visited {
   color: var(--link-color);
+}
+tr:nth-child(even) td {
+  background: var(--color-table-bg-dark);
 }
