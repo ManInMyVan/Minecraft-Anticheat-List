@@ -50,7 +50,7 @@ body:
     description: "What is the anticheat's current status?"
     multiple: false
     options:
-      - Active (Recent updates, not explicitly inactive/unmaintained/discontinue)
+      - Active (Recent updates, not explicitly inactive/unmaintained/discontinued)
       - Inactive (Explicitly Inactive)
       - Unmaintained (Explicitly Unmaintained)
       - Discontinued (Explicitly Discontinued)
@@ -60,8 +60,8 @@ body:
     required: true
 - type: input
   attributes:
-    label: Versions
-    description: "What Minecraft versions does the anticheat support (if discontinued, use last supported versions)?"
+    label: Minecraft Versions
+    description: "What Minecraft versions does the anticheat support (if discontinued, use last supported versions)? (NOT ANTICHEAT VERSION)"
   validations:
     required: true
 - type: textarea
