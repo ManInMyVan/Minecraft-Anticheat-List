@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 151
+## Number of anticheats: 155
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -43,6 +43,7 @@ NoCheatClassic                    |Java   |Bukkit    |Discontinued|1.6.2        
 NoCheatPlus                       |Java   |Bukkit    |Discontinued|1.4.5 - 1.4.7, 1.5.1 - 1.5.2, 1.6.2, 1.6.4, 1.7.2, 1.7.9, 1.8, 1.8.1, 1.9, 1.10, 1.11, 1.12|Unknown              |[Bukkit](https://dev.bukkit.org/projects/nocheatplus)
 NESS                              |Java   |Bukkit    |Discontinued|1.8 - 1.12                                                                                 |**≈70%**, 37 ratings |[SpigotMC](https://spigotmc.org/resources/53281), [GitHub](https://github.com/MSWS/NESS)
 Optimus                           |Java   |Bukkit    |Discontinued|1.16.5                                                                                     |Unknown              |[GitHub](https://github.com/theomega24/Optimus)
+Razor AntiCheat                   |Java   |Skript    |Discontinued|1.9 - 1.11                                                                                 |**68**, 5 ratings    |[SpigotMC](https://spigotmc.org/resources/33013)
 SoaromaSAC                        |Java   |Bukkit    |Discontinued|1.17 - 1.19                                                                                |**≈80%**, 76 ratings |[SpigotMC](https://spigotmc.org/resources/87702)
 ThotPatrol                        |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |**≈90%**, 49 ratings |[SpigotMC](https://spigotmc.org/resources/79978), [GitHub](https://github.com/freppp/ThotPatrol)
 WatchCat                          |Java   |Bukkit    |Discontinued|1.8.8, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.2                                               |**≈80%**, 148 ratings|[SpigotMC](https://spigotmc.org/resources/56472)
@@ -102,6 +103,7 @@ Phantom                           |Java   |Bukkit    |Unknown     |Unknown      
 Proton                            |Java   |Bukkit    |Unknown     |1.8                                                                                        |Unknown              |[GitHub](https://github.com/GoDead/proton-anticheat)
 Rogue                             |Java   |Bukkit    |Unknown     |1.8.8                                                                                      |Unknown              |[GutHub](https://github.com/george/rogue-anticheat)
 SafeguardAC                       |Java   |Unknown   |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/terminalsin/SafeguardAC)
+SafeHack                          |Java   |Bukkit    |Unknown     |1.7 - 1.11                                                                                 |**46.7%**, 3 ratings |[SpigotMC](https://spigotmc.org/resources/40847)
 Shade                             |Java   |Bukkit    |Unknown     |1.8                                                                                        |**20%**, 1 rating    |[BuiltByBit](https://builtbybit.com/resources/22596)
 SimpleAC                          |Java   |Bukkit    |Unknown     |1.16, 1.17, 1.18, 1.19                                                                     |**20%**, 1 rating    |[SpigotMC](https://spigotmc.org/resources/108249)
 Singularity                       |Java   |Bukkit    |Unknown     |1.17.1                                                                                     |**100%**, 4 ratings  |[SpigotMC](https://spigotmc.org/resources/97779)
