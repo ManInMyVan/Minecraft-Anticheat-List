@@ -174,7 +174,7 @@ Reflex              |Java   |Bukkit    |Unavailable |Unknown                    
 
 Value             |Description                                                  |Possible Values
 :----------------:|:-----------------------------------------------------------:|:-:
-Anticheat         |Name of the Aaticheat                                        |A name
+Anticheat         |Name of the Anticheat                                        |A name
 Edition           |The edition of the game the anticheat is on                  |Java, Bedrock
 Platform          |What modding platform the anticheat runs on                  |Bukkit, Sponge, Fabric, Forge, Skript, Datapack, NukkitX, Addon, PocketMine
 Status            |Anticheat's development status                               |Active, Inactive, Unmaintained, Discontinued, Unknown, Unavailable
