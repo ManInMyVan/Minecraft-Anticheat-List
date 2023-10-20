@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 149
+## Number of anticheats: 151
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -75,6 +75,7 @@ Flux                              |Java   |Bukkit    |Unknown     |1.8          
 Foxbite                           |Java   |Bukkit    |Unknown     |1.18                                                                                       |Unknown              |[GitHub](https://github.com/Foxikle/FoxBite)
 Frequency                         |Java   |Bukkit    |Unknown     |Unknown                                                                                    |Unknown              |[GitHub](https://github.com/ElevatedDev/Frequency)
 HackDetective                     |Java   |Bukkit    |Unknown     |Unknown                                                                                    |**≈90%**, 38 ratings |[SpigotMC](https://spigotmc.org/resources/8702)
+HackWarner - AntiCheat            |Java   |Bukkit    |Unknown     |1.7 - 1.11                                                                                 |**≈70%**, 18 ratings |[SpigotMC](https://spigotmc.org/resources/37826)
 HoneyBadger                       |Java   |Bukkit    |Unknown     |1.8                                                                                        |**100%**, 1 rating   |[SpigotMC](https://spigotmc.org/resources/100179)
 Horizon                           |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2, 1.13.2, 1.14.2 - 1.14.4                                                     |**≈80%**, 92 ratings |[SpigotMC](https://spigotmc.org/resources/65830)
 Incognito                         |Java   |Bukkit    |Unknown     |1.8 - 1.8.1, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16                                 |Unknown              |[Bukkit](https://dev.bukkit.org/projects/incognito)
