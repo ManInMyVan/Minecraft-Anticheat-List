@@ -40,10 +40,11 @@ Kizuki                            |Java   |Bukkit    |Discontinued|1.8.8, 1.12.2
 LionGuard                         |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/67207), [GitHub](https://github.com/zLexis/LionGuard)
 NoCheat                           |Java   |Bukkit    |Discontinued|1.2.4                                                                                      |Unknown              |[Bukkit](https://dev.bukkit.org/projects/nocheat)
 NoCheatClassic                    |Java   |Bukkit    |Discontinued|1.6.2                                                                                      |Unknown              |[Bukkit](https://dev.bukkit.org/projects/nocheat-classic)
-NoCheatPlus                       |Java   |Bukkit    |Discontinued|1.4.5 - 1.4.7, 1.5.1 - 1.5.2, 1.6.2, 1.6.4, 1.7.2, 1.7.9, 1.8, 1.8.1, 1.9, 1.10, 1.11, 1.12|Unknown              |[Bukkit](https://dev.bukkit.org/projects/nocheatplus)
+NoCheatPlus                       |Java   |Bukkit    |Discontinued|1.4.5 - 1.12                                                                               |Unknown              |[Bukkit](https://dev.bukkit.org/projects/nocheatplus)
 NESS                              |Java   |Bukkit    |Discontinued|1.8 - 1.12                                                                                 |**≈70%**, 37 ratings |[SpigotMC](https://spigotmc.org/resources/53281), [GitHub](https://github.com/MSWS/NESS)
 Optimus                           |Java   |Bukkit    |Discontinued|1.16.5                                                                                     |Unknown              |[GitHub](https://github.com/theomega24/Optimus)
 Razor AntiCheat                   |Java   |Skript    |Discontinued|1.9 - 1.11                                                                                 |**68**, 5 ratings    |[SpigotMC](https://spigotmc.org/resources/33013)
+Reflex                            |Java   |Bukkit    |Discontinued|Unknown                                                                                    |Unknown              |[GitHub](https://github.com/MeGysssTaa/reflex-anticheat-internals) [](https://spigotmc.org/resources/21122)
 SoaromaSAC                        |Java   |Bukkit    |Discontinued|1.17 - 1.19                                                                                |**≈80%**, 76 ratings |[SpigotMC](https://spigotmc.org/resources/87702)
 ThotPatrol                        |Java   |Bukkit    |Discontinued|1.7 - 1.8                                                                                  |**≈90%**, 49 ratings |[SpigotMC](https://spigotmc.org/resources/79978), [GitHub](https://github.com/freppp/ThotPatrol)
 WatchCat                          |Java   |Bukkit    |Discontinued|1.8.8, 1.9.4, 1.10.2, 1.11.2, 1.12.2, 1.13.2                                               |**≈80%**, 148 ratings|[SpigotMC](https://spigotmc.org/resources/56472)
@@ -170,7 +171,6 @@ Buzz Anticheat      |Java   |Unknown   |Unavailable |Unknown                    
 CombatAnalyzer      |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/85220)
 DakataAntiCheat     |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/26911)
 MineSecure          |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/35305)
-Reflex              |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/21122)
 Sparky              |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](http://sparky.ac/)
 
 *see an anticheat not on the list, discontinued/undiscontinued, want to make a improvement to the list, or see something wrong with it? Open an issue or pull request about it.*
