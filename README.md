@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 158
+## Number of anticheats: 159
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -171,6 +171,7 @@ CombatAnalyzer      |Java   |Bukkit    |Unavailable |Unknown                    
 DakataAntiCheat     |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/26911)
 MineSecure          |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/35305)
 Reflex              |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/21122)
+Sparky              |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](http://sparky.ac/)
 
 *see an anticheat not on the list, discontinued/undiscontinued, want to make a improvement to the list, or see something wrong with it? Open an issue or pull request about it.*
 
