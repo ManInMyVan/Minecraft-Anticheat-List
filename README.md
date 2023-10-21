@@ -136,10 +136,11 @@ TeslaAntiCheat                    |Java   |Bukkit    |Unavailable |Unknown      
 Visage                            |Java   |Bukkit    |Unavailable |Unknown                                                                                    |Unknown              |[](https://spigotmc.org/resources/86757)
 Moonlight                         |Bedrock|NukkitX   |Unavailable |1.19.20                                                                                    |Unknown              |[](https://github.com/disepi/Moonlight)
 ## Premium
-Anticheat           |Edition|Platform  |Status      |Supported Versions              |Rating                |Links
-:------------------:|:-----:|:--------:|:----------:|:------------------------------:|:--------------------:|:-:
+Anticheat           |Edition|Platform  |Status      |Supported Versions                |Rating                |Links
+:------------------:|:-----:|:--------:|:----------:|:--------------------------------:|:--------------------:|:-:
 AntiAura v2         |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈80%**, 353 ratings |[SpigotMC](https://spigotmc.org/resources/1368)
 AntiCheatAddition   |Java   |Bukkit    |Active      |1.8, 1.12, 1.15 - 1.19            |**≈90%**, 48 ratings  |[SpigotMC](https://spigotmc.org/resources/33590)
+Astro               |Java   |Bukkit    |Active      |1.8+                              |Unknown               |[Discord](https://discord.gg/fJGspEJnyh), [Dedicated Site](https://astroac.cc)
 Cardinal Pro Edition|Java   |Bukkit    |Active      |1.8 - 1.20                        |**100%**, 3 ratings   |[BuiltByBit](https://builtbybit.com/resources/26622), [Dedicated Site](https://cardinalanticheat.github.io/documentation)
 GodsEye             |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈90%**, 77 ratings  |[SpigotMC](https://spigotmc.org/resources/69595)
 Negativity v2       |Java   |Bukkit    |Active      |1.8 - 1.20                        |**84%**, 18 ratings   |[SpigotMC](https://spigotmc.org/resources/86874)
