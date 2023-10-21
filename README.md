@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
 
-## Number of anticheats: 157
+## Number of anticheats: 158
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions                                                                         |Rating               |Links
@@ -166,6 +166,7 @@ TakaAntiCheat       |Java   |Bukkit    |Unknown     |1.8 - 1.16                 
 UltraAC             |Java   |Bukkit    |Unknown     |Unknown                           |**80%**, 4 ratings    |[BuiltByBit](https://builtbybit.com/resources/13413)
 XAntiCheat          |Java   |Bukkit    |Unknown     |Unknown                           |**80%**, 2 ratings    |[BuiltByBit](https://builtbybit.com/resources/2802)
 Alice               |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/89139)
+Buzz Anticheat      |Java   |Unknown   |Unavailable |Unknown                           |Unknown               |[](https://buzzanticheat.com)
 CombatAnalyzer      |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/85220)
 DakataAntiCheat     |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/26911)
 MineSecure          |Java   |Bukkit    |Unavailable |Unknown                           |Unknown               |[](https://spigotmc.org/resources/35305)
