@@ -79,7 +79,7 @@ table {
   border-collapse: collapse;
 }
 th {
-  background: var(--color-table-bg-2);
+  background: var(--color-table-bg-1);
   border: 1px solid var(--color-table-border);
   text-align: center;
   padding: 5px;
