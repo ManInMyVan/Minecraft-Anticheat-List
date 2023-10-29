@@ -3,7 +3,7 @@
 
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
 
-Some of the following anticheats cost money. Please do not pirate these anticheats, as no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for *you*. Also pirating is illegal.
+Some of the following anticheats cost money. Please do not pirate these anticheats, as it is illegal and no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for you.
 
 ## Number of anticheats: 159
 
