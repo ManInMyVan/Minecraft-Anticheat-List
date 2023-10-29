@@ -48,7 +48,7 @@ body.dark-mode {
     --color-table-bg-1: var(--light-theme-table-background-1);
     --color-table-bg-2: var(--light-theme-table-background-2);
     --color-table-border: var(--light-theme-table-border);
-    --link-color: var(--light-theme-link-color);
+    --link-color: var(--light-theme-link);
   }
 }
 
