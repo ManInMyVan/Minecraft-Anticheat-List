@@ -15,7 +15,7 @@ Cardinal Community Edition        |Java   |Bukkit    |Active      |1.8 - 1.20   
 FoxAddition                       |Java   |Bukkit    |Active      |1.7 - 1.20.2          |**72%**, 5 ratings   |[SpigotMC](https://spigotmc.org/resources/111260)
 Gato Anticheat                    |Java   |Bukkit    |Active      |1.8 - 1.20.2          |**30%**, 2 ratings   |[SpigotMC](https://spigotmc.org/resources/112706)
 Ghost                             |Java   |Bukkit    |Active      |1.7 - 1.20            |**42%**, 15 ratings  |[SpigotMC](https://spigotmc.org/resources/111084)
-Grim                              |Java   |Bukkit    |Active      |1.8, 1.12, 1.16 - 1.20|**≈90%**, 152 ratings|[SpigotMC](https://spigotmc.org/resources/99923), [GitHub](https://github.com/GrimAnticheat/Grim)
+Grim                              |Java   |Bukkit    |Active      |1.8, 1.12, 1.16 - 1.20.2|**≈90%**, 152 ratings|[SpigotMC](https://spigotmc.org/resources/99923), [GitHub](https://github.com/GrimAnticheat/Grim)
 LiteAntiCheat                     |Java   |Bukkit    |Active      |1.13 - 1.20           |**100%**, 6 ratings  |[SpigotMC](https://spigotmc.org/resources/112053), [GitHub](https://github.com/tiredvekster/LiteAntiCheat)
 Negativity v1                     |Java   |Bukkit    |Active      |1.8 - 1.20            |**≈80%**, 150 ratings|[SpigotMC](https://spigotmc.org/resources/48399), [GitHub](https://github.com/Elikill58/Negativity)
 Themis                            |Java   |Bukkit    |Active      |1.17 - 1.20.1         |**≈90%**, 78 ratings |[SpigotMC](https://spigotmc.org/resources/90766)
