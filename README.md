@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as it is illegal and no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for you.
 
-## Number of anticheats: 159
+## Number of anticheats: 160
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions      |Rating               |Links
@@ -25,6 +25,7 @@ Rubedo                            |Bedrock|Addon     |Active      |1.19.60+     
 SafeGuard                         |Bedrock|Addon     |Active      |1.19.50+                |Unknown              |[GitHub](https://github.com/BlaizerBrumo/SafeGuard)
 Scythe                            |Bedrock|Addon     |Active      |1.20.10+                |Unknown              |[GitHub](https://github.com/Scythe-Anticheat/Scythe-Anticheat)
 Anticheat (by demon1337)          |Java   |Bukkit    |Inactive    |1.7 - 1.8.9             |**88%**, 10 ratings  |[SpigotMC](https://spigotmc.org/resources/93504), [GitHub](https://github.com/DemonDxv/Anticheat-Open-Source)
+Frequency+                        |Java   |Bukkit    |Inactive    |1.8                     |Unknown              |[GitHub](https://github.com/MinecraftUserHAN1110/FrequencyPlus)
 GK                                |Java   |Bukkit    |Inactive    |1.8 - 1.16              |**≈90%**, 19 ratings |[Dedicated Site](https://gkanticheat.weebly.com/free.html), [SpigotMC](https://spigotmc.org/resources/75691)
 Hawk                              |Java   |Bukkit    |Inactive    |1.7.10, 1.8.8           |**≈90%**, 75 ratings |[SpigotMC](https://spigotmc.org/resources/40343)
 Wither                            |Java   |Bukkit    |Inactive    |1.13 - 1.16.5           |**≈80%**, 99 ratings |[SpigotMC](https://spigotmc.org/resources/68657)
