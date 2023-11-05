@@ -146,7 +146,7 @@ Astro               |Java   |Bukkit    |Active      |1.8+                       
 Cardinal Pro Edition|Java   |Bukkit    |Active      |1.8 - 1.20                        |**100%**, 3 ratings   |[BuiltByBit](https://builtbybit.com/resources/26622), [Dedicated Site](https://cardinalanticheat.github.io/documentation)
 GodsEye             |Java   |Bukkit    |Active      |1.8 - 1.19                        |**≈90%**, 77 ratings  |[SpigotMC](https://spigotmc.org/resources/69595)
 Negativity v2       |Java   |Bukkit    |Active      |1.8 - 1.20                        |**84%**, 18 ratings   |[SpigotMC](https://spigotmc.org/resources/86874)
-Spartan             |Java   |Bukkit    |Active      |1.7 - 1.20                        |**≈100%**, 641 ratings|[SpigotMC](https://spigotmc.org/resources/25638), [BuiltByBitb](https://builtbybit.com/resources/11196)
+Spartan             |Java   |Bukkit    |Active      |1.7 - 1.20                        |**≈100%**, 641 ratings|[SpigotMC](https://spigotmc.org/resources/25638), [BuiltByBit](https://builtbybit.com/resources/11196)
 Spiter Anticheat    |Java   |Bukkit    |Active      |1.8 - 1.20.2                      |**100%**, 15 ratings  |[Discord](https://discord.gg/TErzKwGUEc), [BStats](https://bstats.org/plugin/bukkit/Spiter/19535), [GitHub](https://github.com/RegotlyLong/SpiterAnticheat)
 Verus               |Java   |Bukkit    |Active      |1.7 - 1.19.4                      |Unknown               |[Dedicated Site](https://verus.ac), [Discord](https://discord.gg/G9RGfuZ)
 Vulcan              |Java   |Bukkit    |Active      |1.7 - 1.20.2                      |**≈100%**, 305 ratings|[SpigotMC](https://spigotmc.org/resources/83626), [Discord](https://discord.com/invite/SCNuwUG)
