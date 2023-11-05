@@ -5,7 +5,7 @@
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as it is illegal and no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for you.
 
-## Number of anticheats: 159
+## Number of anticheats: 160
 
 ## Free:
 Anticheat                         |Edition|Platform  |Status      |Supported Versions      |Rating               |Links
@@ -154,6 +154,7 @@ GK Premium          |Java   |Bukkit    |Inactive    |1.8 - 1.16                 
 AntiAura v1         |Java   |Bukkit    |Discontinued|Unknown                           |Unknown               |[SpigotMC](https://spigotmc.org/resources/1368/update?update=10078)
 AAC                 |Java   |Bukkit    |Old         |1.8 - 1.16                        |**≈80%**, 530 ratings |[SpigotMC](https://spigotmc.org/resources/6442), [Discord](https://discord.com/invite/uc9w2nx)
 AngelX              |Java   |Bukkit    |Unknown     |1.8, 1.19                         |**≈100%**, 40 ratings |[BuiltByBit](https://builtbybit.com/resources/10396)
+EdgeAC              |Java   |Unknown   |Unknown     |Unknown                           |Unknown               |[Dedicated Site](https://edgeac.xyz)
 FAAC                |Java   |Bukkit    |Unknown     |1.8 - 1.14                        |Unknown               |[BuiltByBit](https://builtbybit.com/resources/17153)
 Fusion              |Java   |Bukkit    |Unknown     |1.7, 1.8                          |Unknown               |[Dedicated Site](https://fusion.ac)
 Intave              |Java   |Bukkit    |Unknown     |1.8 - 1.20                        |Unknown               |[Dedicated Site](https://intave.ac)
