@@ -153,7 +153,7 @@ Vulcan              |Java   |Bukkit    |Active      |1.7 - 1.20.2               
 Wraith              |Java   |Bukkit    |Active      |1.8.8 - 1.20.1                    |**≈70%**, 40 ratings  |[SpigotMC](https://spigotmc.org/resources/66887)
 GK Premium          |Java   |Bukkit    |Inactive    |1.8 - 1.16                        |Unknown               |[Dedicated Site](https://gkanticheat.weebly.com/premium1.html)
 AntiAura v1         |Java   |Bukkit    |Discontinued|Unknown                           |Unknown               |[SpigotMC](https://spigotmc.org/resources/1368/update?update=10078)
-AAC                 |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |**≈80%**, 530 ratings |[SpigotMC](https://spigotmc.org/resources/6442), [Discord](https://discord.com/invite/uc9w2nx)
+AAC                 |Java   |Bukkit    |Old         |1.8 - 1.16                        |**≈80%**, 530 ratings |[SpigotMC](https://spigotmc.org/resources/6442), [Discord](https://discord.com/invite/uc9w2nx)
 AngelX              |Java   |Bukkit    |Unknown     |1.8, 1.19                         |**≈100%**, 40 ratings |[BuiltByBit](https://builtbybit.com/resources/10396)
 FAAC                |Java   |Bukkit    |Unknown     |1.8 - 1.14                        |Unknown               |[BuiltByBit](https://builtbybit.com/resources/17153)
 Fusion              |Java   |Bukkit    |Unknown     |1.7, 1.8                          |Unknown               |[Dedicated Site](https://fusion.ac)
@@ -162,7 +162,7 @@ JI Janitor          |Java   |Bukkit    |Unknown     |1.7 - 1.13.2               
 Karhu               |Java   |Bukkit    |Unknown     |1.8 - 1.18                        |Unknown               |[Dedicated Site](https://karhu.ac)
 KokuminAntiCheat    |Java   |Bukkit    |Unknown     |Unknown                           |Unknown               |[BuiltByBit](https://builtbybit.com/resources/7564)
 Logic               |Java   |Bukkit    |Unknown     |1.7 - 1.20.2                      |Unknown               |[Dedicated Site](https://logicac.cc)
-Matrix              |Java   |Bukkit    |Unknown     |1.8.8, 1.12.2 - 1.19              |**≈100%**, 50 ratings |[BuiltByBit](https://builtbybit.com/resources/13999), [Dedicated Site](https://matrix.rip) [](https://spigotmc.org/resources/64635)
+Matrix              |Java   |Bukkit    |Active      |1.8.8, 1.12.2 - 1.19              |**≈100%**, 50 ratings |[BuiltByBit](https://builtbybit.com/resources/13999), [Dedicated Site](https://matrix.rip) [](https://spigotmc.org/resources/64635)
 Polar               |Java   |Bukkit    |Unknown     |1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1|Unknown               |[Dedicated Site](https://polar.top)
 TakaAntiCheat       |Java   |Bukkit    |Unknown     |1.8 - 1.16                        |**≈70%**, 35 ratings  |[SpigotMC](https://spigotmc.org/resources/45167)
 UltraAC             |Java   |Bukkit    |Unknown     |Unknown                           |**80%**, 4 ratings    |[BuiltByBit](https://builtbybit.com/resources/13413)
@@ -181,6 +181,6 @@ Value             |Description                                                  
 Anticheat         |Name of the Anticheat                                        |A name
 Edition           |The edition of the game the anticheat is on                  |Java, Bedrock
 Platform          |What modding platform the anticheat runs on                  |Bukkit, Sponge, Fabric, Forge, Skript, Datapack, NukkitX, Addon, PocketMine
-Status            |Anticheat's development status                               |Active, Inactive, Unmaintained, Discontinued, Unknown, Unavailable
+Status            |Anticheat's development status                               |Active, Inactive, Unmaintained, Discontinued, Unknown, Unavailable, Old
 Supported Versions|What versions of Minecraft the anticheat supports            |Any Minecraft version
 Links             |Links to download, learn more about, or support the anticheat|Any url
