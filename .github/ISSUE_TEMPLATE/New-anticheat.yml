@@ -26,6 +26,7 @@ body:
     options:
       - Java
       - Bedrock
+      - Unknown
   validations:
     required: true
 - type: dropdown
@@ -34,14 +35,15 @@ body:
     description: "What platform is the anticheat on?"
     multiple: false
     options:
-      - Bukkit (or a fork)
-      - Fabric/Quilt
-      - Forge/NeoForge
-      - NukkitX
-      - Addon
+      - Bukkit
+      - Fabric
+      - Forge
+      - Nukkit
+      - Behavior Pack
       - Skript
       - PocketMine
       - Unknown
+      - Other (explain in "Other explanation")
   validations:
     required: true
 - type: dropdown
@@ -51,37 +53,38 @@ body:
     multiple: false
     options:
       - Active (Recent updates, not explicitly inactive/unmaintained/discontinued)
-      - Inactive (Explicitly Inactive)
-      - Unmaintained (Explicitly Unmaintained)
-      - Discontinued (Explicitly Discontinued)
-      - Unknown (No recent updates, not explicitly inactive/unmaintained/discontinue)
+      - Inactive (Author has stated work on the project will be slow)
+      - Unmaintained (Explicitly unmaintained, not discontinued, but is not currently being worked on)
+      - Discontinued (Explicitly Discontinued, not being worked on)
+      - Unknown
       - Unavailable (No working official links to the anticheat)
+      - Old (Has not been updated recently, and does not fit into any other category)
   validations:
     required: true
 - type: input
   attributes:
     label: Minecraft Versions
-    description: "What Minecraft versions does the anticheat support (if discontinued, use last supported versions)? (NOT ANTICHEAT VERSION)"
+    description: "What Minecraft versions does the anticheat support (if discontinued, use last supported versions)? (Unknown is an option) (DO NOT ANTICHEAT VERSION)"
   validations:
     required: true
 - type: textarea
   attributes:
     label: Links
-    description: "What official links can be used to obtain the anticheat? (Do not use direct download links)"
+    description: 'What official links can be used to obtain the anticheat? (Do not use direct download links) (None or Unknown is valid, if the selected Status is "Unavailable")'
   validations:
     required: true
 - type: input
   attributes:
-    label: Rating Percentage
-    description: "What is the anticheats rating as a percentage?"
+    label: Rating Percentage and number of ratings
+    description: "What is the anticheats rating as a percentage? Please also include the amount of ratings received."
   validations:
-    required: true
-- type: input
+    required: false
+- type: textarea
   attributes:
-    label: Number of ratings
-    description: "How many ratings does the anticheats have?"
+    label: Other explanation
+    description: 'This question is for if you selected "Other" in a question'
   validations:
-    required: true
+    required: false
 - type: checkboxes
   attributes:
     label: Before submitting an anticheat
