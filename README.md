@@ -54,7 +54,7 @@ WatchCat                          |Java   |Bukkit    |Discontinued|1.8.8 - 1.13.
 Wolf                              |Java   |Bukkit    |Discontinued|1.7 - 1.8               |**≈70%**, 84 ratings |[SpigotMC](https://spigotmc.org/resources/18614)
 Bubble                            |Java   |Skript    |Discontinued|1.8 - 1.14              |**≈60%**, 19 ratings |[SpigotMC](https://spigotmc.org/resources/78468)
 Guardian                          |Java   |Skript    |Discontinued|1.8 - 1.10              |**≈70%**, 36 ratings |[SpigotMC](https://spigotmc.org/resources/29264)
-Nukkit-AntiCheat                  |Bedrock|NukkitX   |Discontinued|Unknown                 |Unknown              |[GitHub](https://github.com/WetABQ/Nukkit-AntiCheat)
+Nukkit-AntiCheat                  |Bedrock|Nukkit    |Discontinued|Unknown                 |Unknown              |[GitHub](https://github.com/WetABQ/Nukkit-AntiCheat)
 Pulse                             |Bedrock|Addon     |Discontinued|1.16.210+               |Unknown              |[GitHub](https://github.com/Dream23322/Pulse-Anticheat)
 Shadow                            |Bedrock|PocketMine|Discontinued|Unknown                 |Unknown              |[GitHub](https://github.com/DarkWav/SAC)
 Alex AntiCheat                    |Java   |Skript    |Old         |1.7, 1.8                |Unknown              |[SpigotMC](https://spigotmc.org/resources/74573)
@@ -117,7 +117,7 @@ GuardianSponge                    |Java   |Sponge    |Unknown     |Unknown      
 CheaterDeleter                    |Java   |Fabric    |Unknown     |1.17.x                  |Unknown              |[GitHub](https://github.com/CoolMineman/CheaterDeleter)
 Bubble Anticheat Reborn           |Java   |Skript    |Unknown     |Unknown                 |Unknown              |[Dedicated Site](https://steviebeenz.github.io/BubbleAnticheatReborn)
 NoCheatMinus                      |Java   |Datapack  |Unknown     |1.20+                   |Unknown              |[GitHub](https://github.com/n33d4n4m3/NoCheatMinus)
-WAntiCheatPro                     |Bedrock|NukkitX   |Unknown     |Unknown                 |Unknown              |[GitHub](https://github.com/WetABQ/WAntiCheatPro)
+WAntiCheatPro                     |Bedrock|Nukkit    |Unknown     |Unknown                 |Unknown              |[GitHub](https://github.com/WetABQ/WAntiCheatPro)
 ShallowAC                         |Bedrock|Addon     |Unknown     |1.16.0+                 |Unknown              |[GitHub](https://github.com/Shall0e/ShallowAC)
 ABC                               |Java   |Bukkit    |Unavailable |Unknown                 |Unknown              |[](https://spigotmc.org/resources/91606)
 AntiFlyPlus                       |Java   |Bukkit    |Unavailable |1.13 - 1.14             |Unknown              |[](https://spigotmc.org/resources/66144)
@@ -137,7 +137,7 @@ OmegaAntiCheat                    |Java   |Bukkit    |Unavailable |Unknown      
 Raven                             |Java   |Bukkit    |Unavailable |Unknown                 |Unknown              |[](https://spigotmc.org/resources/59105)
 TeslaAntiCheat                    |Java   |Bukkit    |Unavailable |Unknown                 |Unknown              |[](https://spigotmc.org/resources/32239)
 Visage                            |Java   |Bukkit    |Unavailable |Unknown                 |Unknown              |[](https://spigotmc.org/resources/86757)
-Moonlight                         |Bedrock|NukkitX   |Unavailable |1.19.20                 |Unknown              |[](https://github.com/disepi/Moonlight)
+Moonlight                         |Bedrock|Nukkit    |Unavailable |1.19.20                 |Unknown              |[](https://github.com/disepi/Moonlight)
 ## Premium
 Anticheat           |Edition|Platform  |Status      |Supported Versions                |Rating                |Links
 :------------------:|:-----:|:--------:|:----------:|:--------------------------------:|:--------------------:|:-:
@@ -182,7 +182,7 @@ Value             |Description                                                  
 :----------------:|:-----------------------------------------------------------:|:-:
 Anticheat         |Name of the Anticheat                                        |A name
 Edition           |The edition of the game the anticheat is on                  |Java, Bedrock
-Platform          |What modding platform the anticheat runs on                  |Bukkit, Sponge, Fabric, Forge, Skript, Datapack, NukkitX, Addon, PocketMine
+Platform          |What modding platform the anticheat runs on                  |Bukkit, Sponge, Fabric, Forge, Skript, Datapack, Nukkit, Addon, PocketMine
 Status            |Anticheat's development status                               |Active, Inactive, Unmaintained, Discontinued, Unknown, Unavailable, Old
 Supported Versions|What versions of Minecraft the anticheat supports            |Any Minecraft version
 Links             |Links to download, learn more about, or support the anticheat|Any url
