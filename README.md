@@ -140,7 +140,7 @@ Visage                            |Bukkit (Java)          |Unavailable |Unknown 
 Moonlight                         |Nukkit (Bedrock)       |Unavailable |1.19.20                 |Unknown              |[](https://github.com/disepi/Moonlight)
 ## Premium
 Anticheat           |Platform                                                   |Status      |Supported Versions                |Rating                |Links
-:------------------:|:------------------------------------------------------&--:|:----------:|:--------------------------------:|:--------------------:|:-:
+:------------------:|:---------------------------------------------------------:|:----------:|:--------------------------------:|:--------------------:|:-:
 AntiAura v2         |Bukkit (Java)                                              |Active      |1.8 - 1.19                        |**≈80%**, 353 ratings |[SpigotMC](https://spigotmc.org/resources/1368)
 AntiCheatAddition   |Bukkit (Java)                                              |Active      |1.8, 1.12, 1.15 - 1.19            |**≈90%**, 48 ratings  |[SpigotMC](https://spigotmc.org/resources/33590)
 Astro               |Bukkit (Java)                                              |Active      |1.8+                              |Unknown               |[Discord](https://discord.gg/fJGspEJnyh), [Dedicated Site](https://astroac.cc)
