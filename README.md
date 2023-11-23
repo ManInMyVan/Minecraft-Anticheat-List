@@ -175,7 +175,7 @@ Visage                            |Bukkit (Java)                                
 Value             |Description                                                  |Possible Values
 :----------------:|:-----------------------------------------------------------:|:-:
 Anticheat         |Name of the Anticheat                                        |A name
-Platform          |What modding platform the anticheat runs on                  |Bukkit (Java), Sponge (Java), Fabric (Java), Forge (Java), Skript (Java), Datapack (Java), MineStorm (Java), Nukkit (Bedrock), Behavior Pack (Bedrock), PocketMine (Bedrock)
+Platform          |What modding platform the anticheat runs on                  |Bukkit (Java), Sponge (Java), Fabric (Java), Forge (Java), Skript (Java), Datapack (Java), MineStom (Java), Nukkit (Bedrock), Behavior Pack (Bedrock), PocketMine (Bedrock)
 Status            |Anticheat's development status                               |Active, Inactive, Unmaintained, Discontinued, Unknown, Unavailable, Old
 Supported Versions|What versions of Minecraft the anticheat supports            |Any Minecraft version
 Links             |Links to download, learn more about, or support the anticheat|Any url
