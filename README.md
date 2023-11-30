@@ -1,11 +1,12 @@
 # Minecraft Anticheat List
-#### A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.
+
+**A list of (public) Minecraft anticheats, for any version of Java Edition or Bedrock Edition.**
 
 *I do not give any guarantee these work, are safe to use, or that they are good anticheats.*
 
 Some of the following anticheats cost money. Please do not pirate these anticheats, as it is illegal and no support will be given to those who do, and doing so only disrespects the author, who put their own time and effort into making an anticheat for you.
 
-## Number of anticheats: 160
+## Number of anticheats: 163
 
 Anticheat                         |Platform                                                   |Status      |Supported Versions                |Rating                |Price                                           |Links
 :--------------------------------:|:---------------------------------------------------------:|:----------:|:--------------------------------:|:--------------------:|:----------------------------------------------:|:-:
@@ -68,6 +69,7 @@ FAAC                              |Bukkit (Java)                                
 Flappy                            |Bukkit (Java)                                              |Old         |1.13 - 1.17                       |**≈80%**, 21 ratings  |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/92180), [Bukkit](https://dev.bukkit.org/projects/flappy-anticheat-1-16-1-17)
 FlopAC                            |Bukkit (Java)                                              |Old         |1.7 - 1.18.2                      |Unknown               |**Free**                                        |[GitHub](https://github.com/JTXOfficial/FlopAC)
 Flux                              |Bukkit (Java)                                              |Unknown     |1.8                               |Unknown               |**Free**                                        |[BuiltByBit](https://builtbybit.com/resources/29788)
+Fox Anti-Cheat                    |Skript (Java)                                              |Discontinued|1.8 - 1.20                        |**55%**, 4 ratings    |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/99925)
 Foxbite                           |Bukkit (Java)                                              |Old         |1.18                              |Unknown               |**Free**                                        |[GitHub](https://github.com/Foxikle/FoxBite)
 Frequency+                        |Bukkit (Java)                                              |Inactive    |1.8                               |Unknown               |**Free**                                        |[GitHub](https://github.com/MinecraftUserHAN1110/FrequencyPlus)
 Frequency                         |Bukkit (Java)                                              |Old         |Unknown                           |Unknown               |**Free**                                        |[GitHub](https://github.com/ElevatedDev/Frequency)
@@ -84,7 +86,7 @@ Horizon                           |Bukkit (Java)                                
 Incognito                         |Bukkit (Java)                                              |Old         |1.8 - 1.16                        |Unknown               |**Free**                                        |[Bukkit](https://dev.bukkit.org/projects/incognito)
 Intave                            |Bukkit (Java)                                              |Unknown     |1.8 - 1.20                        |Unknown               |**€99.99** *(EUR)*                              |[Dedicated Site](https://intave.ac)
 Integral                          |Unknown                                                    |Discontinued|Unknown                           |Unknown               |**Free**                                        |[GitHub](https://github.com/Incognitolol/Integral)
-JI Janitor                        |Bukkit (Java)                                              |Old         |1.7 - 1.13.2                      |**≈100%**, 48 ratings |**$20.00** *(?)*                                |[BuiltByBit](https://builtbybit.com/resources/2442)
+JI Janitor                        |Bukkit (Java)                                              |Old         |1.7 - 1.13.2                      |**≈100%**, 48 ratings |**$20.00** *(USD)*                              |[BuiltByBit](https://builtbybit.com/resources/2442), [SpigotMC](https://spigotmc.org/resources/75322)
 JightAntiC                        |Bukkit (Java)                                              |Old         |1.8 - 1.17                        |**20%**, 1 rating     |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/88154)
 Karhu                             |Bukkit (Java)                                              |Unknown     |1.8 - 1.18                        |Unknown               |**€25.00** *(EUR)*                              |[Dedicated Site](https://karhu.ac)
 KasAnticheat                      |Bukkit (Java)                                              |Old         |1.10 - 1.12                       |Unknown               |**Free**                                        |[Bukkit](https://dev.bukkit.org/projects/kasanticheat) [](https://spigotmc.org/resources/55889)
@@ -98,6 +100,7 @@ Meme                              |Bukkit (Java)                                
 MinecraftAntiCheat                |Bukkit (Java)                                              |Old         |1.13 - 1.15.2                     |Unknown               |**Free**                                        |[GitHub](https://github.com/network-dev/MinecraftAntiCheat)
 MineSecure Lite                   |Bukkit (Java)                                              |Old         |1.8 - 1.11.2                      |**≈70%**, 101 ratings |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/11996)
 MIU                               |Bukkit (Java)                                              |Old         |1.8                               |Unknown               |**Free**                                        |[GitHub](https://github.com/securitygab/MIU-AntiCheat-Minecraft)
+Mystical AntiCheat                |Skript (Java)                                              |Discontinued|1.7 - 1.12                        |**40%**, 2 ratings    |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/47435)
 Negativity v1                     |Bukkit (Java)                                              |Discontinued|1.8 - 1.20.1                      |**≈80%**, 150 ratings |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/48399), [GitHub](https://github.com/Elikill58/Negativity)
 NESS Reloaded                     |Bukkit (Java)                                              |Old         |1.8 - 1.17                        |**≈80%**, 35 ratings  |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/75887)
 NESS                              |Bukkit (Java)                                              |Discontinued|1.8 - 1.12                        |**≈70%**, 37 ratings  |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/53281), [GitHub](https://github.com/MSWS/NESS)
@@ -134,6 +137,7 @@ SoaromaSAC                        |Bukkit (Java)                                
 Spidey Anticheat v1               |Bukkit (Java)                                              |Discontinued|1.8                               |**20%**, 2 ratings    |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/113143)
 Storm                             |Bukkit (Java)                                              |Old         |Unknown                           |**20%**, 2 ratings    |**Free**                                        |[BuiltByBit](https://builtbybit.com/resources/16353)
 TakaAntiCheat                     |Bukkit (Java)                                              |Old         |1.8 - 1.16                        |**≈70%**, 35 ratings  |**€4.00** *(EUR)*                               |[SpigotMC](https://spigotmc.org/resources/45167)
+The Overseer                      |Skript (Java)                                              |Old         |1.8 - 1.12                        |**74.3%**, 7 ratings  |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/47437)
 ThotPatrol                        |Bukkit (Java)                                              |Discontinued|1.7 - 1.8                         |**≈90%**, 49 ratings  |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/79978), [GitHub](https://github.com/freppp/ThotPatrol)
 UltraAC                           |Bukkit (Java)                                              |Old         |Unknown                           |**80%**, 4 ratings    |**€10.00** *(EUR)*                              |[BuiltByBit](https://builtbybit.com/resources/13413)
 Vagmemes                          |Bukkit (Java)                                              |Old         |1.8.8                             |**≈70%**, 19 ratings  |**Free**                                        |[SpigotMC](https://spigotmc.org/resources/57080)
