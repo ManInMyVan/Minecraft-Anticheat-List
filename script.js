@@ -1,8 +1,4 @@
-function toggleTheme() {
-   document.body.classList.toggle("dark-mode")
-   document.body.classList.toggle("light-mode")
-}
-
+updateRating(1368) // AntiAura v2
 updateRating(83198) // AntiHaxerman
 updateRating(111260) // FoxAddition
 updateRating(112706) // Gato Anticheat
@@ -14,6 +10,10 @@ updateRating(90766) // Themis
 updateRating(48399) // Negativity v1
 updateRating(113143) // Spidey Anticheat v1
 
+async function toggleTheme() {
+   document.body.classList.toggle("dark-mode")
+   document.body.classList.toggle("light-mode")
+}
 async function fetchData(resourceid) {
    var data
    await fetch(new Request("https://api.spiget.org/v2/resources/"+resourceid))
