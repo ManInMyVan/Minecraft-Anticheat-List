@@ -198,8 +198,9 @@ const anticheats = [
    },
 ]
 
-
 var index = 0
+const numberofanticheats = 163
+document.getElementById("number-of-anticheats").innerHTML = `Number of anticheats: ${numberofanticheats} (${anticheats.length} included)`
 anticheats.forEach(async element => {
 
    if (element.resourceid != null && (element.status == null || element.rating == null)) {
