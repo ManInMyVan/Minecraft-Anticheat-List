@@ -87,13 +87,13 @@ th {
   padding: 5px;
 }
 td {
-  background: var(--color-background-2);
+  background: var(--color-background-1);
   border: 1px solid var(--color-table-border);
   text-align: center;
   padding: 5px;
 }
 tr:nth-child(even) td {
-  background: var(--color-background-1);
+  background: var(--color-background-2);
 }
 
 a {
