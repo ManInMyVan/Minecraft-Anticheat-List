@@ -80,6 +80,9 @@ const anticheats = [
       },{
          name: "GitHub",
          url: "https://github.com/micartey/Cardinal-Anticheat"
+      }, {
+         name: "BuiltByBit",
+         url: "https://builtbybit.com/resources/26622"
       }]
    }, {
       name: "FoxAddition",
@@ -195,6 +198,156 @@ const anticheats = [
          name: "SpigotMC",
          url: "https://spigotmc.org/resources/48399"
       }]
+   }, {
+      name: "AntiCheatAddition",
+      plaform: "Bukkit (Java)",
+      status: null,
+      versions: "1.8, 1.12, 1.15 - 1.20.2",
+      resourceid: 33590,
+      rating: null,
+      price: "€14.99 (EUR)",
+      links: [{
+         name: "SpigotMC",
+         url: "https://spigotmc.org/resources/33590"
+      }]
+   }, {
+      name: "Astro",
+      plaform: "Bukkit (Java)",
+      status: "Active",
+      versions: "1.8+",
+      resourceid: null,
+      rating: "Unknown",
+      price: "$30.00 (?)",
+      links: [{
+         name: "Dedicated Site",
+         url: "https://astroac.cc"
+      }, {
+         name: "Discord",
+         url: "https://discord.gg/fJGspEJnyh"
+      }]
+   }, {
+      name: "Better Bubble",
+      plaform: "Skript (Java)",
+      status: null,
+      versions: "1.13 - 1.19.4",
+      resourceid: 81404,
+      rating: null,
+      price: "Free",
+      links: [{
+         name: "SpigotMC",
+         url: "https://spigotmc.org/resources/81404"
+      }]
+   }, {
+      name: "GodsEye",
+      plaform: "Bukkit (Java)",
+      status: null,
+      versions: "1.8 - 1.20",
+      resourceid: 69595,
+      rating: null,
+      price: "£15.50 (GBP)",
+      links: [{
+         name: "SpigotMC",
+         url: "https://spigotmc.org/resources/69595"
+      }]
+   }, {
+      name: "Matrix",
+      plaform: "Bukkit (Java)",
+      status: "Active",
+      versions: "1.8.8, 1.12.2 - 1.20.4",
+      resourceid: 69595,
+      rating: "≈100%, 53 ratings",
+      price: "$22.00, $129.00, $1300.00 (?)",
+      links: [{
+         name: "BuiltByBit",
+         url: "https://builtbybit.com/resources/13999"
+      }, {
+         name: "Dedicated Site",
+         url: "https://matrix.rip"
+      }, {
+         name: null,
+         url: "https://spigotmc.org/resources/64635"
+      }]
+   }, {
+      name: "Intave",
+      plaform: "Bukkit (Java)",
+      status: "Active",
+      versions: "1.8 - 1.20",
+      resourceid: null,
+      rating: "Unknown",
+      price: "€99.99 (EUR)",
+      links: [{
+         name: "Dedicated Site",
+         url: "https://intave.ac"
+      }]
+   }, {
+      name: "Verus",
+      plaform: "Bukkit (Java)",
+      status: "Active",
+      versions: "1.7 - 1.20.1",
+      resourceid: null,
+      rating: "Unknown",
+      price: "$60.00, $125.00, $200.00 (?)",
+      links: [{
+         name: "Dedicated Site",
+         url: "https://verus.ac"
+      }, {
+         name: "Discord",
+         url: "https://discord.gg/G9RGfuZ"
+      }]
+   }, {
+      name: "Vulcan",
+      plaform: "Bukkit (Java)",
+      status: null,
+      versions: "1.7 - 1.20.4",
+      resourceid: 83626,
+      rating: null,
+      price: "$19.99 (USD)",
+      links: [{
+         name: "SpigotMC",
+         url: "https://spigotmc.org/resources/83626"
+      }, {
+         name: "Discord",
+         url: "https://discord.com/invite/SCNuwUG"
+      }]
+   }, {
+      name: "Wraith",
+      plaform: "Bukkit (Java)",
+      status: null,
+      versions: "1.8.8 - 1.20.1",
+      resourceid: 66887,
+      rating: null,
+      price: "€4.99 (EUR)",
+      links: [{
+         name: "SpigotMC",
+         url: "https://spigotmc.org/resources/66887"
+      }]
+   }, {
+      name: "AAC",
+      plaform: "Bukkit (Java)",
+      status: null,
+      versions: "1.8 - 1.16",
+      resourceid: 6442,
+      rating: null,
+      price: "£20.00 (GBP)",
+      links: [{
+         name: "SpigotMC",
+         url: "https://spigotmc.org/resources/6442"
+      }, {
+         name: "Discord",
+         url: "https://discord.com/invite/uc9w2nx"
+      }]
+   }, {
+      name: "zHack",
+      plaform: "Bukkit (Java)",
+      status: "Unknown",
+      versions: "1.8.8",
+      resourceid: null,
+      rating: "73%, 3 ratings",
+      price: "Free",
+      links: [{
+         name: "Polymart",
+         url: "https://polymart.org/resource/460"
+      }]
    },
 ]
 
@@ -221,7 +374,9 @@ anticheats.forEach(async element => {
 
       .forEach(element => {
          var links = []
-         element.links.forEach(element => links.push(`<a href="${element.url}">${element.name}</a>`))
+         element.links
+            .sort(function (a,b) {return -a.name.localeCompare(b.name)})
+            .forEach(element => {if (element.name != null) links.push(`<a href="${element.url}">${element.name}</a>`)})
          document.getElementById("anticheat-table").innerHTML +=
             `<tr>
                <td>${element.name}</td>
