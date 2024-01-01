@@ -88,7 +88,7 @@ const anticheats = [
       name: "FoxAddition",
       plaform: "Bukkit (Java)",
       status: null,
-      versions: "1.8 - 1.20.1",
+      versions: "1.7.2 - 1.20.4",
       resourceid: 111260,
       rating: null,
       price: "Free", 
