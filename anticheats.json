@@ -463,5 +463,20 @@
         "url": "https://builtbybit.com/resources/11196"
       }
     ]
+  },
+  {
+    "name": "Visage",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/86757"
+      }
+    ]
   }
 ]
