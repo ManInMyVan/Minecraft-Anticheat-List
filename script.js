@@ -18,10 +18,39 @@ async function load() {
 
       // couldn't think of a better way to do this 
       if (index >= anticheats.length) { anticheats
-         .sort(function (a, b) { 
-            if (a.status == "Active" && b.status != "Active") return -1
-            else if (a.status != "Active" && b.status == "Active") return 1
-            else return a.name.localeCompare(b.name)
+         .sort(function (a, b) {
+            // Active
+            // Inactive, Unmaintained, Discontinued, Unknown, Old
+            // Unavailable
+
+            var StatusA = -1
+            var StatusB = -1
+
+            switch (a.status) {
+               case "Active":
+                  StatusA = 2
+                  break
+               default:
+                  StatusA = 1
+                  break
+               case "Unavailable":
+                  StatusA = 0
+                  break
+            }
+            switch (b.status) {
+               case "Active":
+                  StatusB = 2
+                  break
+               default:
+                  StatusB = 1
+                  break
+               case "Unavailable":
+                  StatusB = 0
+                  break
+            }
+            if (StatusA == StatusB) return a.name.localeCompare(b.name)
+            if (StatusA > StatusB) return -1
+            return 1
          })
 
          .forEach(element => {
