@@ -505,7 +505,7 @@
     "links": [
       {
         "name":  null,
-        "url": "http://sparky.ac/"
+        "url": "http://sparky.ac"
       }
     ]
   },
@@ -551,6 +551,336 @@
       {
         "name":  null,
         "url": "https://spigotmc.org/resources/64671"
+      }
+    ]
+  },
+  {
+    "name": "NoCombatHacks",
+    "platform": "Skript (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/28159"
+      }
+    ]
+  },
+  {
+    "name": "Moonlight",
+    "platform": "Nukkit (Bedrock)",
+    "status": "Unavailable",
+    "versions": "1.19.20",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://github.com/disepi/Moonlight"
+      }
+    ]
+  },
+  {
+    "name": "MineSecure",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/35305"
+      }
+    ]
+  },
+  {
+    "name": "Logic",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "1.7 - 1.20.2",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://logicac.cc"
+      }
+    ]
+  },
+  {
+    "name": "LightAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/96341"
+      }
+    ]
+  },
+  {
+    "name": "Jinx",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/68930"
+      }
+    ]
+  },
+  {
+    "name": "GodsEye Demo",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/69281"
+      }
+    ]
+  },
+  {
+    "name": "Polar",
+    "platform": "Bukkit (Java)",
+    "status": "Active",
+    "versions": "1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "€15.00/mo, €29.00/mo, €59.00/mo (EUR)",
+    "links": [
+      {
+        "name":  "Dedicated Site",
+        "url": "https://polar.top"
+      }
+    ]
+  },
+  {
+    "name": "EdgeAC",
+    "platform": "Unknown",
+    "status": "Unknown",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "£15.00, £10/mo, £125.00 (GBP)",
+    "links": [
+      {
+        "name":  "Dedicated Site",
+        "url": "https://edgeac.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Exodus",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/51016"
+      }
+    ]
+  },
+  {
+    "name": "eFlame",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/17071"
+      }
+    ]
+  },
+  {
+    "name": "Dreya",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/64193"
+      }
+    ]
+  },
+  {
+    "name": "DakataAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/26911"
+      }
+    ]
+  },
+  {
+    "name": "CombatAnalyzer",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/85220"
+      }
+    ]
+  },
+  {
+    "name": "Buzz",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://buzzanticheat.com"
+      }
+    ]
+  },
+  {
+    "name": "BayMax",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "1.8 - 1.12",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/43972"
+      }
+    ]
+  },
+  {
+    "name": "BadPacket",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "1.7.10 - 1.9",
+    "resourceid": null,
+    "rating": "100%, 1 rating",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://builtbybit.com/resources/14236"
+      }
+    ]
+  },
+  {
+    "name": "Axolotl Cheat Detector",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/94326"
+      }
+    ]
+  },
+  {
+    "name": "AntiReach",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "1.8 - 1.8.8",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/58495"
+      }
+    ]
+  },
+  {
+    "name": "AntiFlyPlus",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "1.13 - 1.14",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/66144"
+      }
+    ]
+  },
+  {
+    "name": "Alice",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/89139"
+      }
+    ]
+  },
+  {
+    "name": "ABC",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/91606"
       }
     ]
   }
