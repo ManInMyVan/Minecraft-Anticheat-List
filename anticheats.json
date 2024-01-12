@@ -1,0 +1,433 @@
+[
+  {
+    "name": "Grim",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8, 1.12, 1.16 - 1.20.2",
+    "resourceid": 99923,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/99923"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/GrimAnticheat/Grim"
+      },
+      {
+        "name": "Hanger",
+        "url": "https://hangar.papermc.io/GrimAnticheat/GrimAnticheat"
+      },
+      {
+        "name": "Dedicated Site",
+        "url": "https://grim.ac"
+      }
+    ]
+  },
+  {
+    "name": "AntiAura v2",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.19",
+    "resourceid": 1368,
+    "rating": null,
+    "price": "£12.00 (GBP)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/1368"
+      }
+    ]
+  },
+  {
+    "name": "Ghost",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.7 - 1.20",
+    "resourceid": 111084,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/111084"
+      }
+    ]
+  },
+  {
+    "name": "AntiHaxerman",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.8",
+    "resourceid": 83198,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/83198"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Tecnio/AntiHaxerman"
+      }
+    ]
+  },
+  {
+    "name": "Cardinal",
+    "platform": "Bukkit (Java)",
+    "status": "Active",
+    "versions": "1.8 - 1.20",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free, €19.99 (EUR)",
+    "links": [
+      {
+        "name": "Dedicated Site",
+        "url": "https://cardinalanticheat.github.io/documentation"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/micartey/Cardinal-Anticheat"
+      },
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/26622"
+      }
+    ]
+  },
+  {
+    "name": "FoxAddition",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7.2 - 1.20.4",
+    "resourceid": 111260,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/111260"
+      }
+    ]
+  },
+  {
+    "name": "Updated NoCheatPlus",
+    "platform": "Bukkit (Java)",
+    "status": "Active",
+    "versions": "1.5 - 1.20",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Updated-NoCheatPlus/NoCheatPlus"
+      }
+    ]
+  },
+  {
+    "name": "Themis",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.17 - 1.20.1",
+    "resourceid": 90766,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/90766"
+      }
+    ]
+  },
+  {
+    "name": "Gato Anticheat",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.20.2",
+    "resourceid": 112706,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/112706"
+      }
+    ]
+  },
+  {
+    "name": "LiteAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.13 - 1.20",
+    "resourceid": 112053,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/112053"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/tiredvekster/LiteAntiCheat"
+      }
+    ]
+  },
+  {
+    "name": "Spidey Anticheat v2",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "resourceid": 113149,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/113149"
+      }
+    ]
+  },
+  {
+    "name": "AntiCheat (by PixelCraft55)",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.16 - 1.19",
+    "resourceid": 109375,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/109375"
+      }
+    ]
+  },
+  {
+    "name": "Negativity v1",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.8 - 1.20.1",
+    "resourceid": 48399,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/48399"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Elikill58/Negativity"
+      }
+    ]
+  },
+  {
+    "name": "Spidey Anticheat v1",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.8",
+    "resourceid": 113143,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/48399"
+      }
+    ]
+  },
+  {
+    "name": "AntiCheatAddition",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8, 1.12, 1.15 - 1.20.2",
+    "resourceid": 33590,
+    "rating": null,
+    "price": "€14.99 (EUR)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/33590"
+      }
+    ]
+  },
+  {
+    "name": "Astro",
+    "platform": "Bukkit (Java)",
+    "status": "Active",
+    "versions": "1.8+",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "$30.00 (?)",
+    "links": [
+      {
+        "name": "Dedicated Site",
+        "url": "https://astroac.cc"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/fJGspEJnyh"
+      }
+    ]
+  },
+  {
+    "name": "Better Bubble",
+    "platform": "Skript (Java)",
+    "status": null,
+    "versions": "1.13 - 1.19.4",
+    "resourceid": 81404,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/81404"
+      }
+    ]
+  },
+  {
+    "name": "GodsEye",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.20",
+    "resourceid": 69595,
+    "rating": null,
+    "price": "£15.50 (GBP)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/69595"
+      }
+    ]
+  },
+  {
+    "name": "Matrix",
+    "platform": "Bukkit (Java)",
+    "status": "Active",
+    "versions": "1.8.8, 1.12.2 - 1.20.4",
+    "resourceid": 69595,
+    "rating": "≈100%, 53 ratings",
+    "price": "$22.00, $129.00, $1300.00 (?)",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/13999"
+      },
+      {
+        "name": "Dedicated Site",
+        "url": "https://matrix.rip"
+      },
+      {
+        "name": null,
+        "url": "https://spigotmc.org/resources/64635"
+      }
+    ]
+  },
+  {
+    "name": "Intave",
+    "platform": "Bukkit (Java)",
+    "status": "Active",
+    "versions": "1.8 - 1.20",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "€99.99 (EUR)",
+    "links": [
+      {
+        "name": "Dedicated Site",
+        "url": "https://intave.ac"
+      }
+    ]
+  },
+  {
+    "name": "Verus",
+    "platform": "Bukkit (Java)",
+    "status": "Active",
+    "versions": "1.7 - 1.20.1",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "$60.00, $125.00, $200.00 (?)",
+    "links": [
+      {
+        "name": "Dedicated Site",
+        "url": "https://verus.ac"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/G9RGfuZ"
+      }
+    ]
+  },
+  {
+    "name": "Vulcan",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.20.4",
+    "resourceid": 83626,
+    "rating": null,
+    "price": "$19.99 (USD)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/83626"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/SCNuwUG"
+      }
+    ]
+  },
+  {
+    "name": "Wraith",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8.8 - 1.20.1",
+    "resourceid": 66887,
+    "rating": null,
+    "price": "€4.99 (EUR)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/66887"
+      }
+    ]
+  },
+  {
+    "name": "AAC",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.16",
+    "resourceid": 6442,
+    "rating": null,
+    "price": "£20.00 (GBP)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/6442"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.com/invite/uc9w2nx"
+      }
+    ]
+  },
+  {
+    "name": "zHack",
+    "platform": "Bukkit (Java)",
+    "status": "Unknown",
+    "versions": "1.8.8",
+    "resourceid": null,
+    "rating": "73%, 3 ratings",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Polymart",
+        "url": "https://polymart.org/resource/460"
+      }
+    ]
+  }
+]
