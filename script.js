@@ -56,7 +56,10 @@ async function load() {
          .forEach(element => {
             var links = []
             element.links
-               .sort(function (a,b) {return -a.name.localeCompare(b.name)})
+               .sort(function (a, b) {
+                  if (a.name == null || b.name == null) return 0
+                  return -a.name.localeCompare(b.name)
+               })
                .forEach(element => {if (element.name != null) links.push(`<a href="${element.url}">${element.name}</a>`)})
             document.getElementById("anticheat-table").innerHTML +=
                `<tr>
