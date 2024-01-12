@@ -523,5 +523,20 @@
         "url": "https://spigotmc.org/resources/59105"
       }
     ]
+  },
+  {
+    "name": "OmegaAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name":  null,
+        "url": "https://spigotmc.org/resources/55493"
+      }
+    ]
   }
 ]
