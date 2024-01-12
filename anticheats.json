@@ -493,5 +493,20 @@
         "url": "https://spigotmc.org/resources/32239"
       }
     ]
+  },
+  {
+    "name": "Sparky",
+    "platform": "Bukkit (Java)",
+    "status": "Unavailable",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name":  null,
+        "url": "http://sparky.ac/"
+      }
+    ]
   }
 ]
