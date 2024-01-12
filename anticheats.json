@@ -311,7 +311,7 @@
     "status": "Active",
     "versions": "1.8.8, 1.12.2 - 1.20.4",
     "resourceid": 69595,
-    "rating": "≈100%, 53 ratings",
+    "rating": "100%, 53 ratings",
     "price": "$22.00, $129.00, $1300.00 (?)",
     "links": [
       {
@@ -1010,6 +1010,168 @@
       {
         "name": "GitHub",
         "url": "https://github.com/artemisac/artemis-minecraft-anticheat"
+      }
+    ]
+  },
+  {
+    "name": "Karhu",
+    "platform": "Bukkit (Java)",
+    "status": "Unknown",
+    "versions": "1.8 - 1.18",
+    "resourceid": 18614,
+    "rating": "Unknown",
+    "price": "€25.00 (EUR)",
+    "links": [
+      {
+        "name": "Dedicated Site",
+        "url": "https://karhu.ac"
+      }
+    ]
+  },
+  {
+    "name": "WatchCat",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.8.8 - 1.13.2",
+    "resourceid": 56472,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/56472"
+      }
+    ]
+  },
+  {
+    "name": "Flappy",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.13 - 1.17",
+    "resourceid": 92180,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/92180"
+      },
+      {
+        "name": "Bukkit",
+        "url": "https://dev.bukkit.org/projects/flappy-anticheat-1-16-1-17"
+      }
+    ]
+  },
+  {
+    "name": "Anticheat (by demon1337)",
+    "platform": "Bukkit (Java)",
+    "status": "Inactive",
+    "versions": "1.7 - 1.8.9",
+    "resourceid": 93504,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/93504"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/DemonDxv/Anticheat-Open-Source"
+      }
+    ]
+  },
+  {
+    "name": "Reflex",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": null,
+        "url": "https://spigotmc.org/resources/21122"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/MeGysssTaa/reflex-anticheat-internals"
+      }
+    ]
+  },
+  {
+    "name": "AntiAura v1",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Unknown (Paid)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/1368/update?update=10078"
+      }
+    ]
+  },
+  {
+    "name": "AngelX",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8, 1.19",
+    "resourceid": null,
+    "rating": "100%, 40 ratings",
+    "price": "€30.00 (EUR)",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/10396"
+      }
+    ]
+  },
+  {
+    "name": "UltraAC",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "80%, 4 ratings",
+    "price": "€10.00 (EUR)",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/13413"
+      }
+    ]
+  },
+  {
+    "name": "TakaAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.16",
+    "resourceid": 45167,
+    "rating": null,
+    "price": "€4.00 (EUR)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/45167"
+      }
+    ]
+  },
+  {
+    "name": "KokuminAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "$4.99 (USD)",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/7564"
       }
     ]
   }
