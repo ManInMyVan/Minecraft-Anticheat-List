@@ -174,7 +174,7 @@ Sparky                            |Bukkit (Java)                                
 TeslaAntiCheat                    |Bukkit (Java)                                              |Unavailable |Unknown                           |Unknown               |**Free**                                        |[](https://spigotmc.org/resources/32239)
 Visage                            |Bukkit (Java)                                              |Unavailable |Unknown                           |Unknown               |**Free**                                        |[](https://spigotmc.org/resources/86757)
 
-*see an anticheat not on the list, discontinued/undiscontinued, want to make a improvement to the list, or see something wrong with it? Open an issue about it.*
+*see an anticheat not on the list, discontinued/undiscontinued, want to make an improvement to the list, or see something wrong with it? Open an issue about it.*
 
 Value             |Description                                                  |Possible Values
 :----------------:|:-----------------------------------------------------------:|:-:
