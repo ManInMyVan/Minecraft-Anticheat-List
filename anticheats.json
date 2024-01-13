@@ -1542,5 +1542,294 @@
         "url": "https://github.com/network-dev/MinecraftAntiCheat"
       }
     ]
+  },
+  {
+    "name": "Warden",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.16",
+    "resourceid": 81877,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/81877"
+      }
+    ]
+  },
+  {
+    "name": "Vagmemes",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8.8",
+    "resourceid": 57080,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/57080"
+      }
+    ]
+  },
+  {
+    "name": "ThotPatrol",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.7 - 1.8",
+    "resourceid": 79978,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/79978"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/freppp/ThotPatrol"
+      }
+    ]
+  },
+  {
+    "name": "The Overseer",
+    "platform": "Skript (Java)",
+    "status": null,
+    "versions": "1.8 - 1.12",
+    "resourceid": 47437,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/47437"
+      }
+    ]
+  },
+  {
+    "name": "Storm Anticheat",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "20%, 2 ratings",
+    "price": "Free",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/16353"
+      }
+    ]
+  },
+  {
+    "name": "SoaromaSAC",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.17 - 1.19",
+    "resourceid": 87702,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/87702"
+      }
+    ]
+  },
+  {
+    "name": "Singularity",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.17.1",
+    "resourceid": 97779,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/97779"
+      }
+    ]
+  },
+  {
+    "name": "SimpleAC",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.16 - 1.19",
+    "resourceid": 108249,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/108249"
+      }
+    ]
+  },
+  {
+    "name": "Shade",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8",
+    "resourceid": null,
+    "rating": "20%, 1 rating",
+    "price": "Free",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/22596"
+      }
+    ]
+  },
+  {
+    "name": "SafeHack",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.11",
+    "resourceid": 40847,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/40847"
+      }
+    ]
+  },
+  {
+    "name": "Razor AntiCheat",
+    "platform": "Skript (Java)",
+    "status": "Discontinued",
+    "versions": "1.9 - 1.11",
+    "resourceid": 33013,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/33013"
+      }
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.13",
+    "resourceid": 6207,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/6207"
+      }
+    ]
+  },
+  {
+    "name": "Phantom",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "76%, 14 ratings",
+    "price": "Free",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/3001"
+      }
+    ]
+  },
+  {
+    "name": "Ocean",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.13",
+    "resourceid": 58907,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/58907"
+      }
+    ]
+  },
+  {
+    "name": "NoWeep",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.4.7 - 1.8.4",
+    "resourceid": 6160,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/6160"
+      }
+    ]
+  },
+  {
+    "name": "Nova",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "resourceid": 104723,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/104723"
+      }
+    ]
+  },
+  {
+    "name": "NoCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.2.4",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Bukkit",
+        "url": "https://dev.bukkit.org/projects/nocheat"
+      }
+    ]
+  },
+  {
+    "name": "NoCheatPlus",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.4.5 - 1.12",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Bukkit",
+        "url": "https://dev.bukkit.org/projects/nocheatplus"
+      }
+    ]
+  },
+  {
+    "name": "NoCheatClassic",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.6.2",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Bukkit",
+        "url": "https://dev.bukkit.org/projects/nocheat-classic"
+      }
+    ]
   }
 ]
