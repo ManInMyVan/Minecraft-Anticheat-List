@@ -1174,5 +1174,373 @@
         "url": "https://builtbybit.com/resources/7564"
       }
     ]
+  },
+  {
+    "name": "JI Janitor",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.13.2",
+    "resourceid": 75322,
+    "rating": null,
+    "price": "$20.00 (USD)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/75322"
+      },
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/2442"
+      }
+    ]
+  },
+  {
+    "name": "GK",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.16",
+    "resourceid": 75691,
+    "rating": null,
+    "price": "Free, $4.99 (USD)",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/75691"
+      },
+      {
+        "name": "Dedicated Site",
+        "url": "https://gkanticheat.weebly.com"
+      }
+    ]
+  },
+  {
+    "name": "Fusion",
+    "platform": "Bukkit (Java)",
+    "status": "Unknown",
+    "versions": "1.7, 1.8",
+    "resourceid": 75691,
+    "rating": "Unknown",
+    "price": "$30.00, $70.00 (?)",
+    "links": [
+      {
+        "name": "Dedicated Site",
+        "url": "https://fusion.ac"
+      }
+    ]
+  },
+  {
+    "name": "FAAC",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8 - 1.14",
+    "resourceid": 75691,
+    "rating": "Unknown",
+    "price": "$5.00 (USD)",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/17153"
+      }
+    ]
+  },
+  {
+    "name": "Alex AntiCheat",
+    "platform": "Skript (Java)",
+    "status": null,
+    "versions": "1.7, 1.8",
+    "resourceid": 74573,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/74573"
+      }
+    ]
+  },
+  {
+    "name": "Horizon",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8.8, 1.12.2 - 1.14.4",
+    "resourceid": 65830,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/65830"
+      }
+    ]
+  },
+  {
+    "name": "Arc",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8, 1.12, 1.16, 1.17",
+    "resourceid": 65830,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/65830"
+      }
+    ]
+  },
+  {
+    "name": "NeuralAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/MrF1yn/NAC"
+      }
+    ]
+  },
+  {
+    "name": "NoAutoFish",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.12.2",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/saltedfishclub/NoAutoFish"
+      }
+    ]
+  },
+  {
+    "name": "Nukkit-AntiCheat",
+    "platform": "Nukkit (Bedrock)",
+    "status": "Discontinued",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/WetABQ/Nukkit-AntiCheat"
+      }
+    ]
+  },
+  {
+    "name": "Observer",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/gabrielvicenteYT/Observer"
+      }
+    ]
+  },
+  {
+    "name": "Oneesan",
+    "platform": "Unknown",
+    "status": "Discontinued",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/furyzen/Oneesan"
+      }
+    ]
+  },
+  {
+    "name": "Optimus",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.16.5",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/theomega24/Optimus"
+      }
+    ]
+  },
+  {
+    "name": "Pandora",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8 - 1.16",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/GoDead/Pandora"
+      }
+    ]
+  },
+  {
+    "name": "Proton",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/GoDead/proton-anticheat"
+      }
+    ]
+  },
+  {
+    "name": "Pulse",
+    "platform": "Behavior Pack (Bedrock)",
+    "status": "Discontinued",
+    "versions": "1.16.210+",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Dream23322/Pulse-Anticheat"
+      }
+    ]
+  },
+  {
+    "name": "Rogue",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8.8",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/george/rogue-anticheat"
+      }
+    ]
+  },
+  {
+    "name": "SafeguardAC",
+    "platform": "Unknown",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/terminalsin/SafeguardAC"
+      }
+    ]
+  },
+  {
+    "name": "Shadow",
+    "platform": "PocketMine (Bedrock)",
+    "status": "Discontinued",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/DarkWav/SAC"
+      }
+    ]
+  },
+  {
+    "name": "ShallowAC",
+    "platform": "Behavior Pack (Bedrock)",
+    "status": "Old",
+    "versions": "1.16.0+",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Shall0e/ShallowAC"
+      }
+    ]
+  },
+  {
+    "name": "WAntiCheatPro",
+    "platform": "Nukkit (Bedrock)",
+    "status": "Unknown",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/WetABQ/WAntiCheatPro"
+      }
+    ]
+  },
+  {
+    "name": "NoCheatMinus",
+    "platform": "Datapack (Java)",
+    "status": "Unknown",
+    "versions": "1.20+",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/n33d4n4m3/NoCheatMinus"
+      }
+    ]
+  },
+  {
+    "name": "MIU",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/securitygab/MIU-AntiCheat-Minecraft"
+      }
+    ]
+  },
+  {
+    "name": "MinecraftAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.13 - 1.15.2",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/network-dev/MinecraftAntiCheat"
+      }
+    ]
   }
 ]
