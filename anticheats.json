@@ -1831,5 +1831,370 @@
         "url": "https://dev.bukkit.org/projects/nocheat-classic"
       }
     ]
+  },
+  {
+    "name": "Rubedo",
+    "platform": "Behavior Pack (Bedrock)",
+    "status": "Active",
+    "versions": "1.19.60+",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/smell-of-curry/rubedo"
+      }
+    ]
+  },
+  {
+    "name": "SafeGuard",
+    "platform": "Behavior Pack (Bedrock)",
+    "status": "Active",
+    "versions": " 1.19.50+",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/BlaizerBrumo/SafeGuard"
+      }
+    ]
+  },
+  {
+    "name": "Scythe",
+    "platform": "Behavior Pack (Bedrock)",
+    "status": "Active",
+    "versions": " 1.20.10+",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Scythe-Anticheat/Scythe-Anticheat"
+      }
+    ]
+  },
+  {
+    "name": "AntiBhop",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.16",
+    "resourceid": 83054,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/83054"
+      }
+    ]
+  },
+  {
+    "name": "AntiCheat (by ItsJustDamian)",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.12",
+    "resourceid": 57925,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/57925"
+      }
+    ]
+  },
+  {
+    "name": "AntiCheat (by UnknowCode_)",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.13",
+    "resourceid": 64138,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/57925"
+      }
+    ]
+  },
+  {
+    "name": "ANTICHEAT (by WeLoveSpigotPlugins)",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8.8",
+    "resourceid": 38918,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/38918"
+      }
+    ]
+  },
+  {
+    "name": "AntiCheatPlus",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "Unknown",
+    "resourceid": 2714,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/2714"
+      }
+    ]
+  },
+  {
+    "name": "AnvilAC",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.19",
+    "resourceid": 99000,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/99000"
+      }
+    ]
+  },
+  {
+    "name": "Arc v2",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7.10 - 1.8.8 ",
+    "resourceid": 50805,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/50805"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Vrekt/Arc-v2"
+      }
+    ]
+  },
+  {
+    "name": "Arc",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8, 1.12, 1.16, 1.17",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Vrekt/Arc"
+      }
+    ]
+  },
+  {
+    "name": "Argus",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.7.10",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Y4nN0xX/Argus-Anticheat-minecraft-1.7.10-Paladium"
+      }
+    ]
+  },
+  {
+    "name": "AutoEye",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.7 - 1.12",
+    "resourceid": 54046,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/https://github.com/heirteir/AutoEye"
+      },
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/54046"
+      }
+    ]
+  },
+  {
+    "name": "AZ-AC",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.15",
+    "resourceid": 78727,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/78727"
+      }
+    ]
+  },
+  {
+    "name": "Basic Anti-Cheat",
+    "platform": "Bukkit (Java)",
+    "status": "Unmaintained",
+    "versions": "1.8.x, 1.12.x, 1.14.x",
+    "resourceid": 70455,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/https://github.com/MC-Jinky/BasicAntiCheat"
+      },
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/70455"
+      }
+    ]
+  },
+  {
+    "name": "Blitz AntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8, 1.9",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Bukkit",
+        "url": "https://dev.bukkit.org/projects/blitz-anticheat"
+      }
+    ]
+  },
+  {
+    "name": "Bubble Anticheat Reborn",
+    "platform": "Skript (Java)",
+    "status": "Unknown",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Dedicated Site",
+        "url": "https://steviebeenz.github.io/BubbleAnticheatReborn"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/steviebeenz/BubbleAnticheatReborn"
+      }
+    ]
+  },
+  {
+    "name": "Bubble",
+    "platform": "Skript (Java)",
+    "status": "Discontinued",
+    "versions": "1.8 - 1.14",
+    "resourceid": 78468,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/78468"
+      }
+    ]
+  },
+  {
+    "name": "Cava",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.19",
+    "resourceid": 102867,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/102867"
+      }
+    ]
+  },
+  {
+    "name": "Cenix",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.19",
+    "resourceid": 59292,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/59292"
+      }
+    ]
+  },
+  {
+    "name": "Fox Anti-Cheat",
+    "platform": "Skript (Java)",
+    "status": "Discontinued",
+    "versions": "1.8 - 1.20",
+    "resourceid": 99925,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/99925"
+      }
+    ]
+  },
+  {
+    "name": "NESS Reloaded",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.17",
+    "resourceid": 75887,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/75887"
+      }
+    ]
+  },
+  {
+    "name": "NESS",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.8 - 1.12",
+    "resourceid": 53281,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/53281"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/MSWS/NESS"
+      }
+    ]
   }
 ]
