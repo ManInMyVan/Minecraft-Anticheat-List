@@ -3,9 +3,8 @@ load()
 async function load() {
    var anticheats = await (await fetch("./anticheats.json")).json()
    var index = 0
-   const numberofanticheats = 163
 
-   document.getElementById("number-of-anticheats").innerHTML = `Number of anticheats: ${numberofanticheats} (${anticheats.length} included)`
+   document.getElementById("number-of-anticheats").innerHTML = `Number of Anticheats: ${anticheats.length}`
    anticheats.forEach(async element => {
 
       if (element.resourceid != null && (element.status == null || element.rating == null)) {
