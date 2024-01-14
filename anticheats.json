@@ -1285,6 +1285,10 @@
       {
         "name": "SpigotMC",
         "url": "https://spigotmc.org/resources/65830"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Vrekt/Arc"
       }
     ]
   },
@@ -1486,7 +1490,7 @@
   {
     "name": "WAntiCheatPro",
     "platform": "Nukkit (Bedrock)",
-    "status": "Unknown",
+    "status": "Old",
     "versions": "Unknown",
     "resourceid": null,
     "rating": "Unknown",
@@ -1501,7 +1505,7 @@
   {
     "name": "NoCheatMinus",
     "platform": "Datapack (Java)",
-    "status": "Unknown",
+    "status": "Old",
     "versions": "1.20+",
     "resourceid": null,
     "rating": "Unknown",
@@ -1987,21 +1991,6 @@
     ]
   },
   {
-    "name": "Arc",
-    "platform": "Bukkit (Java)",
-    "status": "Old",
-    "versions": "1.8, 1.12, 1.16, 1.17",
-    "resourceid": null,
-    "rating": "Unknown",
-    "price": "Free",
-    "links": [
-      {
-        "name": "GitHub",
-        "url": "https://github.com/Vrekt/Arc"
-      }
-    ]
-  },
-  {
     "name": "Argus",
     "platform": "Bukkit (Java)",
     "status": "Old",
@@ -2087,7 +2076,7 @@
   {
     "name": "Bubble Anticheat Reborn",
     "platform": "Skript (Java)",
-    "status": "Unknown",
+    "status": "Old",
     "versions": "Unknown",
     "resourceid": null,
     "rating": "Unknown",
@@ -2194,6 +2183,416 @@
       {
         "name": "GitHub",
         "url": "https://github.com/MSWS/NESS"
+      }
+    ]
+  },
+  {
+    "name": "CheaterDeleter",
+    "platform": "Fabric (Java)",
+    "status": "Old",
+    "versions": "1.17.x",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/CoolMineman/CheaterDeleter"
+      }
+    ]
+  },
+  {
+    "name": "Cheese",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.8",
+    "resourceid": null,
+    "rating": "63%, 5 ratings",
+    "price": "Free",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/21664"
+      }
+    ]
+  },
+  {
+    "name": "Daedalus",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.7 - 1.13",
+    "resourceid": 49215,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/funkemunky/Daedalus"
+      },
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/49215"
+      }
+    ]
+  },
+  {
+    "name": "FlopAC",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.7 - 1.18.2",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/JTXOfficial/FlopAC"
+      }
+    ]
+  },
+  {
+    "name": "Flux",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/29788"
+      }
+    ]
+  },
+  {
+    "name": "Foxbite",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.18",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Foxikle/FoxBite"
+      }
+    ]
+  },
+  {
+    "name": "Frequency+",
+    "platform": "Bukkit (Java)",
+    "status": "Inactive",
+    "versions": "1.8",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/MinecraftUserHAN1110/FrequencyPlus"
+      }
+    ]
+  },
+  {
+    "name": "Frequency",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/ElevatedDev/Frequency"
+      }
+    ]
+  },
+  {
+    "name": "Guardian",
+    "platform": "Skript (Java)",
+    "status": "Discontinued",
+    "versions": "1.8 - 1.10",
+    "resourceid": 29264,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/29264"
+      }
+    ]
+  },
+  {
+    "name": "GuardianSponge",
+    "platform": "Sponge (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/vectrixdevelops/guardiansponge"
+      }
+    ]
+  },
+  {
+    "name": "HackDetective",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "Unknown",
+    "resourceid": 8702,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/8702"
+      }
+    ]
+  },
+  {
+    "name": "HackWarner",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.11",
+    "resourceid": 37826,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/37826"
+      }
+    ]
+  },
+  {
+    "name": "Hades",
+    "platform": "Bukkit (Java)",
+    "status": "Inactive",
+    "versions": "1.7 - 1.15",
+    "resourceid": 65622,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Tecnio/Hades"
+      },
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/65622"
+      }
+    ]
+  },
+  {
+    "name": "Hawk",
+    "platform": "Bukkit (Java)",
+    "status": "Inactive",
+    "versions": "1.7.10, 1.8.8",
+    "resourceid": 40343,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/40343"
+      }
+    ]
+  },
+  {
+    "name": "HoneyBadger",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "resourceid": 100179,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/100179"
+      }
+    ]
+  },
+  {
+    "name": "Knockback++",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "resourceid": 36140,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/36140"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/hugo4715/KnockbackPlusPlus"
+      }
+    ]
+  },
+  {
+    "name": "Mystical AntiCheat",
+    "platform": "Skript (Java)",
+    "status": "Discontinued",
+    "versions": "1.7 - 1.12",
+    "resourceid": 47435,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/47435"
+      }
+    ]
+  },
+  {
+    "name": "Integral",
+    "platform": "Unknown",
+    "status": "Discontinued",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Incognitolol/Integral"
+      }
+    ]
+  },
+  {
+    "name": "MineSecure Lite",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.11.2",
+    "resourceid": 11996,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/11996"
+      }
+    ]
+  },
+  {
+    "name": "Meme",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": 11996,
+    "rating": "60%, 3 ratings",
+    "price": "Free",
+    "links": [
+      {
+        "name": "BuiltByBit",
+        "url": "https://builtbybit.com/resources/12279"
+      }
+    ]
+  },
+  {
+    "name": "Medusa",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.12.2",
+    "resourceid": 83345,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/83345"
+      }
+    ]
+  },
+  {
+    "name": "JightAntiC",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.17",
+    "resourceid": 88154,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/88154"
+      }
+    ]
+  },
+  {
+    "name": "Kizuki",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.8.8, 1.12.2",
+    "resourceid": 90468,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/90468"
+      }
+    ]
+  },
+  {
+    "name": "LionGuard",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.7 - 1.8",
+    "resourceid": 67207,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/67207"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/zLexis/LionGuard"
+      }
+    ]
+  },
+  {
+    "name": "KasAnticheat",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.10 - 1.12",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Bukkit",
+        "url": "https://dev.bukkit.org/projects/kasanticheat"
+      },
+      {
+        "name": null,
+        "url": "https://spigotmc.org/resources/55889"
+      }
+    ]
+  },
+  {
+    "name": "Incognito",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8 - 1.16",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "Bukkit",
+        "url": "https://dev.bukkit.org/projects/incognito"
       }
     ]
   }
