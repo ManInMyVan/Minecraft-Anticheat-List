@@ -5,84 +5,66 @@ body:
 - type: input
   attributes:
     label: Anticheat Name
-    description: "What is the anticheat called?"
+    description: "What is the Anticheat's name?"
   validations:
     required: true
-- type: dropdown
+- type: input
   attributes:
     label: Cost
-    description: "Is the anticheat free or premium (paid)?"
-    multiple: false
-    options:
-      - Free
-      - Premium
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: Edition
-    description: "Is the anticheat for Java, or Bedrock?"
-    multiple: false
-    options:
-      - Java
-      - Bedrock
-      - Unknown
+    description: "How much does the anticheat cost and in what currency?"
   validations:
     required: true
 - type: dropdown
   attributes:
     label: Platform
-    description: "What platform is the anticheat on?"
-    multiple: false
+    description: "What platforms does the anticheat support?"
+    multiple: true
     options:
-      - Bukkit
-      - Fabric
-      - Forge
-      - Nukkit
-      - Behavior Pack
-      - Skript
-      - PocketMine
+      - Bukkit (Java)
+      - Sponge (Java)
+      - Fabric (Java)
+      - Forge (Java)
+      - MineStom (Java)
+      - Skript (Java)
+      - Datapack (Java)
+      - Nukkit (Bedrock)
+      - Behavior Pack (Bedrock)
+      - PocketMine (Bedrock)
       - Unknown
-      - Other (explain in "Other explanation")
+      - Other
   validations:
     required: true
 - type: dropdown
   attributes:
     label: Status
-    description: "What is the anticheat's current status?"
+    description: "What is the anticheat's development status?"
     multiple: false
     options:
-      - Active (Recent updates, not explicitly inactive/unmaintained/discontinued)
-      - Inactive (Author has stated work on the project will be slow)
-      - Unmaintained (Explicitly unmaintained, not discontinued, but is not currently being worked on)
-      - Discontinued (Explicitly Discontinued, not being worked on)
+      - Active (Recent updates)
+      - Old (Has not been updated recently, about 4 months)
+      - Inactive (Author has stated work will be slow)
+      - Unmaintained (Author has stated it is not currently being worked on, but may be in the future)
+      - Discontinued (Author has stated it will not be worked on)
+      - Unavailable (No working official links to the Anticheat)
       - Unknown
-      - Unavailable (No working official links to the anticheat)
-      - Old (Has not been updated recently, and does not fit into any other category)
   validations:
     required: true
 - type: input
   attributes:
     label: Minecraft Versions
-    description: "What Minecraft versions does the anticheat support (if discontinued, use last supported versions)? (Unknown is an option) (DO NOT ANTICHEAT VERSION)"
+    description: "What Minecraft versions does the anticheat support? (Unknown is an option) (PLEASE DO NOT ANTICHEAT VERSION)"
   validations:
     required: true
 - type: textarea
   attributes:
     label: Links
-    description: 'What official links can be used to obtain the anticheat? (Do not use direct download links) (None or Unknown is valid, if the selected Status is "Unavailable")'
+    description: 'What official links can be used to obtain the anticheat? (if possible, do not use direct download links) ("None" is valid)'
   validations:
     required: true
 - type: input
   attributes:
     label: Rating Percentage and number of ratings
-    description: "What is the anticheats rating as a percentage? Please also include the amount of ratings received."
-  validations:
-    required: false
-- type: textarea
-  attributes:
-    label: Other explanation
-    description: 'This question is for if you selected "Other" in a question'
+    description: "What is the anticheats rating as a percentage? Please also include the amount of ratings received. If on SpigotMC, this can be skipped."
   validations:
     required: false
 - type: checkboxes
