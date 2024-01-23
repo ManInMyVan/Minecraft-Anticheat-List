@@ -2595,5 +2595,84 @@
         "url": "https://dev.bukkit.org/projects/incognito"
       }
     ]
+  },
+  {
+    "name": "Oxa AntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.12 - 1.20",
+    "resourceid": 113847,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/113847"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/WqwVzEYcc9"
+      }
+    ]
+  },
+  {
+    "name": "Azure",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "1.8.8",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/AimbotPvP/azure-anticheat"
+      }
+    ]
+  },
+  {
+    "name": "Hydro",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Incognitolol/Hydro"
+      }
+    ]
+  },
+  {
+    "name": "CloudAC",
+    "platform": "Bukkit (Java)",
+    "status": "Old",
+    "versions": "Unknown",
+    "resourceid": null,
+    "rating": "Unknown",
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Nort721/CloudAC"
+      }
+    ]
+  },
+  {
+    "name": "Storm",
+    "platform": "Bukkit (Java)",
+    "status": "Discontinued",
+    "versions": "1.8 - 1.20",
+    "resourceid": 114103,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/114103"
+      }
+    ]
   }
 ]
