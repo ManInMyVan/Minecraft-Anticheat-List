@@ -2674,5 +2674,35 @@
         "url": "https://spigotmc.org/resources/114103"
       }
     ]
+  },
+  {
+    "name": "8bAC",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.12",
+    "resourceid": 47577,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/47577"
+      }
+    ]
+  },
+  {
+    "name": "VectorHax3D",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.16",
+    "resourceid": 85021,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/85021"
+      }
+    ]
   }
 ]
