@@ -2704,5 +2704,24 @@
         "url": "https://spigotmc.org/resources/85021"
       }
     ]
+  },
+  {
+    "name": "Wave",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8 - 1.20",
+    "resourceid": 114804,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/114804"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/rRFSDpYvQ8"
+      }
+    ]
   }
 ]
