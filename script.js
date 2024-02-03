@@ -18,7 +18,6 @@ async function load() {
          if (element.status == null) {
             const OLD = 10_368_000_000 // 4 months (1000ms * 60s * 60m * 24h * 30d * 4mo)
             var dataGithub = await fetchDataGithub(element.github)
-            console.log(dataGithub)
             element.status = `${
                (dataGithub == null ? false : dataGithub.private)
                ? "Unavailable"
