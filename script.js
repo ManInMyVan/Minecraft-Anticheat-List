@@ -3,14 +3,36 @@ load()
 async function load() {
    var anticheats = await (await fetch("./anticheats.json")).json()
    var index = 0
-
    document.getElementById("number-of-anticheats").innerHTML = `Number of Anticheats: ${anticheats.length}`
    anticheats.forEach(async element => {
+      if (element.status == null || element.rating == null) {
+         var dataSpigot = await fetchDataSpigot(element.spigot)
 
-      if (element.resourceid != null && (element.status == null || element.rating == null)) {
-         data = await fetchData(element.resourceid)
-         if (element.status == null) element.status = `${10_368_000_000 > Date.now()-(data.updateDate*1000) ? 'Active' : 'Old'}`
-         if (element.rating == null) element.rating = `${(data.rating.average * 20).toFixed(0)}%, ${data.rating.count} rating${data.rating.count == 1 ? '' : 's'}`
+         if (element.rating == null) {
+            element.rating = `${
+               dataSpigot == null
+               ? "Unknown"
+               : `${(dataSpigot.rating.average * 20).toFixed(0)}%, ${dataSpigot.rating.count} rating${dataSpigot.rating.count == 1 ? '' : 's'}`}`
+         }
+
+         if (element.status == null) {
+            const OLD = 10_368_000_000 // 4 months (1000ms * 60s * 60m * 24h * 30d * 4mo)
+            var dataGithub = await fetchDataGithub(element.github)
+            console.log(dataGithub)
+            element.status = `${
+               (dataGithub == null ? false : dataGithub.private)
+               ? "Unavailable"
+               : (
+                  (dataGithub == null ? false : dataGithub.archived)
+                  ? "Discontinued"
+                  : (
+                     (OLD > Date.now() - Math.max((dataSpigot == null ? 0 : dataSpigot.updateDate * 1000), (dataGithub == null ? 0 : Date.parse(dataGithub.pushed_at))))
+                     ? "Active"
+                     : "Old"
+                  )
+               )
+            }`
+         }
       }
 
       ++index
@@ -81,6 +103,15 @@ async function toggleTheme() {
    document.body.classList.toggle("light-mode")
 }
 
-async function fetchData(resourceid) {
+async function fetchDataSpigot(resourceid) {
+   if (resourceid == null) {
+      return null
+   }
    return (await fetch(new Request("https://api.spiget.org/v2/resources/"+resourceid))).json()
+}
+async function fetchDataGithub(repo) {
+   if (repo == null) {
+      return null
+   }
+   return (await fetch(new Request("https://api.github.com/repos/"+repo))).json()
 }

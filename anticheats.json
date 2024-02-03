@@ -4,7 +4,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8, 1.12, 1.16 - 1.20.2",
-    "resourceid": 99923,
+    "spigot": 99923,
+    "github": "GrimAnticheat/Grim",
     "rating": null,
     "price": "Free",
     "links": [
@@ -31,7 +32,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.19",
-    "resourceid": 1368,
+    "spigot": 1368,
+    "github": null,
     "rating": null,
     "price": "£12.00 (GBP)",
     "links": [
@@ -46,7 +48,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.7 - 1.20",
-    "resourceid": 111084,
+    "spigot": 111084,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -61,7 +64,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.8",
-    "resourceid": 83198,
+    "spigot": 83198,
+    "github": "Tecnio/AntiHaxerman",
     "rating": null,
     "price": "Free",
     "links": [
@@ -80,7 +84,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.8 - 1.20",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free, €19.99 (EUR)",
     "links": [
@@ -103,7 +108,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7.2 - 1.20.4",
-    "resourceid": 111260,
+    "spigot": 111260,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -118,7 +124,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.5 - 1.20",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Updated-NoCheatPlus/NoCheatPlus",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -133,7 +140,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.17 - 1.20.1",
-    "resourceid": 90766,
+    "spigot": 90766,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -148,7 +156,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.20.2",
-    "resourceid": 112706,
+    "spigot": 112706,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -163,7 +172,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.13 - 1.20",
-    "resourceid": 112053,
+    "spigot": 112053,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -182,7 +192,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8",
-    "resourceid": 113149,
+    "spigot": 113149,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -197,7 +208,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.16 - 1.19",
-    "resourceid": 109375,
+    "spigot": 109375,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -212,7 +224,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.8 - 1.20.1",
-    "resourceid": 48399,
+    "spigot": 48399,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -231,7 +244,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.8",
-    "resourceid": 113143,
+    "spigot": 113143,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -246,7 +260,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8, 1.12, 1.15 - 1.20.2",
-    "resourceid": 33590,
+    "spigot": 33590,
+    "github": null,
     "rating": null,
     "price": "€14.99 (EUR)",
     "links": [
@@ -261,7 +276,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.8+",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "$30.00 (?)",
     "links": [
@@ -280,7 +296,8 @@
     "platform": "Skript (Java)",
     "status": null,
     "versions": "1.13 - 1.19.4",
-    "resourceid": 81404,
+    "spigot": 81404,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -295,7 +312,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.20",
-    "resourceid": 69595,
+    "spigot": 69595,
+    "github": null,
     "rating": null,
     "price": "£15.50 (GBP)",
     "links": [
@@ -310,7 +328,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.8.8, 1.12.2 - 1.20.4",
-    "resourceid": 69595,
+    "spigot": null,
+    "github": null,
     "rating": "100%, 53 ratings",
     "price": "$22.00, $129.00, $1300.00 (?)",
     "links": [
@@ -333,7 +352,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.8 - 1.20",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "€99.99 (EUR)",
     "links": [
@@ -348,7 +368,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.7 - 1.20.1",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "$60.00, $125.00, $200.00 (?)",
     "links": [
@@ -367,7 +388,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.20.4",
-    "resourceid": 83626,
+    "spigot": 83626,
+    "github": null,
     "rating": null,
     "price": "$19.99 (USD)",
     "links": [
@@ -386,7 +408,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8.8 - 1.20.1",
-    "resourceid": 66887,
+    "spigot": 66887,
+    "github": null,
     "rating": null,
     "price": "€4.99 (EUR)",
     "links": [
@@ -401,7 +424,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.16",
-    "resourceid": 6442,
+    "spigot": 6442,
+    "github": null,
     "rating": null,
     "price": "£20.00 (GBP)",
     "links": [
@@ -420,7 +444,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unknown",
     "versions": "1.8.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "73%, 3 ratings",
     "price": "Free",
     "links": [
@@ -435,7 +460,8 @@
     "platform": "Bukkit (Java), Sponge (Java), Fabric (Java) Minestom (Java)",
     "status": null,
     "versions": "1.8 - 1.20",
-    "resourceid": 86874,
+    "spigot": 86874,
+    "github": null,
     "rating": null,
     "price": "€8.00 (EUR)",
     "links": [
@@ -450,7 +476,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.20",
-    "resourceid": 25638,
+    "spigot": 25638,
+    "github": null,
     "rating": null,
     "price": "€22.49 (EUR)",
     "links": [
@@ -469,7 +496,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -484,7 +512,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -499,7 +528,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -514,7 +544,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -529,7 +560,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -544,7 +576,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -559,7 +592,8 @@
     "platform": "Skript (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -574,7 +608,8 @@
     "platform": "Nukkit (Bedrock)",
     "status": "Unavailable",
     "versions": "1.19.20",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -589,7 +624,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -604,7 +640,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "1.7 - 1.20.2",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -619,7 +656,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -634,7 +672,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -649,7 +688,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -664,7 +704,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "€15.00/mo, €29.00/mo, €59.00/mo (EUR)",
     "links": [
@@ -679,7 +720,8 @@
     "platform": "Unknown",
     "status": "Unknown",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "£15.00, £10/mo, £125.00 (GBP)",
     "links": [
@@ -694,7 +736,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -709,7 +752,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -724,7 +768,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -739,7 +784,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -754,7 +800,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -769,7 +816,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -784,7 +832,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "1.8 - 1.12",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -799,7 +848,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "1.7.10 - 1.9",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "100%, 1 rating",
     "price": "Free",
     "links": [
@@ -814,7 +864,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -829,7 +880,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "1.8 - 1.8.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -844,7 +896,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "1.13 - 1.14",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -859,7 +912,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -874,7 +928,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unavailable",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -889,7 +944,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "80%, 2 ratings",
     "price": "£5.00 (GBP)",
     "links": [
@@ -904,7 +960,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.7 - 1.8",
-    "resourceid": 18614,
+    "spigot": 18614,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -919,7 +976,8 @@
     "platform": "Bukkit (Java)",
     "status": "Inactive",
     "versions": "1.13 - 1.16.5",
-    "resourceid": 68657,
+    "spigot": 68657,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -934,7 +992,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unmaintained",
     "versions": "1.12.2 - 1.18.1",
-    "resourceid": 23799,
+    "spigot": 23799,
+    "github": "Rammelkast/AntiCheatReloaded",
     "rating": null,
     "price": "Free",
     "links": [
@@ -957,7 +1016,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.16",
-    "resourceid": 101667,
+    "spigot": 101667,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -972,7 +1032,8 @@
     "platform": "Bukkit (Java)",
     "status": "Active",
     "versions": "1.8 - 1.20.2",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "100%, 15 ratings",
     "price": "€69.99 (EUR)",
     "links": [
@@ -995,7 +1056,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unknown",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "artemisac/artemis-minecraft-anticheat",
     "rating": "Unknown",
     "price": "Unknown",
     "links": [
@@ -1018,7 +1080,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unknown",
     "versions": "1.8 - 1.18",
-    "resourceid": 18614,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "€25.00 (EUR)",
     "links": [
@@ -1033,7 +1096,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.8.8 - 1.13.2",
-    "resourceid": 56472,
+    "spigot": 56472,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1048,7 +1112,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.13 - 1.17",
-    "resourceid": 92180,
+    "spigot": 92180,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1067,7 +1132,8 @@
     "platform": "Bukkit (Java)",
     "status": "Inactive",
     "versions": "1.7 - 1.8.9",
-    "resourceid": 93504,
+    "spigot": 93504,
+    "github": "DemonDxv/Anticheat-Open-Source",
     "rating": null,
     "price": "Free",
     "links": [
@@ -1086,7 +1152,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "MeGysssTaa/reflex-anticheat-internals",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1105,7 +1172,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Unknown (Paid)",
     "links": [
@@ -1120,7 +1188,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.8, 1.19",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "100%, 40 ratings",
     "price": "€30.00 (EUR)",
     "links": [
@@ -1135,7 +1204,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "80%, 4 ratings",
     "price": "€10.00 (EUR)",
     "links": [
@@ -1150,7 +1220,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.16",
-    "resourceid": 45167,
+    "spigot": 45167,
+    "github": null,
     "rating": null,
     "price": "€4.00 (EUR)",
     "links": [
@@ -1165,7 +1236,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "$4.99 (USD)",
     "links": [
@@ -1180,7 +1252,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.13.2",
-    "resourceid": 75322,
+    "spigot": 75322,
+    "github": null,
     "rating": null,
     "price": "$20.00 (USD)",
     "links": [
@@ -1199,7 +1272,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.16",
-    "resourceid": 75691,
+    "spigot": 75691,
+    "github": null,
     "rating": null,
     "price": "Free, $4.99 (USD)",
     "links": [
@@ -1218,7 +1292,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unknown",
     "versions": "1.7, 1.8",
-    "resourceid": 75691,
+    "spigot": 75691,
+    "github": null,
     "rating": "Unknown",
     "price": "$30.00, $70.00 (?)",
     "links": [
@@ -1233,7 +1308,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.8 - 1.14",
-    "resourceid": 75691,
+    "spigot": 75691,
+    "github": null,
     "rating": "Unknown",
     "price": "$5.00 (USD)",
     "links": [
@@ -1248,7 +1324,8 @@
     "platform": "Skript (Java)",
     "status": null,
     "versions": "1.7, 1.8",
-    "resourceid": 74573,
+    "spigot": 74573,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1263,7 +1340,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8.8, 1.12.2 - 1.14.4",
-    "resourceid": 65830,
+    "spigot": 65830,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1278,7 +1356,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8, 1.12, 1.16, 1.17",
-    "resourceid": 65830,
+    "spigot": 65830,
+    "github": "Vrekt/Arc",
     "rating": null,
     "price": "Free",
     "links": [
@@ -1295,9 +1374,10 @@
   {
     "name": "NeuralAntiCheat",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "MrF1yn/NAC",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1310,9 +1390,10 @@
   {
     "name": "NoAutoFish",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "1.12.2",
-    "resourceid": null,
+    "spigot": null,
+    "github": "saltedfishclub/NoAutoFish",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1325,9 +1406,10 @@
   {
     "name": "Nukkit-AntiCheat",
     "platform": "Nukkit (Bedrock)",
-    "status": "Discontinued",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "WetABQ/Nukkit-AntiCheat",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1340,9 +1422,10 @@
   {
     "name": "Observer",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "gabrielvicenteYT/Observer",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1355,9 +1438,10 @@
   {
     "name": "Oneesan",
     "platform": "Unknown",
-    "status": "Discontinued",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "furyzen/Oneesan",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1370,9 +1454,10 @@
   {
     "name": "Optimus",
     "platform": "Bukkit (Java)",
-    "status": "Discontinued",
+    "status": null,
     "versions": "1.16.5",
-    "resourceid": null,
+    "spigot": null,
+    "github": "theomega24/Optimus",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1385,9 +1470,10 @@
   {
     "name": "Pandora",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "1.8 - 1.16",
-    "resourceid": null,
+    "spigot": null,
+    "github": "GoDead/Pandora",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1400,9 +1486,10 @@
   {
     "name": "Proton",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "1.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": "GoDead/proton-anticheat",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1415,9 +1502,10 @@
   {
     "name": "Pulse",
     "platform": "Behavior Pack (Bedrock)",
-    "status": "Discontinued",
+    "status": null,
     "versions": "1.16.210+",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Dream23322/Pulse-Anticheat",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1430,9 +1518,10 @@
   {
     "name": "Rogue",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "1.8.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": "george/rogue-anticheat",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1445,9 +1534,10 @@
   {
     "name": "SafeguardAC",
     "platform": "Unknown",
-    "status": "Old",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "terminalsin/SafeguardAC",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1460,9 +1550,10 @@
   {
     "name": "Shadow",
     "platform": "PocketMine (Bedrock)",
-    "status": "Discontinued",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "DarkWav/SAC",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1475,9 +1566,10 @@
   {
     "name": "ShallowAC",
     "platform": "Behavior Pack (Bedrock)",
-    "status": "Old",
+    "status": null,
     "versions": "1.16.0+",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Shall0e/ShallowAC",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1490,9 +1582,10 @@
   {
     "name": "WAntiCheatPro",
     "platform": "Nukkit (Bedrock)",
-    "status": "Old",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "WetABQ/WAntiCheatPro",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1505,9 +1598,10 @@
   {
     "name": "NoCheatMinus",
     "platform": "Datapack (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "1.20+",
-    "resourceid": null,
+    "spigot": null,
+    "github": "n33d4n4m3/NoCheatMinus",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1520,9 +1614,10 @@
   {
     "name": "MIU",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "1.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": "securitygab/MIU-AntiCheat-Minecraft",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1535,9 +1630,10 @@
   {
     "name": "MinecraftAntiCheat",
     "platform": "Bukkit (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "1.13 - 1.15.2",
-    "resourceid": null,
+    "spigot": null,
+    "github": "network-dev/MinecraftAntiCheat",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1552,7 +1648,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.16",
-    "resourceid": 81877,
+    "spigot": 81877,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1567,7 +1664,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8.8",
-    "resourceid": 57080,
+    "spigot": 57080,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1582,7 +1680,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.7 - 1.8",
-    "resourceid": 79978,
+    "spigot": 79978,
+    "github": "freppp/ThotPatrol",
     "rating": null,
     "price": "Free",
     "links": [
@@ -1601,7 +1700,8 @@
     "platform": "Skript (Java)",
     "status": null,
     "versions": "1.8 - 1.12",
-    "resourceid": 47437,
+    "spigot": 47437,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1616,7 +1716,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "20%, 2 ratings",
     "price": "Free",
     "links": [
@@ -1631,7 +1732,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.17 - 1.19",
-    "resourceid": 87702,
+    "spigot": 87702,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1646,7 +1748,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.17.1",
-    "resourceid": 97779,
+    "spigot": 97779,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1661,7 +1764,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.16 - 1.19",
-    "resourceid": 108249,
+    "spigot": 108249,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1676,7 +1780,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "20%, 1 rating",
     "price": "Free",
     "links": [
@@ -1691,7 +1796,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.11",
-    "resourceid": 40847,
+    "spigot": 40847,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1706,7 +1812,8 @@
     "platform": "Skript (Java)",
     "status": "Discontinued",
     "versions": "1.9 - 1.11",
-    "resourceid": 33013,
+    "spigot": 33013,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1721,7 +1828,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.13",
-    "resourceid": 6207,
+    "spigot": 6207,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1736,7 +1844,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "76%, 14 ratings",
     "price": "Free",
     "links": [
@@ -1751,8 +1860,9 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.13",
-    "resourceid": 58907,
+    "spigot": 58907,
     "rating": null,
+    "github": null,
     "price": "Free",
     "links": [
       {
@@ -1766,7 +1876,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.4.7 - 1.8.4",
-    "resourceid": 6160,
+    "spigot": 6160,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1781,7 +1892,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8",
-    "resourceid": 104723,
+    "spigot": 104723,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1796,7 +1908,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.2.4",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1811,7 +1924,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.4.5 - 1.12",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1826,7 +1940,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.6.2",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1839,9 +1954,10 @@
   {
     "name": "Rubedo",
     "platform": "Behavior Pack (Bedrock)",
-    "status": "Active",
+    "status": null,
     "versions": "1.19.60+",
-    "resourceid": null,
+    "spigot": null,
+    "github": "smell-of-curry/rubedo",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1854,9 +1970,10 @@
   {
     "name": "SafeGuard",
     "platform": "Behavior Pack (Bedrock)",
-    "status": "Active",
-    "versions": " 1.19.50+",
-    "resourceid": null,
+    "status": null,
+    "versions": "1.19.50+",
+    "spigot": null,
+    "github": "BlaizerBrumo/SafeGuard",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1869,9 +1986,10 @@
   {
     "name": "Scythe",
     "platform": "Behavior Pack (Bedrock)",
-    "status": "Active",
-    "versions": " 1.20.10+",
-    "resourceid": null,
+    "status": null,
+    "versions": "1.20.10+",
+    "spigot": null,
+    "github": "Scythe-Anticheat/Scythe-Anticheat",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -1886,7 +2004,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.16",
-    "resourceid": 83054,
+    "spigot": 83054,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1901,7 +2020,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.12",
-    "resourceid": 57925,
+    "spigot": 57925,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1916,7 +2036,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.13",
-    "resourceid": 64138,
+    "spigot": 64138,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1931,7 +2052,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8.8",
-    "resourceid": 38918,
+    "spigot": 38918,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1946,7 +2068,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "Unknown",
-    "resourceid": 2714,
+    "spigot": 2714,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1961,7 +2084,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.19",
-    "resourceid": 99000,
+    "spigot": 99000,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -1976,7 +2100,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7.10 - 1.8.8 ",
-    "resourceid": 50805,
+    "spigot": 50805,
+    "github": "Vrekt/Arc-v2",
     "rating": null,
     "price": "Free",
     "links": [
@@ -1995,7 +2120,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.7.10",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Y4nN0xX/Argus-Anticheat-minecraft-1.7.10-Paladium",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2010,13 +2136,14 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.7 - 1.12",
-    "resourceid": 54046,
+    "spigot": 54046,
+    "github": "heirteir/AutoEye",
     "rating": null,
     "price": "Free",
     "links": [
       {
-        "name": "GitHub",
-        "url": "https://github.com/https://github.com/heirteir/AutoEye"
+        "name": null,
+        "url": "https://github.com/heirteir/AutoEye"
       },
       {
         "name": "SpigotMC",
@@ -2029,7 +2156,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.15",
-    "resourceid": 78727,
+    "spigot": 78727,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2044,7 +2172,8 @@
     "platform": "Bukkit (Java)",
     "status": "Unmaintained",
     "versions": "1.8.x, 1.12.x, 1.14.x",
-    "resourceid": 70455,
+    "spigot": 70455,
+    "github": "MC-Jinky/BasicAntiCheat",
     "rating": null,
     "price": "Free",
     "links": [
@@ -2063,7 +2192,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.8, 1.9",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2076,9 +2206,10 @@
   {
     "name": "Bubble Anticheat Reborn",
     "platform": "Skript (Java)",
-    "status": "Old",
+    "status": null,
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "steviebeenz/BubbleAnticheatReborn",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2097,7 +2228,8 @@
     "platform": "Skript (Java)",
     "status": "Discontinued",
     "versions": "1.8 - 1.14",
-    "resourceid": 78468,
+    "spigot": 78468,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2112,7 +2244,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.19",
-    "resourceid": 102867,
+    "spigot": 102867,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2127,7 +2260,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.19",
-    "resourceid": 59292,
+    "spigot": 59292,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2142,7 +2276,8 @@
     "platform": "Skript (Java)",
     "status": "Discontinued",
     "versions": "1.8 - 1.20",
-    "resourceid": 99925,
+    "spigot": 99925,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2157,7 +2292,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.17",
-    "resourceid": 75887,
+    "spigot": 75887,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2170,9 +2306,10 @@
   {
     "name": "NESS",
     "platform": "Bukkit (Java)",
-    "status": "Discontinued",
+    "status": null,
     "versions": "1.8 - 1.12",
-    "resourceid": 53281,
+    "spigot": 53281,
+    "github": "MSWS/NESS",
     "rating": null,
     "price": "Free",
     "links": [
@@ -2191,7 +2328,8 @@
     "platform": "Fabric (Java)",
     "status": "Old",
     "versions": "1.17.x",
-    "resourceid": null,
+    "spigot": null,
+    "github": "CoolMineman/CheaterDeleter",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2206,7 +2344,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "63%, 5 ratings",
     "price": "Free",
     "links": [
@@ -2221,7 +2360,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.7 - 1.13",
-    "resourceid": 49215,
+    "spigot": 49215,
+    "github": "funkemunky/Daedalus",
     "rating": null,
     "price": "Free",
     "links": [
@@ -2240,7 +2380,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.7 - 1.18.2",
-    "resourceid": null,
+    "spigot": null,
+    "github": "JTXOfficial/FlopAC",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2255,7 +2396,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2270,7 +2412,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.18",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Foxikle/FoxBite",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2285,7 +2428,8 @@
     "platform": "Bukkit (Java)",
     "status": "Inactive",
     "versions": "1.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": "MinecraftUserHAN1110/FrequencyPlus",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2300,7 +2444,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "ElevatedDev/Frequency",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2315,7 +2460,8 @@
     "platform": "Skript (Java)",
     "status": "Discontinued",
     "versions": "1.8 - 1.10",
-    "resourceid": 29264,
+    "spigot": 29264,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2330,7 +2476,8 @@
     "platform": "Sponge (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "vectrixdevelops/guardiansponge",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2345,7 +2492,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "Unknown",
-    "resourceid": 8702,
+    "spigot": 8702,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2360,7 +2508,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.11",
-    "resourceid": 37826,
+    "spigot": 37826,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2375,7 +2524,8 @@
     "platform": "Bukkit (Java)",
     "status": "Inactive",
     "versions": "1.7 - 1.15",
-    "resourceid": 65622,
+    "spigot": 65622,
+    "github": "Tecnio/Hades",
     "rating": null,
     "price": "Free",
     "links": [
@@ -2394,7 +2544,8 @@
     "platform": "Bukkit (Java)",
     "status": "Inactive",
     "versions": "1.7.10, 1.8.8",
-    "resourceid": 40343,
+    "spigot": 40343,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2409,7 +2560,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8",
-    "resourceid": 100179,
+    "spigot": 100179,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2424,7 +2576,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8",
-    "resourceid": 36140,
+    "spigot": 36140,
+    "github": "hugo4715/KnockbackPlusPlus",
     "rating": null,
     "price": "Free",
     "links": [
@@ -2443,7 +2596,8 @@
     "platform": "Skript (Java)",
     "status": "Discontinued",
     "versions": "1.7 - 1.12",
-    "resourceid": 47435,
+    "spigot": 47435,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2458,7 +2612,8 @@
     "platform": "Unknown",
     "status": "Discontinued",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Incognitolol/Integral",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2473,7 +2628,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.11.2",
-    "resourceid": 11996,
+    "spigot": 11996,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2488,7 +2644,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": 11996,
+    "spigot": 11996,
+    "github": null,
     "rating": "60%, 3 ratings",
     "price": "Free",
     "links": [
@@ -2503,7 +2660,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.12.2",
-    "resourceid": 83345,
+    "spigot": 83345,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2518,7 +2676,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.17",
-    "resourceid": 88154,
+    "spigot": 88154,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2533,7 +2692,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.8.8, 1.12.2",
-    "resourceid": 90468,
+    "spigot": 90468,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2548,7 +2708,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.7 - 1.8",
-    "resourceid": 67207,
+    "spigot": 67207,
+    "github": "zLexis/LionGuard",
     "rating": null,
     "price": "Free",
     "links": [
@@ -2567,7 +2728,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.10 - 1.12",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2586,7 +2748,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.8 - 1.16",
-    "resourceid": null,
+    "spigot": null,
+    "github": null,
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2601,7 +2764,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.12 - 1.20",
-    "resourceid": 113847,
+    "spigot": 113847,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2620,7 +2784,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "1.8.8",
-    "resourceid": null,
+    "spigot": null,
+    "github": "AimbotPvP/azure-anticheat",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2635,7 +2800,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Incognitolol/Hydro",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2650,7 +2816,8 @@
     "platform": "Bukkit (Java)",
     "status": "Old",
     "versions": "Unknown",
-    "resourceid": null,
+    "spigot": null,
+    "github": "Nort721/CloudAC",
     "rating": "Unknown",
     "price": "Free",
     "links": [
@@ -2665,7 +2832,8 @@
     "platform": "Bukkit (Java)",
     "status": "Discontinued",
     "versions": "1.8 - 1.20",
-    "resourceid": 114103,
+    "spigot": 114103,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2680,7 +2848,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.12",
-    "resourceid": 47577,
+    "spigot": 47577,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2695,7 +2864,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.7 - 1.16",
-    "resourceid": 85021,
+    "spigot": 85021,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
@@ -2710,7 +2880,8 @@
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8 - 1.20",
-    "resourceid": 114804,
+    "spigot": 114804,
+    "github": null,
     "rating": null,
     "price": "Free",
     "links": [
