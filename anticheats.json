@@ -2894,5 +2894,21 @@
         "url": "https://discord.gg/rRFSDpYvQ8"
       }
     ]
+  },
+  {
+    "name": "Vulhain",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "spigot": null,
+    "github": "amnoah/Vulhain-Anticheat",
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/amnoah/Vulhain-Anticheat"
+      }
+    ]
   }
 ]
