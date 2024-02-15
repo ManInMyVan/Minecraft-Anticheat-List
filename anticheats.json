@@ -2910,5 +2910,21 @@
         "url": "https://github.com/amnoah/Vulhain-Anticheat"
       }
     ]
+  },
+  {
+    "name": "truthful",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "spigot": null,
+    "github": "TawnyE/truthful-anticheat",
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/TawnyE/truthful-anticheat"
+      }
+    ]
   }
 ]
