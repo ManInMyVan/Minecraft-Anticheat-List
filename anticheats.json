@@ -2878,7 +2878,7 @@
   {
     "name": "Wave",
     "platform": "Bukkit (Java)",
-    "status": null,
+    "status": "Discontinued",
     "versions": "1.8 - 1.20",
     "spigot": 114804,
     "github": null,
@@ -2912,7 +2912,7 @@
     ]
   },
   {
-    "name": "truthful",
+    "name": "Truthful",
     "platform": "Bukkit (Java)",
     "status": null,
     "versions": "1.8",
