@@ -2942,5 +2942,53 @@
         "url": "https://spigotmc.org/resources/94617"
       }
     ]
+  },
+  {
+    "name": "Perus",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "Unknown",
+    "spigot": null,
+    "github": "BendEye/Perus (1.8.8?)",
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/BendEye/Perus"
+      }
+    ]
+  },
+  {
+    "name": "BaritoneRemover",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "Unknown",
+    "spigot": null,
+    "github": "ChromMob/BaritoneRemover",
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/ChromMob/BaritoneRemover"
+      }
+    ]
+  },
+  {
+    "name": "PeyangSuperbAntiCheat",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "Unknown (1.12.2?)",
+    "spigot": null,
+    "github": "P2P-Develop/PeyangSuperbAntiCheat",
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/P2P-Develop/PeyangSuperbAntiCheat"
+      }
+    ]
   }
 ]
