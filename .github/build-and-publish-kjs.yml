@@ -1,0 +1,35 @@
+name: Build and Publish
+on: [ push, pull_request ]
+jobs:
+  build:
+    name: Test and Build
+    runs-on: ubuntu-latest
+    steps:
+
+      # Setup Java 1.8 environment for the next steps
+      - name: Setup Java
+        uses: actions/setup-java@v1
+        with:
+          java-version: 1.8
+
+      # Check out current repository
+      - name: Fetch Sources
+        uses: actions/checkout@v2
+
+      # Validate wrapper
+      - name: Validate Gradle Wrapper
+        uses: gradle/wrapper-validation-action@v1.0.3
+
+      # Build application
+      - name: Test and Build
+        run: ./gradlew build
+
+      # If main branch update, deploy to gh-pages
+      - name: Deploy
+        if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: build/distributions # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch
