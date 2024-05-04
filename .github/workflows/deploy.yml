@@ -19,6 +19,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          BRANCH: gh-pages
-          FOLDER: build/dist/js/productionExecutable
-          CLEAN: true
+          branch: pages
+          folder: build/dist/js/productionExecutable
+          clean: true
+          commit-message: "Deploy Pages"
