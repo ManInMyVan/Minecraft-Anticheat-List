@@ -2947,9 +2947,9 @@
     "name": "Perus",
     "platform": "Bukkit (Java)",
     "status": null,
-    "versions": "Unknown",
+    "versions": "Unknown (1.8.8?)",
     "spigot": null,
-    "github": "BendEye/Perus (1.8.8?)",
+    "github": "BendEye/Perus",
     "rating": null,
     "price": "Free",
     "links": [
