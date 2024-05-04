@@ -100,6 +100,6 @@ suspend fun fetch(input: String) = window.fetch(Request(input)).await()
 suspend fun Response.getJson() = JSON.parse<Array<String>>(text().await())
 suspend fun fetchJson(input: String) = fetch(input).getJson()
 fun toggleTheme() {
-   document.body.classList.toggle("dark-mode")
-   document.body.classList.toggle("light-mode")
+   document.body!!.classList!!.toggle("dark-mode")
+   document.body!!.classList!!.toggle("light-mode")
 }
