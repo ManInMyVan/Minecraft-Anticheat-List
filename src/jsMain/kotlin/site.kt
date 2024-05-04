@@ -74,7 +74,7 @@ suspend fun main() {
             else -> 1
         }
 
-        if (statusA == statusB) (a.name as String).compareTo(b.name as String) else statusA.compareTo(statusB)
+        if (statusA == statusB) a.name.compareTo(b.name) else statusA.compareTo(statusB)
     }.forEach {
         val links = mutableListOf<String>()
         it.links.sortedWith { a, b ->
