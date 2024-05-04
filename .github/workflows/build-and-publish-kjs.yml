@@ -14,15 +14,15 @@ jobs:
 
       # Check out current repository
       - name: Fetch Sources
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       # Validate wrapper
       - name: Validate Gradle Wrapper
         uses: gradle/wrapper-validation-action@v1.0.3
 
       # Build application
-      - name: Test and Build
-        run: ./gradlew build
+      - name: Build
+        run: gradle build
 
       # If main branch update, deploy to gh-pages
       - name: Deploy
