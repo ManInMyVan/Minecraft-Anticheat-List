@@ -2963,8 +2963,8 @@
     "name": "BaritoneRemover",
     "platform": "Bukkit (Java)",
     "status": null,
-    "versions": "Unknown",
-    "spigot": null,
+    "versions": "1.8 – 1.20.4",
+    "spigot": 112430,
     "github": "ChromMob/BaritoneRemover",
     "rating": null,
     "price": "Free",
@@ -2972,6 +2972,18 @@
       {
         "name": "GitHub",
         "url": "https://github.com/ChromMob/BaritoneRemover"
+      },
+      {
+        "name": "Modrinth",
+        "url": "https://modrinth.com/plugin/baritoneremover"
+      },
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/112430"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/xG8beHPXUS"
       }
     ]
   },
@@ -2988,6 +3000,22 @@
       {
         "name": "GitHub",
         "url": "https://github.com/P2P-Develop/PeyangSuperbAntiCheat"
+      }
+    ]
+  },
+  {
+    "name": "AC Light",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.7 - 1.18.2",
+    "spigot": 102136,
+    "github": null,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/102136"
       }
     ]
   }
