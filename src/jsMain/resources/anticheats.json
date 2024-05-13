@@ -3034,5 +3034,21 @@
         "url": "https://github.com/ch1ck3n-ovo/SalmonAC"
       }
     ]
+  },
+  {
+    "name": "AbdeslamNeverCheat",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "spigot": 61280,
+    "github": null,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://spigotmc.org/resources/61280"
+      }
+    ]
   }
 ]
