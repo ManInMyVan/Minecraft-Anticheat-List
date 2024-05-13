@@ -1,6 +1,8 @@
 name: Build and Deploy
 
 permissions:
+  contents: read
+  pages: write
   id-token: write
 
 on:
@@ -38,14 +40,6 @@ jobs:
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-
-      #- name: Deploy
-      #  uses: JamesIves/github-pages-deploy-action@v4
-      #  with:
-      #    branch: pages
-      #    folder: build/dist/js/productionExecutable
-      #    clean: true
-      #    commit-message: "Deploy Pages"
 
   deploy:
     environment:
