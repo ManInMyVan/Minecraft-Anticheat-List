@@ -7,7 +7,7 @@ repositories {
 }
 
 dependencies {
-    commonMainImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.8.1-Beta")
+    commonMainImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.8.1")
 }
 
 kotlin {
