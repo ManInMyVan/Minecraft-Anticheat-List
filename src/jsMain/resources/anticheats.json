@@ -1339,7 +1339,7 @@
     "name": "Horizon",
     "platform": "Bukkit (Java)",
     "status": null,
-    "versions": "1.8.8, 1.12.2 - 1.14.4",
+    "versions": "1.8.8, 1.12.2 - 1.14.4, 1.20.6",
     "spigot": 65830,
     "github": null,
     "rating": null,
@@ -3052,6 +3052,22 @@
       {
         "name": "SpigotMC",
         "url": "https://spigotmc.org/resources/61280"
+      }
+    ]
+  },
+  {
+    "name": "Degrade",
+    "platform": "Bukkit (Java)",
+    "status": null,
+    "versions": "1.8",
+    "spigot": null,
+    "github": "splatboydev/Degrade",
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/splatboydev/Degrade"
       }
     ]
   }
