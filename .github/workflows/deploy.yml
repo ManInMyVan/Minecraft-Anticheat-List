@@ -1,10 +1,5 @@
 name: Build and Deploy
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 on:
   push:
     branches: ["main"]
@@ -44,6 +39,10 @@ jobs:
 
   deploy:
     name: Deploy
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
