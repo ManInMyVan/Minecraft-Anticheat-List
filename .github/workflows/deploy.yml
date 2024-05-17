@@ -39,7 +39,7 @@ jobs:
 
   deploy:
     name: Deploy
-    needs: build
+    needs: Build
     permissions:
       pages: write
       id-token: write
