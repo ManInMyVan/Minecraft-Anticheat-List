@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Java
-        uses: actions/setup-java@v4
+        uses: actions/setup-java@v4.2.1
         with:
           java-version: 8
           distribution: "adopt"
@@ -22,10 +22,10 @@ jobs:
         run: gradle build
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v5.0.0
 
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+        uses: actions/jekyll-build-pages@v1.0.12
         with:
           source: ./build/dist/js/productionExecutable
           destination: ./_site
