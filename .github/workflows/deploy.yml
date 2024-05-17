@@ -25,7 +25,7 @@ jobs:
           distribution: "adopt"
 
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.1.6
 
       - name: Compile with Gradle
         run: gradle build
