@@ -5,17 +5,17 @@ import Utils.fourMonthsAgo
 import Utils.getJson
 import data.Status.*
 
-class Anticheat(data: dynamic) {
-    val name = data.name as String
-    val platforms = (data.platform as String).split(", ").map(Platform::valueOf)
-    var status = (data.status as? String)?.let { Status.valueOf(it) }
-    val versions = data.versions as String
-    private val spigot = data.spigot as? Int
-    private val github = data.github as? String
-    var rating = data.rating as? String
-    val price = data.price as String
-    val links = (data.links as Array<dynamic>).map { URL(it.name as? String, it.url as String) }.toTypedArray()
-
+class Anticheat(
+    val name: String,
+    val platforms: Array<Platform>,
+    var status: Status?,
+    val versions: String,
+    private val spigot: Int?,
+    private val github: String?,
+    var rating: String?,
+    val price: String,
+    val links: Array<Link>
+) {
     private suspend fun getGitHubData(): GitHubData? {
         github ?: return null
 
@@ -67,5 +67,22 @@ class Anticheat(data: dynamic) {
                 else -> Old
             }
         }
+    }
+
+    constructor(data: dynamic) : this(
+        data.name as String,
+        (data.platforms as Array<String>).map(Platform::valueOf).toTypedArray(),
+        (data.status as? String)?.let(Status::valueOf),
+        data.versions as String,
+        data.spigot as? Int,
+        data.github as? String,
+        data.rating as? String,
+        data.price as String,
+        (data.links as Array<dynamic>).map { Link(it.name as? String, it.url as String, it.name as? String == null) }.toTypedArray()
+    )
+
+    init { values += this }
+    companion object {
+        val values = mutableSetOf<Anticheat>()
     }
 }

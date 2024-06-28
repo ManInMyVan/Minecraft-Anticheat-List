@@ -60,7 +60,7 @@ val display = { anticheat: Anticheat ->
             <td>${anticheat.rating}</td>
             <td>${anticheat.price}</td>
             <td>${anticheat.links
-                .filter { it.name != null }
+                .filter { !it.hidden }
                 .sortedWith { a, b ->
                     if (a.name == null || b.name == null) return@sortedWith 0
                     return@sortedWith -a.name.compareTo(b.name)

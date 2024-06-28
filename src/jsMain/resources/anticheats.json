@@ -1,7 +1,7 @@
 [
   {
     "name": "Grim",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8.8, 1.12.2, 1.16 - 1.20.5",
     "spigot": 99923,
@@ -29,7 +29,7 @@
   },
   {
     "name": "AntiAura v2",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.19",
     "spigot": 1368,
@@ -45,7 +45,7 @@
   },
   {
     "name": "Ghost",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.7 - 1.20",
     "spigot": 111084,
@@ -61,7 +61,7 @@
   },
   {
     "name": "AntiHaxerman",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.8",
     "spigot": 83198,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Cardinal",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
     "versions": "1.8 - 1.20",
     "spigot": null,
@@ -105,7 +105,7 @@
   },
   {
     "name": "FoxAddition",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7.2 - 1.20.4",
     "spigot": 111260,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Updated NoCheatPlus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
     "versions": "1.5 - 1.20",
     "spigot": null,
@@ -137,7 +137,7 @@
   },
   {
     "name": "Themis",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.17 - 1.20.1",
     "spigot": 90766,
@@ -153,7 +153,7 @@
   },
   {
     "name": "Gato Anticheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.20.2",
     "spigot": 112706,
@@ -169,7 +169,7 @@
   },
   {
     "name": "LightAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.21",
     "spigot": 112053,
@@ -189,7 +189,7 @@
   },
   {
     "name": "Spidey Anticheat v2",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": 113149,
@@ -205,7 +205,7 @@
   },
   {
     "name": "AntiCheat (by PixelCraft55)",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.16 - 1.19",
     "spigot": 109375,
@@ -221,7 +221,7 @@
   },
   {
     "name": "Negativity v1",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.8 - 1.20.1",
     "spigot": 48399,
@@ -241,7 +241,7 @@
   },
   {
     "name": "Spidey Anticheat v1",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.8",
     "spigot": 113143,
@@ -257,7 +257,7 @@
   },
   {
     "name": "AntiCheatAddition",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8, 1.12, 1.15 - 1.20.2",
     "spigot": 33590,
@@ -273,7 +273,7 @@
   },
   {
     "name": "Astro",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
     "versions": "1.8+",
     "spigot": null,
@@ -293,7 +293,7 @@
   },
   {
     "name": "Better Bubble",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": null,
     "versions": "1.13 - 1.19.4",
     "spigot": 81404,
@@ -309,7 +309,7 @@
   },
   {
     "name": "GodsEye",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.20",
     "spigot": 69595,
@@ -325,9 +325,9 @@
   },
   {
     "name": "Matrix",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
-    "versions": "1.8.8, 1.12.2 - 1.20.4",
+    "versions": "1.8.8, 1.12.2 - 1.21",
     "spigot": null,
     "github": null,
     "rating": "100%, 53 ratings",
@@ -349,7 +349,7 @@
   },
   {
     "name": "Intave",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
     "versions": "1.8 - 1.20",
     "spigot": null,
@@ -365,7 +365,7 @@
   },
   {
     "name": "Verus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
     "versions": "1.7 - 1.20.1",
     "spigot": null,
@@ -385,9 +385,9 @@
   },
   {
     "name": "Vulcan",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
-    "versions": "1.7 - 1.20.4",
+    "versions": "1.7 - 1.20.6",
     "spigot": 83626,
     "github": null,
     "rating": null,
@@ -405,7 +405,7 @@
   },
   {
     "name": "Wraith",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8.8 - 1.20.1",
     "spigot": 66887,
@@ -421,7 +421,7 @@
   },
   {
     "name": "AAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.16",
     "spigot": 6442,
@@ -441,7 +441,7 @@
   },
   {
     "name": "zHack",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unknown",
     "versions": "1.8.8",
     "spigot": null,
@@ -457,7 +457,7 @@
   },
   {
     "name": "Negativity v2",
-    "platform": "Bukkit, Sponge, Fabric, Minestom",
+    "platforms": ["Bukkit", "Sponge", "Fabric", "Minestom"],
     "status": null,
     "versions": "1.8 - 1.20",
     "spigot": 86874,
@@ -473,7 +473,7 @@
   },
   {
     "name": "Spartan",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.20",
     "spigot": 25638,
@@ -493,7 +493,7 @@
   },
   {
     "name": "Visage",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -509,7 +509,7 @@
   },
   {
     "name": "TeslaAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -525,7 +525,7 @@
   },
   {
     "name": "Sparky",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -541,7 +541,7 @@
   },
   {
     "name": "Raven",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -557,7 +557,7 @@
   },
   {
     "name": "OmegaAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -573,7 +573,7 @@
   },
   {
     "name": "NOPE Anticheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -589,7 +589,7 @@
   },
   {
     "name": "NoCombatHacks",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -605,7 +605,7 @@
   },
   {
     "name": "Moonlight",
-    "platform": "Nukkit",
+    "platforms": ["Nukkit"],
     "status": "Unavailable",
     "versions": "1.19.20",
     "spigot": null,
@@ -621,7 +621,7 @@
   },
   {
     "name": "MineSecure",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -637,7 +637,7 @@
   },
   {
     "name": "Logic",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "1.7 - 1.20.2",
     "spigot": null,
@@ -653,7 +653,7 @@
   },
   {
     "name": "LightAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -669,7 +669,7 @@
   },
   {
     "name": "Jinx",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -685,7 +685,7 @@
   },
   {
     "name": "GodsEye Demo",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -701,9 +701,9 @@
   },
   {
     "name": "Polar",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
-    "versions": "1.8, 1.12.2, 1.16.5, 1.18 - 1.20.1",
+    "versions": "1.8, 1.12.2, 1.16.5, 1.18 - 1.20.6",
     "spigot": null,
     "github": null,
     "rating": "Unknown",
@@ -717,7 +717,7 @@
   },
   {
     "name": "EdgeAC",
-    "platform": "Unknown",
+    "platforms": ["Unknown"],
     "status": "Unknown",
     "versions": "Unknown",
     "spigot": null,
@@ -733,7 +733,7 @@
   },
   {
     "name": "Exodus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -749,7 +749,7 @@
   },
   {
     "name": "eFlame",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -765,7 +765,7 @@
   },
   {
     "name": "Dreya",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -781,7 +781,7 @@
   },
   {
     "name": "DakataAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -797,7 +797,7 @@
   },
   {
     "name": "CombatAnalyzer",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -813,7 +813,7 @@
   },
   {
     "name": "Buzz",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -829,7 +829,7 @@
   },
   {
     "name": "BayMax",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "1.8 - 1.12",
     "spigot": null,
@@ -845,7 +845,7 @@
   },
   {
     "name": "BadPacket",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "1.7.10 - 1.9",
     "spigot": null,
@@ -861,7 +861,7 @@
   },
   {
     "name": "Axolotl Cheat Detector",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -877,7 +877,7 @@
   },
   {
     "name": "AntiReach",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "1.8 - 1.8.8",
     "spigot": null,
@@ -893,7 +893,7 @@
   },
   {
     "name": "AntiFlyPlus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "1.13 - 1.14",
     "spigot": null,
@@ -909,7 +909,7 @@
   },
   {
     "name": "Alice",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -925,7 +925,7 @@
   },
   {
     "name": "ABC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unavailable",
     "versions": "Unknown",
     "spigot": null,
@@ -941,7 +941,7 @@
   },
   {
     "name": "XAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -957,7 +957,7 @@
   },
   {
     "name": "Wolf",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.7 - 1.8",
     "spigot": 18614,
@@ -973,7 +973,7 @@
   },
   {
     "name": "Wither",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Inactive",
     "versions": "1.13 - 1.16.5",
     "spigot": 68657,
@@ -989,7 +989,7 @@
   },
   {
     "name": "AntiCheatReloaded",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unmaintained",
     "versions": "1.12.2 - 1.18.1",
     "spigot": 23799,
@@ -1013,7 +1013,7 @@
   },
   {
     "name": "Kauri",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.16",
     "spigot": 101667,
@@ -1029,7 +1029,7 @@
   },
   {
     "name": "Spiter Anticheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Active",
     "versions": "1.8 - 1.20.2",
     "spigot": null,
@@ -1053,7 +1053,7 @@
   },
   {
     "name": "Artemis",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unknown",
     "versions": "Unknown",
     "spigot": null,
@@ -1077,7 +1077,7 @@
   },
   {
     "name": "Karhu",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unknown",
     "versions": "1.8 - 1.18",
     "spigot": null,
@@ -1093,7 +1093,7 @@
   },
   {
     "name": "WatchCat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.8.8 - 1.13.2",
     "spigot": 56472,
@@ -1109,7 +1109,7 @@
   },
   {
     "name": "Flappy",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.13 - 1.17",
     "spigot": 92180,
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "Anticheat (by demon1337)",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Inactive",
     "versions": "1.7 - 1.8.9",
     "spigot": 93504,
@@ -1149,7 +1149,7 @@
   },
   {
     "name": "Reflex",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "Unknown",
     "spigot": null,
@@ -1169,7 +1169,7 @@
   },
   {
     "name": "AntiAura v1",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "Unknown",
     "spigot": null,
@@ -1185,7 +1185,7 @@
   },
   {
     "name": "AngelX",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.8, 1.19",
     "spigot": null,
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "UltraAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -1217,7 +1217,7 @@
   },
   {
     "name": "TakaAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.16",
     "spigot": 45167,
@@ -1233,7 +1233,7 @@
   },
   {
     "name": "KokuminAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "JI Janitor",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.13.2",
     "spigot": 75322,
@@ -1269,7 +1269,7 @@
   },
   {
     "name": "GK",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.16",
     "spigot": 75691,
@@ -1289,7 +1289,7 @@
   },
   {
     "name": "Fusion",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unknown",
     "versions": "1.7, 1.8",
     "spigot": 75691,
@@ -1305,7 +1305,7 @@
   },
   {
     "name": "FAAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.8 - 1.14",
     "spigot": 75691,
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Alex AntiCheat",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": null,
     "versions": "1.7, 1.8",
     "spigot": 74573,
@@ -1337,7 +1337,7 @@
   },
   {
     "name": "Horizon",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8.8, 1.12.2 - 1.14.4, 1.20.6",
     "spigot": 65830,
@@ -1357,7 +1357,7 @@
   },
   {
     "name": "Arc",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8, 1.12, 1.16, 1.17",
     "spigot": 65830,
@@ -1377,7 +1377,7 @@
   },
   {
     "name": "NeuralAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "NoAutoFish",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.12.2",
     "spigot": null,
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "Nukkit-AntiCheat",
-    "platform": "Nukkit",
+    "platforms": ["Nukkit"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -1425,7 +1425,7 @@
   },
   {
     "name": "Observer",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Oneesan",
-    "platform": "Unknown",
+    "platforms": ["Unknown"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -1457,7 +1457,7 @@
   },
   {
     "name": "Optimus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.16.5",
     "spigot": null,
@@ -1473,7 +1473,7 @@
   },
   {
     "name": "Pandora",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.16",
     "spigot": null,
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "Proton",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": null,
@@ -1505,7 +1505,7 @@
   },
   {
     "name": "Pulse",
-    "platform": "BehaviorPack",
+    "platforms": ["BehaviorPack"],
     "status": null,
     "versions": "1.16.210+",
     "spigot": null,
@@ -1521,7 +1521,7 @@
   },
   {
     "name": "Rogue",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8.8",
     "spigot": null,
@@ -1537,7 +1537,7 @@
   },
   {
     "name": "SafeguardAC",
-    "platform": "Unknown",
+    "platforms": ["Unknown"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Shadow",
-    "platform": "PocketMine",
+    "platforms": ["PocketMine"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -1569,7 +1569,7 @@
   },
   {
     "name": "ShallowAC",
-    "platform": "BehaviorPack",
+    "platforms": ["BehaviorPack"],
     "status": null,
     "versions": "1.16.0+",
     "spigot": null,
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "WAntiCheatPro",
-    "platform": "Nukkit",
+    "platforms": ["Nukkit"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -1601,7 +1601,7 @@
   },
   {
     "name": "NoCheatMinus",
-    "platform": "Datapack",
+    "platforms": ["Datapack"],
     "status": null,
     "versions": "1.20+",
     "spigot": null,
@@ -1617,7 +1617,7 @@
   },
   {
     "name": "MIU",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": null,
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "MinecraftAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.13 - 1.15.2",
     "spigot": null,
@@ -1649,7 +1649,7 @@
   },
   {
     "name": "Warden",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.16",
     "spigot": 81877,
@@ -1665,7 +1665,7 @@
   },
   {
     "name": "Vagmemes",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8.8",
     "spigot": 57080,
@@ -1681,7 +1681,7 @@
   },
   {
     "name": "ThotPatrol",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.7 - 1.8",
     "spigot": 79978,
@@ -1701,7 +1701,7 @@
   },
   {
     "name": "The Overseer",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": null,
     "versions": "1.8 - 1.12",
     "spigot": 47437,
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "Storm Anticheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -1733,7 +1733,7 @@
   },
   {
     "name": "SoaromaSAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.17 - 1.19",
     "spigot": 87702,
@@ -1749,7 +1749,7 @@
   },
   {
     "name": "Singularity",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.17.1",
     "spigot": 97779,
@@ -1765,7 +1765,7 @@
   },
   {
     "name": "SimpleAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.16 - 1.19",
     "spigot": 108249,
@@ -1781,7 +1781,7 @@
   },
   {
     "name": "Shade",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.8",
     "spigot": null,
@@ -1797,7 +1797,7 @@
   },
   {
     "name": "SafeHack",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.11",
     "spigot": 40847,
@@ -1813,7 +1813,7 @@
   },
   {
     "name": "Razor AntiCheat",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": "Discontinued",
     "versions": "1.9 - 1.11",
     "spigot": 33013,
@@ -1829,7 +1829,7 @@
   },
   {
     "name": "Phoenix",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.13",
     "spigot": 6207,
@@ -1845,7 +1845,7 @@
   },
   {
     "name": "Phantom",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -1861,7 +1861,7 @@
   },
   {
     "name": "Ocean",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.13",
     "spigot": 58907,
@@ -1877,7 +1877,7 @@
   },
   {
     "name": "NoWeep",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.4.7 - 1.8.4",
     "spigot": 6160,
@@ -1893,7 +1893,7 @@
   },
   {
     "name": "Nova",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": 104723,
@@ -1909,7 +1909,7 @@
   },
   {
     "name": "NoCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.2.4",
     "spigot": null,
@@ -1925,7 +1925,7 @@
   },
   {
     "name": "NoCheatPlus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.4.5 - 1.12",
     "spigot": null,
@@ -1941,7 +1941,7 @@
   },
   {
     "name": "NoCheatClassic",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.6.2",
     "spigot": null,
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "Rubedo",
-    "platform": "BehaviorPack",
+    "platforms": ["BehaviorPack"],
     "status": null,
     "versions": "1.19.60+",
     "spigot": null,
@@ -1973,7 +1973,7 @@
   },
   {
     "name": "SafeGuard",
-    "platform": "BehaviorPack",
+    "platforms": ["BehaviorPack"],
     "status": null,
     "versions": "1.19.50+",
     "spigot": null,
@@ -1989,7 +1989,7 @@
   },
   {
     "name": "Scythe",
-    "platform": "BehaviorPack",
+    "platforms": ["BehaviorPack"],
     "status": null,
     "versions": "1.20.10+",
     "spigot": null,
@@ -2005,7 +2005,7 @@
   },
   {
     "name": "AntiBhop",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.16",
     "spigot": 83054,
@@ -2021,7 +2021,7 @@
   },
   {
     "name": "AntiCheat (by ItsJustDamian)",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.12",
     "spigot": 57925,
@@ -2037,7 +2037,7 @@
   },
   {
     "name": "AntiCheat (by UnknowCode_)",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.13",
     "spigot": 64138,
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "ANTICHEAT (by WeLoveSpigotPlugins)",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8.8",
     "spigot": 38918,
@@ -2069,7 +2069,7 @@
   },
   {
     "name": "AntiCheatPlus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "Unknown",
     "spigot": 2714,
@@ -2085,7 +2085,7 @@
   },
   {
     "name": "AnvilAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.19",
     "spigot": 99000,
@@ -2101,7 +2101,7 @@
   },
   {
     "name": "Arc v2",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7.10 - 1.8.8 ",
     "spigot": 50805,
@@ -2121,7 +2121,7 @@
   },
   {
     "name": "Argus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.7.10",
     "spigot": null,
@@ -2137,7 +2137,7 @@
   },
   {
     "name": "AutoEye",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.7 - 1.12",
     "spigot": 54046,
@@ -2157,7 +2157,7 @@
   },
   {
     "name": "AZ-AC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.15",
     "spigot": 78727,
@@ -2173,7 +2173,7 @@
   },
   {
     "name": "Basic Anti-Cheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Unmaintained",
     "versions": "1.8.x, 1.12.x, 1.14.x",
     "spigot": 70455,
@@ -2193,7 +2193,7 @@
   },
   {
     "name": "Blitz AntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.8, 1.9",
     "spigot": null,
@@ -2209,7 +2209,7 @@
   },
   {
     "name": "Bubble Anticheat Reborn",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": null,
     "versions": "Unknown",
     "spigot": null,
@@ -2229,7 +2229,7 @@
   },
   {
     "name": "Bubble",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": "Discontinued",
     "versions": "1.8 - 1.14",
     "spigot": 78468,
@@ -2245,7 +2245,7 @@
   },
   {
     "name": "Cava",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.19",
     "spigot": 102867,
@@ -2261,7 +2261,7 @@
   },
   {
     "name": "Cenix",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.19",
     "spigot": 59292,
@@ -2277,7 +2277,7 @@
   },
   {
     "name": "Fox Anti-Cheat",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": "Discontinued",
     "versions": "1.8 - 1.20",
     "spigot": 99925,
@@ -2293,7 +2293,7 @@
   },
   {
     "name": "NESS Reloaded",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.17",
     "spigot": 75887,
@@ -2309,7 +2309,7 @@
   },
   {
     "name": "NESS",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.12",
     "spigot": 53281,
@@ -2329,7 +2329,7 @@
   },
   {
     "name": "CheaterDeleter",
-    "platform": "Fabric",
+    "platforms": ["Fabric"],
     "status": "Old",
     "versions": "1.17.x",
     "spigot": null,
@@ -2345,7 +2345,7 @@
   },
   {
     "name": "Cheese",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.8",
     "spigot": null,
@@ -2361,7 +2361,7 @@
   },
   {
     "name": "Daedalus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.7 - 1.13",
     "spigot": 49215,
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "FlopAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.7 - 1.18.2",
     "spigot": null,
@@ -2397,7 +2397,7 @@
   },
   {
     "name": "Flux",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.8",
     "spigot": null,
@@ -2413,7 +2413,7 @@
   },
   {
     "name": "Foxbite",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.18",
     "spigot": null,
@@ -2429,7 +2429,7 @@
   },
   {
     "name": "Frequency+",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Inactive",
     "versions": "1.8",
     "spigot": null,
@@ -2445,7 +2445,7 @@
   },
   {
     "name": "Frequency",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -2461,7 +2461,7 @@
   },
   {
     "name": "Guardian",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": "Discontinued",
     "versions": "1.8 - 1.10",
     "spigot": 29264,
@@ -2477,7 +2477,7 @@
   },
   {
     "name": "GuardianSponge",
-    "platform": "Sponge",
+    "platforms": ["Sponge"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -2493,7 +2493,7 @@
   },
   {
     "name": "HackDetective",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "Unknown",
     "spigot": 8702,
@@ -2509,7 +2509,7 @@
   },
   {
     "name": "HackWarner",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.11",
     "spigot": 37826,
@@ -2525,7 +2525,7 @@
   },
   {
     "name": "Hades",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Inactive",
     "versions": "1.7 - 1.15",
     "spigot": 65622,
@@ -2545,7 +2545,7 @@
   },
   {
     "name": "Hawk",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Inactive",
     "versions": "1.7.10, 1.8.8",
     "spigot": 40343,
@@ -2561,7 +2561,7 @@
   },
   {
     "name": "HoneyBadger",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": 100179,
@@ -2577,7 +2577,7 @@
   },
   {
     "name": "Knockback++",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": 36140,
@@ -2597,7 +2597,7 @@
   },
   {
     "name": "Mystical AntiCheat",
-    "platform": "Skript",
+    "platforms": ["Skript"],
     "status": "Discontinued",
     "versions": "1.7 - 1.12",
     "spigot": 47435,
@@ -2613,7 +2613,7 @@
   },
   {
     "name": "Integral",
-    "platform": "Unknown",
+    "platforms": ["Unknown"],
     "status": "Discontinued",
     "versions": "Unknown",
     "spigot": null,
@@ -2629,7 +2629,7 @@
   },
   {
     "name": "MineSecure Lite",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.11.2",
     "spigot": 11996,
@@ -2645,7 +2645,7 @@
   },
   {
     "name": "Meme",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": 11996,
@@ -2661,7 +2661,7 @@
   },
   {
     "name": "Medusa",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.12.2",
     "spigot": 83345,
@@ -2677,7 +2677,7 @@
   },
   {
     "name": "JightAntiC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.17",
     "spigot": 88154,
@@ -2693,7 +2693,7 @@
   },
   {
     "name": "Kizuki",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.8.8, 1.12.2",
     "spigot": 90468,
@@ -2709,7 +2709,7 @@
   },
   {
     "name": "LionGuard",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.7 - 1.8",
     "spigot": 67207,
@@ -2729,7 +2729,7 @@
   },
   {
     "name": "KasAnticheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.10 - 1.12",
     "spigot": null,
@@ -2749,7 +2749,7 @@
   },
   {
     "name": "Incognito",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.8 - 1.16",
     "spigot": null,
@@ -2765,7 +2765,7 @@
   },
   {
     "name": "Oxa AntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.12 - 1.20",
     "spigot": 113847,
@@ -2785,7 +2785,7 @@
   },
   {
     "name": "Azure",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "1.8.8",
     "spigot": null,
@@ -2801,7 +2801,7 @@
   },
   {
     "name": "Hydro",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -2817,7 +2817,7 @@
   },
   {
     "name": "CloudAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Old",
     "versions": "Unknown",
     "spigot": null,
@@ -2833,7 +2833,7 @@
   },
   {
     "name": "Storm",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.8 - 1.20",
     "spigot": 114103,
@@ -2849,7 +2849,7 @@
   },
   {
     "name": "8bAC",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.12",
     "spigot": 47577,
@@ -2865,7 +2865,7 @@
   },
   {
     "name": "VectorHax3D",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.16",
     "spigot": 85021,
@@ -2881,7 +2881,7 @@
   },
   {
     "name": "Wave",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": "Discontinued",
     "versions": "1.8 - 1.20",
     "spigot": 114804,
@@ -2901,7 +2901,7 @@
   },
   {
     "name": "Vulhain",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": null,
@@ -2917,7 +2917,7 @@
   },
   {
     "name": "Truthful",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": null,
@@ -2933,7 +2933,7 @@
   },
   {
     "name": "Flex",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 - 1.12",
     "spigot": 94617,
@@ -2949,7 +2949,7 @@
   },
   {
     "name": "Perus",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "Unknown (1.8.8?)",
     "spigot": null,
@@ -2965,7 +2965,7 @@
   },
   {
     "name": "BaritoneRemover",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8 – 1.20.4",
     "spigot": 112430,
@@ -2993,7 +2993,7 @@
   },
   {
     "name": "PeyangSuperbAntiCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "Unknown (1.12.2?)",
     "spigot": null,
@@ -3009,7 +3009,7 @@
   },
   {
     "name": "AC Light",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.7 - 1.18.2",
     "spigot": 102136,
@@ -3025,7 +3025,7 @@
   },
   {
     "name": "Salmon",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "Unknown (1.8.8?)",
     "spigot": null,
@@ -3041,7 +3041,7 @@
   },
   {
     "name": "AbdeslamNeverCheat",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": 61280,
@@ -3057,7 +3057,7 @@
   },
   {
     "name": "Degrade",
-    "platform": "Bukkit",
+    "platforms": ["Bukkit"],
     "status": null,
     "versions": "1.8",
     "spigot": null,
