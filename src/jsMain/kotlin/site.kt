@@ -1,8 +1,11 @@
 import Utils.fetchJson
 import kotlinx.browser.document
 import data.Anticheat
+import data.Status.Active
+import data.Status.Unavailable
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch
+import kotlin.js.Date
 
 suspend fun main() {
     val anticheats = fetchJson("./anticheats.json").map {
@@ -34,14 +37,14 @@ suspend fun main() {
  */
 val anticheatSorter = Comparator<Anticheat> { a, b ->
     val statusA = when (a.status) {
-        "Active" -> 0
-        "Unavailable" -> 2
+        Active -> 0
+        Unavailable -> 2
         else -> 1
     }
 
     val statusB = when (b.status) {
-        "Active" -> 0
-        "Unavailable" -> 2
+        Active -> 0
+        Unavailable -> 2
         else -> 1
     }
 
