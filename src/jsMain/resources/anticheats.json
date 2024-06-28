@@ -1505,7 +1505,7 @@
   },
   {
     "name": "Pulse",
-    "platform": "Behavior Pack (Bedrock)",
+    "platform": "BehaviorPack (Bedrock)",
     "status": null,
     "versions": "1.16.210+",
     "spigot": null,
@@ -1569,7 +1569,7 @@
   },
   {
     "name": "ShallowAC",
-    "platform": "Behavior Pack (Bedrock)",
+    "platform": "BehaviorPack (Bedrock)",
     "status": null,
     "versions": "1.16.0+",
     "spigot": null,
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "Rubedo",
-    "platform": "Behavior Pack (Bedrock)",
+    "platform": "BehaviorPack (Bedrock)",
     "status": null,
     "versions": "1.19.60+",
     "spigot": null,
@@ -1973,7 +1973,7 @@
   },
   {
     "name": "SafeGuard",
-    "platform": "Behavior Pack (Bedrock)",
+    "platform": "BehaviorPack (Bedrock)",
     "status": null,
     "versions": "1.19.50+",
     "spigot": null,
@@ -1989,7 +1989,7 @@
   },
   {
     "name": "Scythe",
-    "platform": "Behavior Pack (Bedrock)",
+    "platform": "BehaviorPack (Bedrock)",
     "status": null,
     "versions": "1.20.10+",
     "spigot": null,

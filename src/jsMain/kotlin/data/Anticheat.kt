@@ -7,7 +7,7 @@ import data.Status.*
 
 class Anticheat(data: dynamic) {
     val name = data.name as String
-    val platform = data.platform as String
+    val platform = Platform.valueOf(data.platform as String)
     var status = (data.status as? String)?.let { Status.valueOf(it) }
     val versions = data.versions as String
     private val spigot = data.spigot as? Int

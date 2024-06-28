@@ -5,7 +5,6 @@ import data.Status.Active
 import data.Status.Unavailable
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch
-import kotlin.js.Date
 
 suspend fun main() {
     val anticheats = fetchJson("./anticheats.json").map {
