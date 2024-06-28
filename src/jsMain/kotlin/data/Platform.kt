@@ -19,7 +19,7 @@ enum class Platform(private val edition: Edition?) {
     ;
 
     private val display by lazy {
-        val name = if (this == BehaviorPack) "Behavior Pack" else name
+        val name = if (name == "BehaviorPack") "Behavior Pack" else name
         if (edition != null) {
             "$name ($edition)"
         } else name

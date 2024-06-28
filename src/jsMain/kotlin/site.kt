@@ -54,7 +54,7 @@ val display = { anticheat: Anticheat ->
     document.getElementById("anticheat-table")!!.innerHTML +=
         """<tr>
             <td>${anticheat.name}</td>
-            <td>${anticheat.platform}</td>
+            <td>${anticheat.platforms.joinToString()}</td>
             <td>${anticheat.status}</td>
             <td>${anticheat.versions}</td>
             <td>${anticheat.rating}</td>

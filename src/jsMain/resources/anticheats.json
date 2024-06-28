@@ -457,7 +457,7 @@
   },
   {
     "name": "Negativity v2",
-    "platform": "Bukkit, Sponge, Fabric Minestom",
+    "platform": "Bukkit, Sponge, Fabric, Minestom",
     "status": null,
     "versions": "1.8 - 1.20",
     "spigot": 86874,
