@@ -1,101 +1,69 @@
+import Utils.fetchJson
 import kotlinx.browser.document
-import kotlinx.browser.window
-import org.w3c.fetch.Request
-import kotlinx.coroutines.await
+import data.Anticheat
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch
-import org.w3c.fetch.Response
-import kotlin.js.Date
-import kotlin.math.max
 
 suspend fun main() {
-    val anticheats: Array<Anticheat> = run {
-        val temp = mutableListOf<Anticheat>()
-        fetchJson("./anticheats.json").forEach { temp += Anticheat(JSON.parse(JSON.stringify(it))) }
-        temp.toTypedArray()
+    val anticheats = fetchJson("./anticheats.json").map {
+        Anticheat(JSON.parse(JSON.stringify(it)))
     }
 
     document.getElementById("number-of-anticheats")!!.innerHTML = "Number of Anticheats: ${anticheats.size}"
 
     // Update ratings & statuses async
     coroutineScope {
-        var warnedAboutRateLimit = false
-        for (it in anticheats) {
-            if (it.rating != null && it.status != null)
-                continue
-
-            launch {
-                val spigotData = if (it.spigot == null) null else fetchJson("https://api.spiget.org/v2/resources/" + it.spigot).asDynamic()
-
-                if (it.rating == null) {
-                    it.rating = if (spigotData == null) "Unknown"
-                    else "${((spigotData.rating.average as Double) * 20).toInt()}%, ${(spigotData.rating.count as Int)} ${if ((spigotData.rating.count as Int) == 1) "rating" else "ratings"}"
-                }
-
-                if (it.status == null) {
-                    val githubResponse = if (it.github == null) null else fetch("https://api.github.com/repos/" + it.github)
-
-                    val githubData = if (githubResponse == null) null else if (githubResponse.status == 403.toShort()) {
-                        if (!warnedAboutRateLimit)
-                            console.warn("You have been rate limited by github, some things may be broken!")
-                        warnedAboutRateLimit = true
-                        null
-                    } else githubResponse.getJson().asDynamic()
-
-                    it.status = when {
-                        githubData != null && (githubData.private as Boolean) -> "Unavailable"
-                        githubData != null && (githubData.archived as Boolean) -> "Discontinued"
-                        // 4 months (1000ms * 60s * 60m * 24h * 30d * 4mo)
-                        10_368_000_000 > Date.now() - max(
-                            if (spigotData == null) 0.0 else (spigotData.updateDate as Double) * 1000,
-                            if (githubData == null) 0.0 else Date.parse(githubData.pushed_at as String)
-                        ) -> "Active"
-                        else -> "Old"
-                    }
-                }
+        for (it in anticheats) launch {
+            try {
+                it.update()
+            } catch (error: Throwable) {
+                console.warn("Uncaught exception while getting data for ${it.name}: ${error.message}")
+                error.printStackTrace()
             }
         }
     }
 
-    anticheats.sortedWith { a, b ->
-        // Active
-        // Inactive, Unmaintained, Discontinued, Unknown, Old
-        // Unavailable
-
-        val statusA = when (a.status) {
-            "Active" -> 0
-            "Unavailable" -> 2
-            else -> 1
-        }
-
-        val statusB = when (b.status) {
-            "Active" -> 0
-            "Unavailable" -> 2
-            else -> 1
-        }
-
-        if (statusA == statusB) a.name.compareTo(b.name) else statusA.compareTo(statusB)
-    }.forEach {
-        val links = mutableListOf<String>()
-        it.links.sortedWith { a, b ->
-            if (a.name == null || b.name == null) return@sortedWith 0
-            return@sortedWith -a.name.compareTo(b.name)
-        }.forEach { link -> if (link.name != null) links += "<a href=\"${link.url}\">${link.name}</a>" }
-
-        document.getElementById("anticheat-table")!!.innerHTML +=
-            """<tr>
-            <td>${it.name}</td>
-            <td>${it.platform}</td>
-            <td>${it.status}</td>
-            <td>${it.versions}</td>
-            <td>${it.rating}</td>
-            <td>${it.price}</td>
-            <td>${links.joinToString(", ")}</td>
-            </tr>
-            """
-    }
+    anticheats.sortedWith(anticheatSorter).forEach(display)
 }
 
-suspend fun fetch(input: String) = window.fetch(Request(input)).await()
-suspend fun Response.getJson() = JSON.parse<Array<String>>(text().await())
-suspend fun fetchJson(input: String) = fetch(input).getJson()
+/**
+ * Sorts in the following order:
+ * 1. Active
+ * 2. Inactive, Unmaintained, Discontinued, Unknown, Old
+ * 3. Unavailable
+ */
+val anticheatSorter = Comparator<Anticheat> { a, b ->
+    val statusA = when (a.status) {
+        "Active" -> 0
+        "Unavailable" -> 2
+        else -> 1
+    }
+
+    val statusB = when (b.status) {
+        "Active" -> 0
+        "Unavailable" -> 2
+        else -> 1
+    }
+
+    return@Comparator if (statusA == statusB) a.name.compareTo(b.name) else statusA.compareTo(statusB)
+}
+
+val display = { anticheat: Anticheat ->
+    document.getElementById("anticheat-table")!!.innerHTML +=
+        """<tr>
+            <td>${anticheat.name}</td>
+            <td>${anticheat.platform}</td>
+            <td>${anticheat.status}</td>
+            <td>${anticheat.versions}</td>
+            <td>${anticheat.rating}</td>
+            <td>${anticheat.price}</td>
+            <td>${anticheat.links
+                .filter { it.name != null }
+                .sortedWith { a, b ->
+                    if (a.name == null || b.name == null) return@sortedWith 0
+                    return@sortedWith -a.name.compareTo(b.name)
+                }.joinToString(", ") { "<a href=\"${it.url}\">${it.name}</a>" }
+            }</td>
+            </tr>
+            """
+}
