@@ -1250,7 +1250,7 @@
   {
     "name": "JI Janitor",
     "platforms": ["Bukkit"],
-    "status": null,
+    "status": "Old",
     "versions": "1.7 - 1.13.2",
     "spigot": 75322,
     "github": null,
