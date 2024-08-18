@@ -34,7 +34,14 @@ class Anticheat(
 
     private suspend fun getSpigotData(): SpigotData? {
         spigot ?: return null
-        return SpigotData(fetch("https://api.spiget.org/v2/resources/$spigot").getJson().asDynamic())
+
+        val response = fetch("https://api.spiget.org/v2/resources/$spigot")
+
+        when (response.status.toInt()) {
+            404 -> return null
+        }
+
+        return SpigotData(response.getJson().asDynamic())
     }
 
     suspend fun update() {
