@@ -60,10 +60,14 @@ class Anticheat(
                 return
             }
 
+            if (spigotData == null && spigot != null && github == null) {
+                status = Unavailable
+            }
+
             val githubData = getGitHubData()
 
             if (githubData == null) {
-                status = if (spigotData == null && spigot != null) Unavailable else Old
+                status = Old
                 return
             }
 
