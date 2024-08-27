@@ -370,7 +370,7 @@
   {
     "name": "Verus",
     "platforms": ["Bukkit"],
-    "status": "Active",
+    "status": "Old",
     "versions": "1.7 - 1.20.1",
     "spigot": null,
     "github": null,
