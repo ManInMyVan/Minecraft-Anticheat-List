@@ -360,6 +360,10 @@
       {
         "name": "Dedicated Site",
         "url": "https://intave.ac"
+      },
+      {
+        "name": "Discord",
+        "url": "https://intave.ac/go/discord"
       }
     ]
   },
@@ -712,6 +716,10 @@
       {
         "name": "Dedicated Site",
         "url": "https://polar.top"
+      },
+      {
+        "name": "Discord",
+        "url": "https://polar.top/discord"
       }
     ]
   },
