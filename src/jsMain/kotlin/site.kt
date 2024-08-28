@@ -7,23 +7,24 @@ import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch
 
 suspend fun main() {
-    val anticheats = fetchJson("./anticheats.json").map {
-        Anticheat(JSON.parse(JSON.stringify(it)))
+    val anticheats: MutableList<Anticheat> = mutableListOf()
+
+    coroutineScope {
+        for (json in fetchJson("./anticheats.json")) launch {
+            val anticheat = Anticheat(JSON.parse(JSON.stringify(json)))
+
+            try {
+                anticheat.update()
+            } catch (error: Throwable) {
+                console.error("Uncaught exception while getting data for ${anticheat.name}: ${error.message}")
+                error.printStackTrace()
+            }
+
+            anticheats += anticheat
+        }
     }
 
     document.getElementById("number-of-anticheats")!!.innerHTML = "Number of Anticheats: ${anticheats.size}"
-
-    // Update ratings & statuses async
-    coroutineScope {
-        for (it in anticheats) launch {
-            try {
-                it.update()
-            } catch (error: Throwable) {
-                console.warn("Uncaught exception while getting data for ${it.name}: ${error.message}")
-                error.printStackTrace()
-            }
-        }
-    }
 
     anticheats.sortedWith(anticheatSorter).forEach(display)
 }

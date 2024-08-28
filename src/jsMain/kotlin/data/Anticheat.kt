@@ -26,7 +26,7 @@ class Anticheat(
                 GitHubData.warnAboutRateLimit()
                 return null
             }
-            404 -> return GitHubData(private = true, archived = false, lastPush = 0.0)
+            404 -> return GitHubData.NONE
         }
 
         return GitHubData(response.getJson().asDynamic())
