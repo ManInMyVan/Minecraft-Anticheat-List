@@ -3094,5 +3094,21 @@
         "url": "https://www.spigotmc.org/resources/controlac.116137/"
       }
     ]
+  },
+  {
+    "name": "WatchedAC 2",
+    "platforms": ["Bukkit"],
+    "status": null,
+    "versions": "1.8, 1.20",
+    "spigot": 119100,
+    "github": null,
+    "rating": null,
+    "price": "Free",
+    "links": [
+      {
+        "name": "SpigotMC",
+        "url": "https://www.spigotmc.org/resources/watchedac2.119100/"
+      }
+    ]
   }
 ]
