@@ -261,13 +261,17 @@
     "status": null,
     "versions": "1.8.8, 1.12.2, 1.16.5 - 1.21",
     "spigot": 33590,
-    "github": null,
+    "github": Photon-GitHub/AntiCheatAddition,
     "rating": null,
     "price": "€14.99 (EUR)",
     "links": [
       {
         "name": "SpigotMC",
         "url": "https://spigotmc.org/resources/33590"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Photon-GitHub/AntiCheatAddition"
       }
     ]
   },
