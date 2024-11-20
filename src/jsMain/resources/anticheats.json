@@ -259,7 +259,7 @@
     "name": "AntiCheatAddition",
     "platforms": ["Bukkit"],
     "status": null,
-    "versions": "1.8, 1.12, 1.16 - 1.20.6",
+    "versions": "1.8, 1.12, 1.16 - 1.21",
     "spigot": 33590,
     "github": null,
     "rating": null,
