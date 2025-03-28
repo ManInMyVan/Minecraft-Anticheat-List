@@ -480,10 +480,10 @@
     ]
   },
   {
-    "name": "Spartan",
+    "name": "Vacan",
     "platforms": ["Bukkit"],
     "status": null,
-    "versions": "1.7 - 1.20",
+    "versions": "1.7 - 1.21.5",
     "spigot": 25638,
     "github": null,
     "rating": null,
