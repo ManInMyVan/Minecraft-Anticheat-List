@@ -1,5 +1,5 @@
 name: New AntiCheat
-description: Found a new anticheat? ask me to add it here.
+description: Found an anticheat not on the list? Request it to be added here.
 labels: "new anticheat"
 body:
 - type: input
@@ -11,13 +11,13 @@ body:
 - type: input
   attributes:
     label: Cost
-    description: "How much does the anticheat cost and in what currency?"
+    description: "How much does the anticheat cost and in what currency? (for example, $19.99 (USD))"
   validations:
     required: true
 - type: dropdown
   attributes:
-    label: Platform
-    description: "What platforms does the anticheat support?"
+    label: Platform(s)
+    description: "What platform(s) does the anticheat support?"
     multiple: true
     options:
       - Bukkit (Java)
@@ -64,7 +64,7 @@ body:
 - type: input
   attributes:
     label: Rating Percentage and number of ratings
-    description: "What is the anticheats rating as a percentage? Please also include the amount of ratings received. If on SpigotMC, this can be skipped."
+    description: "If any platforms show ratings, what is the anticheat's rating as a percentage, and how many ratings does it have? (for example, 100%, 20 ratings) If on SpigotMC, this can be skipped."
   validations:
     required: false
 - type: checkboxes
