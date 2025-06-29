@@ -6,7 +6,6 @@ body:
   attributes:
     label: Description
     description: "A clear and concise description of what the suggestion is."
-    render: yml
   validations:
     required: true
 - type: checkboxes
