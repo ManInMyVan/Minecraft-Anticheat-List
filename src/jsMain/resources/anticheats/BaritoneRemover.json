@@ -1,0 +1,29 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.8 – 1.20.6",
+  "spigot": 112430,
+  "github": "ChromMob/BaritoneRemover",
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/ChromMob/BaritoneRemover"
+    },
+    {
+      "name": "Modrinth",
+      "url": "https://modrinth.com/plugin/baritoneremover"
+    },
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/112430"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/xG8beHPXUS"
+    }
+  ]
+}

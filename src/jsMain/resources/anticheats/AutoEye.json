@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Discontinued",
+  "versions": "1.7 - 1.12",
+  "spigot": 54046,
+  "github": "heirteir/AutoEye",
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": null,
+      "url": "https://github.com/heirteir/AutoEye"
+    },
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/54046"
+    }
+  ]
+}

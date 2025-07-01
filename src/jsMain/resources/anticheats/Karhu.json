@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Unknown",
+  "versions": "1.8 - 1.18",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "€25.00 (EUR)",
+  "links": [
+    {
+      "name": "Dedicated Site",
+      "url": "https://karhu.ac"
+    }
+  ]
+}

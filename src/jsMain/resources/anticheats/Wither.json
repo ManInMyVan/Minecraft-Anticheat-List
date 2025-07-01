@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Inactive",
+  "versions": "1.13 - 1.16.5",
+  "spigot": 68657,
+  "github": null,
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/68657"
+    }
+  ]
+}

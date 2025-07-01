@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anticheat",
+  "description": "Schema for anticheat entries.",
+  "type": "object",
+  "required": ["platforms", "status", "versions", "rating", "price"],
+  "properties": {
+    "platforms": {
+      "type": ["array", "null"],
+      "uniqueItems": true,
+      "default": null,
+      "items": {
+        "type": "string",
+        "enum": [
+          "Bukkit",
+          "Sponge",
+          "Skript",
+          "Minestom",
+          "Datapack",
+          "Fabric",
+          "Forge",
+          "Nukkit",
+          "BehaviorPack",
+          "PocketMine"
+        ]
+      },
+      "minItems": 1
+    },
+    "status": {
+      "type": ["string", "null"],
+      "default": "Unknown",
+      "enum": ["Active", "Inactive", "Unmaintained", "Discontinued", "Unknown", "Old", "Unavailable", null]
+    },
+    "versions": {
+      "type": "string",
+      "default": "Unknown",
+      "minLength": 1
+    },
+    "spigot": {
+      "type": ["integer", "null"],
+      "default": null
+    },
+    "github": {
+      "type": ["string", "null"],
+      "default": null
+    },
+    "rating": {},
+    "price": {
+      "type": "string",
+      "anyOf": [
+        {},
+        {
+          "enum": ["Free"]
+        }
+      ]
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": ["string", "null"],
+            "anyOf": [
+              {},
+              {
+                "enum": [
+                  "GitHub",
+                  "SpigotMC",
+                  "Bukkit",
+                  "BuiltByBit",
+                  "Discord",
+                  "Dedicated Site",
+                  "BStats",
+                  "Hangar",
+                  "Polymart"
+                ]
+              }
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://.*$"
+          }
+        },
+        "required": ["name", "url"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "if": {
+    "properties": {
+      "spigot": {
+        "not": {
+          "type": "null"
+        }
+      }
+    },
+    "required": ["spigot"]
+  },
+  "then": {
+    "properties": {
+      "rating": {
+        "type": ["string", "null"],
+        "default": null
+      }
+    }
+  },
+  "else": {
+    "properties": {
+      "rating": {
+        "type": "string",
+        "default": "Unknown"
+      }
+    }
+  },
+  "additionalProperties": false
+}

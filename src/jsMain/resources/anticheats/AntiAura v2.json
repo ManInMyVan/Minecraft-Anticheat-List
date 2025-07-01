@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.8 - 1.19",
+  "spigot": 1368,
+  "github": null,
+  "rating": null,
+  "price": "£12.00 (GBP)",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/1368"
+    }
+  ]
+}

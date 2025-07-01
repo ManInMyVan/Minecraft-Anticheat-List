@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Discontinued",
+  "versions": "1.7 - 1.8",
+  "spigot": 79978,
+  "github": "freppp/ThotPatrol",
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/79978"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/freppp/ThotPatrol"
+    }
+  ]
+}

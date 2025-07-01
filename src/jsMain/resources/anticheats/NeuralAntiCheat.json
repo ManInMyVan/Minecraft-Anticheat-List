@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "Unknown",
+  "spigot": null,
+  "github": "MrF1yn/NAC",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/MrF1yn/NAC"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.8 - 1.16",
+  "spigot": 75691,
+  "github": null,
+  "rating": null,
+  "price": "Free, $4.99 (USD)",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/75691"
+    },
+    {
+      "name": "Dedicated Site",
+      "url": "https://gkanticheat.weebly.com"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.21.4+",
+  "spigot": null,
+  "github": "amnoah/BetterAnticheat",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/amnoah/BetterAnticheat"
+    },
+    {
+      "name": "Modrinth",
+      "url": "https://modrinth.com/plugin/betteranticheat"
+    }
+  ]
+}

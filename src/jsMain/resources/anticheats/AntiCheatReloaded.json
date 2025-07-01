@@ -1,0 +1,25 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Unmaintained",
+  "versions": "1.12.2 - 1.18.1",
+  "spigot": 23799,
+  "github": "Rammelkast/AntiCheatReloaded",
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/23799"
+    },
+    {
+      "name": "Bukkit",
+      "url": "https://dev.bukkit.org/projects/anticheatreloaded"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Rammelkast/AntiCheatReloaded"
+    }
+  ]
+}

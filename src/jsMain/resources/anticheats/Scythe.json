@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "BehaviorPack"
+  ],
+  "status": null,
+  "versions": "1.20.10+",
+  "spigot": null,
+  "github": "Scythe-Anticheat/Scythe-Anticheat",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Scythe-Anticheat/Scythe-Anticheat"
+    }
+  ]
+}

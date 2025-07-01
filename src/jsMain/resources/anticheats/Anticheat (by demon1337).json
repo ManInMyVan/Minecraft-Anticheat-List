@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Inactive",
+  "versions": "1.7 - 1.8.9",
+  "spigot": 93504,
+  "github": "DemonDxv/Anticheat-Open-Source",
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/93504"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/DemonDxv/Anticheat-Open-Source"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.8 - 1.16",
+  "spigot": 6442,
+  "github": null,
+  "rating": null,
+  "price": "£20.00 (GBP)",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/6442"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/uc9w2nx"
+    }
+  ]
+}

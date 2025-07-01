@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "BehaviorPack"
+  ],
+  "status": null,
+  "versions": "1.16.0+",
+  "spigot": null,
+  "github": "Shall0e/ShallowAC",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Shall0e/ShallowAC"
+    }
+  ]
+}

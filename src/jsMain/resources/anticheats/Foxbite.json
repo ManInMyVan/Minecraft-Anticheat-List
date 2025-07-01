@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Old",
+  "versions": "1.18",
+  "spigot": null,
+  "github": "Foxikle/FoxBite",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Foxikle/FoxBite"
+    }
+  ]
+}

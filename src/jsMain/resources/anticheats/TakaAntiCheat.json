@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.8 - 1.16",
+  "spigot": 45167,
+  "github": null,
+  "rating": null,
+  "price": "€4.00 (EUR)",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/45167"
+    }
+  ]
+}

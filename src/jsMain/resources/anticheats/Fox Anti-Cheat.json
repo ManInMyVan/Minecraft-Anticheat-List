@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Skript"
+  ],
+  "status": "Discontinued",
+  "versions": "1.8 - 1.20",
+  "spigot": 99925,
+  "github": null,
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/99925"
+    }
+  ]
+}

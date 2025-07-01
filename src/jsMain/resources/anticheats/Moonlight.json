@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Nukkit"
+  ],
+  "status": "Unavailable",
+  "versions": "1.19.20",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": null,
+      "url": "https://github.com/disepi/Moonlight"
+    }
+  ]
+}

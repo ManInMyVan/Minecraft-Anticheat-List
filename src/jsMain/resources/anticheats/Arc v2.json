@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.7.10 - 1.8.8 ",
+  "spigot": 50805,
+  "github": "Vrekt/Arc-v2",
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/50805"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Vrekt/Arc-v2"
+    }
+  ]
+}

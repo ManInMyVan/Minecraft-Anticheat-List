@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Skript"
+  ],
+  "status": null,
+  "versions": "1.7, 1.8",
+  "spigot": 74573,
+  "github": null,
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/74573"
+    }
+  ]
+}

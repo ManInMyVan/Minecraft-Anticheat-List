@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "BehaviorPack"
+  ],
+  "status": null,
+  "versions": "1.16.210+",
+  "spigot": null,
+  "github": "Dream23322/Pulse-Anticheat",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Dream23322/Pulse-Anticheat"
+    }
+  ]
+}

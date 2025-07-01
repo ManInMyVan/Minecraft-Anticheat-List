@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Old",
+  "versions": "1.10 - 1.12",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "Bukkit",
+      "url": "https://dev.bukkit.org/projects/kasanticheat"
+    },
+    {
+      "name": null,
+      "url": "https://spigotmc.org/resources/55889"
+    }
+  ]
+}

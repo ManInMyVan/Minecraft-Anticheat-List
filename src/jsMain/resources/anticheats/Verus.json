@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Old",
+  "versions": "1.7 - 1.20.1",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "$60.00, $125.00, $200.00 (?)",
+  "links": [
+    {
+      "name": "Dedicated Site",
+      "url": "https://verus.ac"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/G9RGfuZ"
+    }
+  ]
+}

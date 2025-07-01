@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Datapack"
+  ],
+  "status": null,
+  "versions": "1.20+",
+  "spigot": null,
+  "github": "n33d4n4m3/NoCheatMinus",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/n33d4n4m3/NoCheatMinus"
+    }
+  ]
+}

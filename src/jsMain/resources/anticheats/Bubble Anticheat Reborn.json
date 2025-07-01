@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Skript"
+  ],
+  "status": null,
+  "versions": "Unknown",
+  "spigot": null,
+  "github": "steviebeenz/BubbleAnticheatReborn",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "Dedicated Site",
+      "url": "https://steviebeenz.github.io/BubbleAnticheatReborn"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/steviebeenz/BubbleAnticheatReborn"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.7 - 1.21.5",
+  "spigot": 123945,
+  "github": null,
+  "rating": null,
+  "price": "Free, €19.99/y (EUR)",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/123945"
+    },
+    {
+      "name": "BuiltByBit",
+      "url": "https://builtbybit.com/resources/bundle/1925"
+    },
+    {
+      "name": "Hangar",
+      "url": "https://hangar.papermc.io/IdealisticAI/Spartan-AntiCheat"
+    }
+  ]
+}

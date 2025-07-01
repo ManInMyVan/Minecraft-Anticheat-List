@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Discontinued",
+  "versions": "Unknown",
+  "spigot": null,
+  "github": "MeGysssTaa/reflex-anticheat-internals",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": null,
+      "url": "https://spigotmc.org/resources/21122"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/MeGysssTaa/reflex-anticheat-internals"
+    }
+  ]
+}

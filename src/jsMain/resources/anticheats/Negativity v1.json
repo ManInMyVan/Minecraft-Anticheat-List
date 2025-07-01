@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Discontinued",
+  "versions": "1.8 - 1.20.1",
+  "spigot": 48399,
+  "github": null,
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/48399"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Elikill58/Negativity"
+    }
+  ]
+}

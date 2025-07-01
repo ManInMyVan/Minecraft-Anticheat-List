@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Old",
+  "versions": "1.8 - 1.16",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "Bukkit",
+      "url": "https://dev.bukkit.org/projects/incognito"
+    }
+  ]
+}

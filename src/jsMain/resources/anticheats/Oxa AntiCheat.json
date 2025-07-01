@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Discontinued",
+  "versions": "1.12 - 1.20",
+  "spigot": 113847,
+  "github": null,
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/113847"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/WqwVzEYcc9"
+    }
+  ]
+}

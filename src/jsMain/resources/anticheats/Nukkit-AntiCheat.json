@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Nukkit"
+  ],
+  "status": null,
+  "versions": "Unknown",
+  "spigot": null,
+  "github": "WetABQ/Nukkit-AntiCheat",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/WetABQ/Nukkit-AntiCheat"
+    }
+  ]
+}

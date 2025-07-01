@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "BehaviorPack"
+  ],
+  "status": null,
+  "versions": "1.19.60+",
+  "spigot": null,
+  "github": "smell-of-curry/rubedo",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/smell-of-curry/rubedo"
+    }
+  ]
+}

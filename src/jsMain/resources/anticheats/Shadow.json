@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "PocketMine"
+  ],
+  "status": null,
+  "versions": "Unknown",
+  "spigot": null,
+  "github": "DarkWav/SAC",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/DarkWav/SAC"
+    }
+  ]
+}

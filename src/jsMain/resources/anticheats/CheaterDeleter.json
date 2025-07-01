@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Fabric"
+  ],
+  "status": "Old",
+  "versions": "1.17.x",
+  "spigot": null,
+  "github": "CoolMineman/CheaterDeleter",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/CoolMineman/CheaterDeleter"
+    }
+  ]
+}

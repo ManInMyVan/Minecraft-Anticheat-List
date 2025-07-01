@@ -1,0 +1,25 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Active",
+  "versions": "1.8 - 1.20",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "Free, €19.99 (EUR)",
+  "links": [
+    {
+      "name": "Dedicated Site",
+      "url": "https://cardinalanticheat.github.io/documentation"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/micartey/Cardinal-Anticheat"
+    },
+    {
+      "name": "BuiltByBit",
+      "url": "https://builtbybit.com/resources/26622"
+    }
+  ]
+}

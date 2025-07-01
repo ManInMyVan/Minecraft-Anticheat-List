@@ -1,0 +1,25 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Active",
+  "versions": "1.8 - 1.20.2",
+  "spigot": null,
+  "github": null,
+  "rating": "100%, 15 ratings",
+  "price": "€69.99 (EUR)",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/TErzKwGUEc"
+    },
+    {
+      "name": "BStats",
+      "url": "https://bstats.org/plugin/bukkit/Spiter/19535"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/RegotlyLong/SpiterAnticheat"
+    }
+  ]
+}

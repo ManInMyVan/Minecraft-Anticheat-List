@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Old",
+  "versions": "1.7 - 1.13.2",
+  "spigot": 75322,
+  "github": null,
+  "rating": null,
+  "price": "$20.00 (USD)",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/75322"
+    },
+    {
+      "name": "BuiltByBit",
+      "url": "https://builtbybit.com/resources/2442"
+    }
+  ]
+}

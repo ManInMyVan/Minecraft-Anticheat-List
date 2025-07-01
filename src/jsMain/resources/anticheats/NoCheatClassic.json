@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Discontinued",
+  "versions": "1.6.2",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "Bukkit",
+      "url": "https://dev.bukkit.org/projects/nocheat-classic"
+    }
+  ]
+}

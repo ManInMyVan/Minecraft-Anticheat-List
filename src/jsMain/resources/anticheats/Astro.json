@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Active",
+  "versions": "1.8+",
+  "spigot": null,
+  "github": null,
+  "rating": "Unknown",
+  "price": "$30.00 (?)",
+  "links": [
+    {
+      "name": "Dedicated Site",
+      "url": "https://astroac.cc"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/fJGspEJnyh"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": "Old",
+  "versions": "1.7 - 1.18.2",
+  "spigot": null,
+  "github": "JTXOfficial/FlopAC",
+  "rating": "Unknown",
+  "price": "Free",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/JTXOfficial/FlopAC"
+    }
+  ]
+}
