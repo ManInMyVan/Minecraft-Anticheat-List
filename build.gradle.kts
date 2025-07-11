@@ -44,6 +44,7 @@ kotlin {
 val objectMapper = ObjectMapper()
 
 tasks.register("compileAnticheats") {
+    dependsOn(tasks.assemble)
     group = "build"
 
     val input = layout.projectDirectory.dir("src/jsMain/resources/anticheats")
