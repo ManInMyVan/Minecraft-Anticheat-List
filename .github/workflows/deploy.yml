@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v5.0.0
 
       - name: Compile with Gradle
-        run: gradle kotlinUpgradeYarnLock build
+        run: ./gradlew kotlinUpgradeYarnLock build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5.0.0
