@@ -10,7 +10,7 @@ buildscript {
         maven("https://jitpack.io")
     }
     dependencies {
-        classpath("de.marhali:json5-java:2.0.0")
+        classpath("de.marhali:json5-java:3.0.0")
         classpath("com.google.code.gson:gson:2.13.2")
         classpath("net.jimblackler.jsonschemafriend:core:0.12.5")
     }
