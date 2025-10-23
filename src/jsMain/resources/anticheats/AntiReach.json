@@ -4,13 +4,13 @@
   ],
   "status": "Unavailable",
   "versions": "1.8 - 1.8.8",
-  "spigot": null,
+  "spigot": 58495,
   "github": null,
-  "rating": "Unknown",
+  "rating": null,
   "price": "Free",
   "links": [
     {
-      "name": null,
+      "name": "SpigotMC",
       "url": "https://spigotmc.org/resources/58495"
     }
   ]
