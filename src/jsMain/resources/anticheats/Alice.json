@@ -4,13 +4,13 @@
   ],
   "status": "Unavailable",
   "versions": "Unknown",
-  "spigot": null,
+  "spigot": 89139,
   "github": null,
-  "rating": "Unknown",
+  "rating": null,
   "price": "Unknown (Paid)",
   "links": [
     {
-      "name": null,
+      "name": "SpigotMC",
       "url": "https://spigotmc.org/resources/89139"
     }
   ]
