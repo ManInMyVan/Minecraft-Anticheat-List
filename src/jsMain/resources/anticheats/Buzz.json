@@ -10,7 +10,7 @@
   "price": "Unknown (Paid)",
   "links": [
     {
-      "name": null,
+      "name": null, // hidden because this is no longer owned by buzz
       "url": "https://buzzanticheat.com"
     }
   ]
