@@ -4,13 +4,13 @@
   ],
   "status": "Unavailable",
   "versions": "1.13 - 1.14",
-  "spigot": null,
+  "spigot": 66144,
   "github": null,
-  "rating": "Unknown",
+  "rating": null,
   "price": "Free",
   "links": [
     {
-      "name": null,
+      "name": "SpigotMC",
       "url": "https://spigotmc.org/resources/66144"
     }
   ]
