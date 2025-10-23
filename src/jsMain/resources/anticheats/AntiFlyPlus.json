@@ -2,7 +2,7 @@
   "platforms": [
     "Bukkit"
   ],
-  "status": "Unavailable",
+  "status": null,
   "versions": "1.13 - 1.14",
   "spigot": 66144,
   "github": null,
