@@ -16,7 +16,7 @@ jobs:
           distribution: "adopt"
 
       - name: Checkout Repository
-        uses: actions/checkout@v5.0.0
+        uses: actions/checkout@v5.0.1
 
       - name: Compile with Gradle
         run: gradle kotlinUpgradeYarnLock build
