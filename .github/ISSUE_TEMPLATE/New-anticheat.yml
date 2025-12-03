@@ -44,15 +44,15 @@ body:
       - Old (Has not been updated recently, about 4 months)
       - Inactive (Author has stated work will be slow)
       - Unmaintained (Author has stated it is not currently being worked on, but may be in the future)
-      - Discontinued (Author has stated it will not be worked on)
-      - Unavailable (No working official links to the Anticheat)
+      - Discontinued (Development has ended)
+      - Unavailable (No working official links to the anticheat)
       - Unknown
   validations:
     required: true
 - type: input
   attributes:
     label: Minecraft Versions
-    description: "What Minecraft versions does the anticheat support? (Unknown is an option) (PLEASE DO NOT PUT ANTICHEAT VERSION)"
+    description: "What Minecraft versions does the anticheat support? (Unknown is an option) (PLEASE DO NOT PUT THE ANTICHEAT VERSION)"
   validations:
     required: true
 - type: textarea
