@@ -53,15 +53,15 @@ class Anticheat(
             rating = spigotData?.rating ?: "Unknown"
         }
 
+        if (spigotData == null && spigot != null && github == null) {
+            status = Unavailable
+            return
+        }
+
         if (status == null) {
             // avoid using GitHub api because rate limits
             if (spigotData != null && fourMonthsAgo < spigotData.lastUpdate) {
                 status = Active
-                return
-            }
-
-            if (spigotData == null && spigot != null && github == null) {
-                status = Unavailable
                 return
             }
 
