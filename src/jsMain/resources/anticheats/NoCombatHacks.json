@@ -2,15 +2,15 @@
   "platforms": [
     "Skript"
   ],
-  "status": "Unavailable",
+  "status": null,
   "versions": "Unknown",
-  "spigot": null,
+  "spigot": 28159,
   "github": null,
-  "rating": "Unknown",
+  "rating": null,
   "price": "Free",
   "links": [
     {
-      "name": null,
+      "name": "SpigotMC",
       "url": "https://spigotmc.org/resources/28159"
     }
   ]
