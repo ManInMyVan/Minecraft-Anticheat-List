@@ -1,0 +1,21 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "versions": "1.21.x",
+  "spigot": 129357,
+  "github": null,
+  "rating": null,
+  "price": "Free",
+  "links": [
+    {
+      "name": "SpigotMC",
+      "url": "https://spigotmc.org/resources/129357"
+    },
+    {
+      "name": "Dedicated Site",
+      "url": "https://nochance-ac.com"
+    }
+  ]
+}
