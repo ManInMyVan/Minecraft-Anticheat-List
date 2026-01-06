@@ -50,7 +50,7 @@ class Anticheat(
         val spigotData = getSpigotData()
 
         if (rating == null) {
-            rating = spigotData?.rating ?: "Unknown"
+            rating = spigotData?.rating ?: "No Data"
         }
 
         if (spigotData == null && spigot != null && github == null) {
