@@ -55,7 +55,7 @@ tasks.register("compileAnticheats") {
 
     doLast {
         val json5 = Json5.builder { it.build() }
-        val gson = GsonBuilder().serializeNulls().setPrettyPrinting().create()
+        val gson = Gson()
         val schema = SchemaStore().loadSchemaJson(File("src/jsMain/resources/schema.json").readText(Charsets.UTF_8))
         val validator = Validator()
         val out = JsonArray()
