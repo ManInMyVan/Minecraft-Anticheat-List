@@ -58,7 +58,7 @@ jobs:
     needs: deploy
     steps:
       - name: Wait for CDN to update
-        run: sleep 60 // TODO: is there a better way to do this?
+        run: sleep 60 # TODO: is there a better way to do this?
 
       - name: Archive on Wayback Machine
         uses: JamieMagee/wayback@v2
