@@ -59,5 +59,5 @@ jobs:
     steps:
       - name: Archive on Wayback Machine
         uses: JamieMagee/wayback@v2
-          with:
-            url: https://maninmyvan.github.io/Minecraft-Anticheat-List/
+        with:
+          url: https://maninmyvan.github.io/Minecraft-Anticheat-List/
