@@ -61,3 +61,4 @@ jobs:
         uses: JamieMagee/wayback@v2
         with:
           url: https://maninmyvan.github.io/Minecraft-Anticheat-List/
+          saveOutlinks: true
