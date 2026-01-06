@@ -22,6 +22,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v6.0.1
 
+      - name: Bypass Wayback Machine De-duplication
+      - run: echo "<!-- $(date +%s) -->" >> src/jsMain/resources/index.html
+
       - name: Compile with Gradle
         run: chmod +x ./gradlew && ./gradlew kotlinUpgradeYarnLock build
 
