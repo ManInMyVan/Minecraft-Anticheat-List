@@ -44,7 +44,10 @@
       "type": ["string", "null"],
       "default": null
     },
-    "rating": {},
+    "rating": {
+      "type": ["string", "null"],
+      "default": null
+    },
     "price": {
       "type": "string",
       "anyOf": [
@@ -86,32 +89,6 @@
         },
         "required": ["name", "url"],
         "additionalProperties": false
-      }
-    }
-  },
-  "if": {
-    "properties": {
-      "spigot": {
-        "not": {
-          "type": "null"
-        }
-      }
-    },
-    "required": ["spigot"]
-  },
-  "then": {
-    "properties": {
-      "rating": {
-        "type": ["string", "null"],
-        "default": null
-      }
-    }
-  },
-  "else": {
-    "properties": {
-      "rating": {
-        "type": "string",
-        "default": "Unknown"
       }
     }
   },
