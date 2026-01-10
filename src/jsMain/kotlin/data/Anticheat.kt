@@ -83,7 +83,7 @@ class Anticheat(
 
     constructor(data: dynamic) : this(
         data.name as String,
-        (data.platforms as Array<String>).map(Platform::valueOf).toTypedArray(),
+        (data.platforms as Array<String>).map(Platform::valueOf).toTypedArray().also { it.sort() },
         (data.status as? String)?.let(Status::valueOf),
         data.versions as String,
         data.spigot as? Int,
