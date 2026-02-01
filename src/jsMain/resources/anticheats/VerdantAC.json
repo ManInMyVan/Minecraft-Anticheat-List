@@ -1,0 +1,24 @@
+{
+  "platforms": [
+    "Bukkit",
+    "Spigot",
+    "Paper",
+    "Folia"
+  ],
+  "status": "Active",
+  "versions": "1.8-1.21.11",
+  "spigot": null,
+  "github": null,
+  "rating": null,
+  "price": "Contact for infos",
+  "links": [
+    {
+      "name": "Verdant Website",
+      "url": "https://verdantstudios.xyz"
+    },
+    {
+      "name": "Discord",
+      "url": "https://dc.gg/verdantstudios"
+    }
+  ]
+}
