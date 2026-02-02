@@ -1,9 +1,6 @@
 {
   "platforms": [
-    "Bukkit",
-    "Spigot",
-    "Paper",
-    "Folia"
+    "Bukkit"
   ],
   "status": "Active",
   "versions": "1.8 - 1.21.11",
