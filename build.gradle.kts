@@ -17,7 +17,7 @@ buildscript {
 }
 
 plugins {
-    kotlin("multiplatform") version "2.3.20"
+    kotlin("multiplatform") version "2.3.21"
 }
 
 repositories {
