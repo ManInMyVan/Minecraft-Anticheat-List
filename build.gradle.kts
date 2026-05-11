@@ -25,7 +25,7 @@ repositories {
 }
 
 dependencies {
-    commonMainImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.10.2")
+    commonMainImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-js:1.11.0")
 }
 
 kotlin {
