@@ -2,7 +2,7 @@
   "platforms": [
     "Bukkit"
   ],
-  "status": "Old",
+  "status": null,
   "versions": "1.7 - 1.18.2",
   "spigot": null,
   "github": "JTXOfficial/FlopAC",
