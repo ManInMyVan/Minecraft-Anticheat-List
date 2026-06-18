@@ -1,7 +1,7 @@
 package data
 
-import data.Edition.Bedrock
-import data.Edition.Java
+import data.Platform.Edition.Bedrock
+import data.Platform.Edition.Java
 
 enum class Platform(private val edition: Edition?) {
     Unknown(null),
@@ -17,6 +17,10 @@ enum class Platform(private val edition: Edition?) {
     BehaviorPack(Bedrock),
     PocketMine(Bedrock),
     ;
+
+    enum class Edition {
+        Java, Bedrock
+    }
 
     private val display by lazy {
         val name = if (name == "BehaviorPack") "Behavior Pack" else name
