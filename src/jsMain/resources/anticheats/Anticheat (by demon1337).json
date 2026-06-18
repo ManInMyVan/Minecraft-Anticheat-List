@@ -2,7 +2,7 @@
   "platforms": [
     "Bukkit"
   ],
-  "status": "Inactive",
+  "status":  null,
   "versions": "1.7 - 1.8.9",
   "spigot": 93504,
   "github": "DemonDxv/Anticheat-Open-Source",

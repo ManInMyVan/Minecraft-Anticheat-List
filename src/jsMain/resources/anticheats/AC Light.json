@@ -3,7 +3,7 @@
     "Bukkit"
   ],
   "status": null,
-  "versions": "1.7 - 1.18.2",
+  "versions": "1.8 - 1.18.2",
   "spigot": 102136,
   "github": null,
   "price": "Free",
@@ -11,6 +11,10 @@
     {
       "name": "SpigotMC",
       "url": "https://spigotmc.org/resources/102136"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/invite/nJDazN22BY"
     }
   ]
 }

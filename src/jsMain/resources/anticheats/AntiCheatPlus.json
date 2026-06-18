@@ -3,14 +3,22 @@
     "Bukkit"
   ],
   "status": null,
-  "versions": "Unknown",
+  "versions": "1.7",
   "spigot": 2714,
-  "github": null,
+  "github": "m1enkrafftman/AntiCheatPlus",
   "price": "Free",
   "links": [
     {
       "name": "SpigotMC",
       "url": "https://spigotmc.org/resources/2714"
+    },
+    {
+      "name": "Bukkit",
+      "url": "https://dev.bukkit.org/projects/anticheatplus"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/m1enkrafftman/AntiCheatPlus"
     }
   ]
 }
