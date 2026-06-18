@@ -29,7 +29,7 @@
     "status": {
       "type": ["string", "null"],
       "default": "Unknown",
-      "enum": ["Active", "Inactive", "Unmaintained", "Discontinued", "Unknown", "Old", "Unavailable", null]
+      "enum": ["Active", "Inactive", "Discontinued", "Unknown", "Old", "Unavailable", null]
     },
     "versions": {
       "type": "string",
