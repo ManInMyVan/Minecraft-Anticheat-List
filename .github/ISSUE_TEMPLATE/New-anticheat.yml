@@ -43,7 +43,6 @@ body:
       - Active (Recent updates)
       - Old (Has not been updated recently, about 4 months)
       - Inactive (Author has stated work will be slow)
-      - Unmaintained (Author has stated it is not currently being worked on, but may be in the future)
       - Discontinued (Development has ended)
       - Unavailable (No working official links to the anticheat)
       - Unknown
@@ -61,12 +60,6 @@ body:
     description: 'What official links can be used to obtain the anticheat? (if possible, do not use direct download links) ("None" is valid)'
   validations:
     required: true
-- type: input
-  attributes:
-    label: Rating Percentage and number of ratings
-    description: "If any platforms show ratings, what is the anticheat's rating as a percentage, and how many ratings does it have? (for example, 100%, 20 ratings) If on SpigotMC, this can be skipped."
-  validations:
-    required: false
 - type: checkboxes
   attributes:
     label: Before submitting an anticheat
