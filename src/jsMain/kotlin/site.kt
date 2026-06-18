@@ -58,7 +58,6 @@ val display = { anticheat: Anticheat ->
             <td>${anticheat.platforms.joinToString()}</td>
             <td>${anticheat.status}</td>
             <td>${anticheat.versions}</td>
-            <td>${anticheat.rating}</td>
             <td>${anticheat.price}</td>
             <td>${anticheat.links
                 .filter { !it.hidden }

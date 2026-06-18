@@ -12,7 +12,6 @@ class Anticheat(
     val versions: String,
     private val spigot: Int?,
     private val github: String?,
-    var rating: String?,
     val price: String,
     val links: Array<Link>
 ) {
@@ -45,13 +44,9 @@ class Anticheat(
     }
 
     suspend fun update() {
-        if (rating != null && status != null) return
+        if (status != null) return
 
         val spigotData = getSpigotData()
-
-        if (rating == null) {
-            rating = spigotData?.rating ?: "No Data"
-        }
 
         if (spigotData == null && spigot != null && github == null) {
             status = Unavailable
@@ -88,7 +83,6 @@ class Anticheat(
         data.versions as String,
         data.spigot as? Int,
         data.github as? String,
-        data.rating as? String,
         data.price as String,
         (data.links as Array<dynamic>).map { Link(it.name as? String, it.url as String, it.name as? String == null) }.toTypedArray()
     )

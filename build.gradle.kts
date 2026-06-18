@@ -41,9 +41,10 @@ kotlin {
     }
 }
 
-val objectMapper = ObjectMapper()
+val objectMapper: ObjectMapper = ObjectMapper()
 
 tasks.register("compileAnticheats") {
+    description = "compiles anticheats.json"
     dependsOn(tasks.assemble)
     group = "build"
 
