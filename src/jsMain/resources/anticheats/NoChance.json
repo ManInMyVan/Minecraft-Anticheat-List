@@ -3,11 +3,15 @@
     "Bukkit"
   ],
   "status": null,
-  "versions": "1.21.x",
+  "versions": "1.20.6+",
   "spigot": 129357,
-  "github": null,
+  "github": "TheeCobra1/NoChance-AntiCheat",
   "price": "Free",
   "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/TheeCobra1/NoChance-AntiCheat"
+    },
     {
       "name": "SpigotMC",
       "url": "https://spigotmc.org/resources/129357"
