@@ -20,7 +20,7 @@ jobs:
           distribution: "adopt"
 
       - name: Checkout Repository
-        uses: actions/checkout@v7.0.0
+        uses: actions/checkout@v7.0.1
 
       - name: Bypass Wayback Machine De-duplication
         run: echo "<!-- $(date +%s) -->" >> src/jsMain/resources/index.html
