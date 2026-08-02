@@ -1,0 +1,24 @@
+{
+  "platforms": [
+    "Bukkit"
+  ],
+  "status": null,
+  "spigot": null,
+  "github": "KaelusAI/Shard",
+  "versions": "1.8.8 - 26.2",
+  "price": "Free, $19.90/mo, $29.90/mo, $39.90/mo, $59.90/mo, $89.90/mo (USD)",
+  "links": [
+    {
+      "name": "Dedicated Site",
+      "url": "https://shard.ac/"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/KaelusAI/Shard"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/kaelus"
+    }
+  ]
+}
