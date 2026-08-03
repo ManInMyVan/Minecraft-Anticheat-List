@@ -3,28 +3,19 @@
   "title": "Anticheat",
   "description": "Schema for anticheat entries.",
   "type": "object",
-  "required": ["platforms", "status", "versions", "price"],
+  "required": ["platform", "status", "versions", "price"],
   "properties": {
-    "platforms": {
-      "type": ["array", "null"],
-      "uniqueItems": true,
-      "default": null,
-      "items": {
-        "type": "string",
-        "enum": [
-          "Bukkit",
-          "Sponge",
-          "Skript",
-          "Minestom",
-          "Datapack",
-          "Fabric",
-          "Forge",
-          "Nukkit",
-          "BehaviorPack",
-          "PocketMine"
-        ]
-      },
-      "minItems": 1
+    "platform": {
+      "type": ["string", "array"],
+      "default": "Unknown",
+      "anyOf": [
+        {
+          "$ref": "#/$defs/multiple-platforms"
+        },
+        {
+          "const": "Unknown"
+        }
+      ]
     },
     "status": {
       "type": ["string", "null"],
@@ -42,14 +33,15 @@
     },
     "github": {
       "type": ["string", "null"],
-      "default": null
+      "default": null,
+      "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$"
     },
     "price": {
       "type": "string",
       "anyOf": [
         {},
         {
-          "enum": ["Free"]
+          "const": "Free"
         }
       ]
     },
@@ -78,9 +70,7 @@
             ]
           },
           "url": {
-            "type": "string",
-            "format": "uri",
-            "pattern": "^https?://.*$"
+            "$ref": "#/$defs/url"
           }
         },
         "required": ["name", "url"],
@@ -88,5 +78,39 @@
       }
     }
   },
-  "additionalProperties": false
+  "additionalProperties": false,
+  "$defs": {
+    "single-platform": {
+      "type": "string",
+      "enum": [
+        "Bukkit",
+        "Sponge",
+        "Skript",
+        "Minestom",
+        "Datapack",
+        "Fabric",
+        "Forge"
+      ]
+    },
+    "multiple-platforms": {
+      "anyOf": [
+        {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/single-platform"
+          },
+          "uniqueItems": true,
+          "minItems": 1
+        },
+        {
+          "$ref": "#/$defs/single-platform"
+        }
+      ]
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https?://.*$"
+    }
+  }
 }

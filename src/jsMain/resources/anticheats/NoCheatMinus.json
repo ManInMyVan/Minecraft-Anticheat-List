@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Datapack"
-  ],
+  "platform": "Datapack",
   "status": null,
   "versions": "26.1.2",
   "spigot": null,

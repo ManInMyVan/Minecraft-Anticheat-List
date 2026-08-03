@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Skript"
-  ],
+  "platform": "Skript",
   "status": null,
   "versions": "1.8 - 1.12",
   "spigot": 47437,

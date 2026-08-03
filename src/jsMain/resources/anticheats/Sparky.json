@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Bukkit"
-  ],
+  "platform": "Bukkit",
   "status": "Unavailable",
   "versions": "Unknown",
   "spigot": null,
@@ -10,7 +8,7 @@
   "links": [
     {
       "name": null,
-      "url": "http://sparky.ac"
+      "url": "https://sparky.ac"
     }
   ]
 }

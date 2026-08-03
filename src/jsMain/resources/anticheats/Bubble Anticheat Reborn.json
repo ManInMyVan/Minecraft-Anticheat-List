@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Skript"
-  ],
+  "platform": "Skript",
   "status": null,
   "versions": "Unknown",
   "spigot": null,

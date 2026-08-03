@@ -1,8 +1,6 @@
 {
-  "platforms": [
-    "Bukkit"
-  ],
-  "status": "Old",
+  "platform": "Bukkit",
+  "status":  null,
   "versions": "1.7.10",
   "spigot": null,
   "github": "Y4nN0xX/Argus-Anticheat-minecraft-1.7.10-Paladium",

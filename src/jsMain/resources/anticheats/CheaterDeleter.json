@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Fabric"
-  ],
+  "platform": "Fabric",
   "status": "Old",
   "versions": "1.17.x",
   "spigot": null,

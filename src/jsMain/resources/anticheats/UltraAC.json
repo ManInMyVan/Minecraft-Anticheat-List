@@ -1,9 +1,7 @@
 {
-  "platforms": [
-    "Bukkit"
-  ],
-  "status": "Old",
-  "versions": "Unavailable",
+  "platform": "Bukkit",
+  "status": "Unavailable",
+  "versions": "Unknown",
   "spigot": null,
   "github": null,
   "price": "€10.00 (EUR)",

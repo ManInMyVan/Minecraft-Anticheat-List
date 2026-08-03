@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Sponge"
-  ],
+  "platform": "Sponge",
   "status": "Old",
   "versions": "Unknown",
   "spigot": null,

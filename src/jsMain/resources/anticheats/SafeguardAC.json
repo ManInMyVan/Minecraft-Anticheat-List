@@ -1,6 +1,6 @@
 {
-  "platforms": null,
-  "status": null,
+  "platform": "Bukkit",
+  "status": "Discontinued",
   "versions": "Unknown",
   "spigot": null,
   "github": "terminalsin/SafeguardAC",

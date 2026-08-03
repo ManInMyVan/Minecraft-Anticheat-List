@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Bukkit"
-  ],
+  "platform": "Bukkit",
   "status": "Old",
   "versions": "1.8 - 1.14",
   "spigot": 75691,

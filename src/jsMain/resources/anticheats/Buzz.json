@@ -1,7 +1,5 @@
 {
-  "platforms": [
-    "Bukkit"
-  ],
+  "platform": "Bukkit",
   "status": "Unavailable",
   "versions": "Unknown",
   "spigot": null,
@@ -9,7 +7,7 @@
   "price": "Unknown (Paid)",
   "links": [
     {
-      "name": null, // hidden because this is no longer owned by buzz
+      "name": "Dedicated Site",
       "url": "https://buzzanticheat.com"
     }
   ]
