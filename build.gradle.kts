@@ -35,7 +35,7 @@ kotlin {
     }
 
     sourceSets {
-        val jsMain by getting {
+        getByName("jsMain") {
             resources.exclude("**/anticheats/**", "**/schema.json")
         }
     }
@@ -72,7 +72,7 @@ tasks.register("compileAnticheats") {
                     }
 
                     var invalid = false
-                    validator.validate(schema, objectMapper.readValue(obj.toString(), Object::class.java)) { error ->
+                    validator.validate(schema, objectMapper.readValue(obj.toString(), Any::class.java)) { error ->
                         val value = objectMapper.writeValueAsString(error.`object`)
                         val message = format(error, value, error.uri.toString())
                         errors.add("${file.name}: $message")
