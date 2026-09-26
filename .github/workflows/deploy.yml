@@ -1,6 +1,9 @@
 name: Build and Deploy
 
 on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
     branches: ["main"]
 
@@ -61,7 +64,7 @@ jobs:
     needs: deploy
     steps:
       - name: Wait for CDN to update
-        run: sleep 60 # TODO: is there a better way to do this?
+        run: sleep 45 # TODO: is there a better way to do this?
 
       - name: Archive on Wayback Machine
         uses: JamieMagee/wayback@v2

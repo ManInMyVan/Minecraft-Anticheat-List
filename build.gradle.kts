@@ -1,8 +1,19 @@
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.google.gson.*
 import de.marhali.json5.*
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.runBlocking
 import net.jimblackler.jsonschemafriend.*
 import java.lang.reflect.Field
+import java.net.URI
+import java.net.http.HttpClient
+import java.net.http.HttpRequest
+import java.net.http.HttpResponse
+import java.text.DateFormat
+import java.time.Duration
+import java.time.Instant
+import java.util.Collections
+import java.util.concurrent.atomic.AtomicBoolean
 
 buildscript {
     repositories {
@@ -42,6 +53,15 @@ kotlin {
 }
 
 val objectMapper: ObjectMapper = ObjectMapper()
+val json5: Json5 = Json5.builder { it.build() }
+val gson: Gson = GsonBuilder()
+    .create()
+val validator = Validator()
+val fourMonthsAgo: Instant = Instant.now() - Duration.ofDays(4 * 30)
+val httpClient: HttpClient = HttpClient.newBuilder()
+    .followRedirects(HttpClient.Redirect.NORMAL)
+    .connectTimeout(Duration.ofSeconds(30))
+    .build()
 
 tasks.register("compileAnticheats") {
     description = "compiles anticheats.json"
@@ -55,54 +75,146 @@ tasks.register("compileAnticheats") {
     outputs.file(output)
 
     doLast {
-        val json5 = Json5.builder { it.build() }
-        val gson = Gson()
         val schema = SchemaStore().loadSchemaJson(File("src/jsMain/resources/schema.json").readText(Charsets.UTF_8))
-        val validator = Validator()
-        val out = JsonArray()
-        val errors = mutableListOf<String>()
-        input.asFile.listFiles()?.forEach { file ->
-            when (val extension = file.extension) {
-                "json5", "json" -> {
-                    val reader = file.reader(Charsets.UTF_8)
-                    val obj = if (extension == "json5") {
-                        gson.fromJson(json5.serialize(json5.parse(reader)), JsonObject::class.java)
-                    } else {
-                        gson.fromJson(reader, JsonObject::class.java)
-                    }
+        val files = input.asFile.listFiles().orEmpty()
+        val anticheats = Collections.synchronizedList(mutableListOf<JsonObject>())
 
-                    var invalid = false
-                    validator.validate(schema, objectMapper.readValue(obj.toString(), Any::class.java)) { error ->
-                        val value = objectMapper.writeValueAsString(error.`object`)
-                        val message = format(error, value, error.uri.toString())
-                        errors.add("${file.name}: $message")
-                        invalid = true
-                    }
-                    if (invalid) return@forEach
-
-                    val platform = obj.get("platform")
-
-                    if (platform == null || platform == JsonNull.INSTANCE) {
-                        obj.add("platform", JsonArray().also { it.add("Unknown") })
-                    } else if (platform as? JsonPrimitive != null && platform.isString) {
-                        obj.add("platform", JsonArray().also { it.add(platform.asString) })
-                    }
-
-                    obj.addProperty("name", file.nameWithoutExtension)
-                    out.add(obj)
+        runBlocking {
+            for (file in files) launch {
+                val anticheat = handleAnticheatFile(file, schema)
+                if (anticheat != null) {
+                    anticheats.add(anticheat)
                 }
-                else -> error("non-json file in anticheats directory: " + file.name)
             }
         }
 
-        if (errors.isNotEmpty()) {
-            error(errors.joinToString("\n"))
-        }
-
+        val out = JsonArray(anticheats.size)
+        for (anticheat in anticheats) out.add(anticheat)
         output.asFile.writeBytes(gson.toJson(out).toByteArray(Charsets.UTF_8))
     }
 }.also {
     tasks.build.get().dependsOn(it)
+}
+
+fun handleAnticheatFile(file: File, schema: Schema): JsonObject? {
+    val reader = file.reader(Charsets.UTF_8)
+    val obj = when (file.extension) {
+        "json" -> gson.fromJson(reader, JsonObject::class.java)
+        "json5" -> gson.fromJson(json5.serialize(json5.parse(reader)), JsonObject::class.java)
+        else -> {
+            logger.error("non-json file in anticheats directory: " + file.name)
+            return null
+        }
+    }
+
+    var invalid = false
+    validator.validate(schema, objectMapper.readValue(obj.toString(), Any::class.java)) { error ->
+        val value = objectMapper.writeValueAsString(error.`object`)
+        val message = format(error, value, error.uri.toString())
+        logger.error("${file.name}: $message")
+        invalid = true
+    }
+
+    if (invalid) return null
+
+    val platform = obj.get("platform")
+    if (platform == null || platform is JsonNull) {
+        obj.add("platform", JsonArray().also { it.add("Unknown") })
+    } else if (platform as? JsonPrimitive != null && platform.isString) {
+        obj.add("platform", JsonArray().also { it.add(platform.asString) })
+    }
+
+    val status = obj.get("status")
+    if (status == null || status is JsonNull) {
+        obj.addProperty("status", getStatus(obj))
+    }
+
+    obj.addProperty("name", file.nameWithoutExtension)
+    return obj
+}
+
+val githubHasRateLimited = AtomicBoolean(false)
+fun getStatus(obj: JsonObject): String? {
+    val spigot = (obj.get("spigot") as? JsonPrimitive)?.let {
+        if (it.isNumber) it.asInt else null
+    }
+
+    val github = (obj.get("github") as? JsonPrimitive)?.let {
+        if (it.isString) it.asString else null
+    }
+
+    if (spigot == null && github == null) {
+        return "Unknown"
+    }
+
+    var spigot404 = false
+    val spigotUpdateDate = spigot?.let {
+        val response = get("https://api.spiget.org/v2/resources/$spigot")
+        when (response.statusCode()) {
+            404 -> {
+                spigot404 = true
+                null
+            }
+            else -> {
+                response.getJson().let { it as? JsonObject }
+                    ?.let { it.get("updateDate") as? JsonPrimitive }
+                    ?.let { if (it.isNumber) it.asInt else null }
+            }
+        }
+    }
+
+    if (spigotUpdateDate != null && fourMonthsAgo.epochSecond < spigotUpdateDate) {
+        return "Active"
+    }
+
+    if (github != null) {
+        val response = get("https://api.github.com/repos/$github")
+        when (response.statusCode()) {
+            403 -> {
+                if (!githubHasRateLimited.getAndSet(true)) {
+                    logger.warn("You have been rate limited by github!")
+                }
+            }
+            404 -> if (spigotUpdateDate == null) return "Unavailable"
+            else -> {
+                val data = response.getJson().let { it as? JsonObject }
+                if (data != null) {
+                    val private = data.get("private").let { it as? JsonPrimitive }
+                        ?.let { if (it.isBoolean) it.asBoolean else null }
+
+                    if (private == true && spigotUpdateDate == null) {
+                        return "Unavailable"
+                    }
+
+                    val archived = data.get("archived").let { it as? JsonPrimitive }
+                        ?.let { if (it.isBoolean) it.asBoolean else null }
+
+                    if (archived == true) {
+                        return "Discontinued"
+                    }
+
+                    val pushedAt = data.get("pushed_at").let { it as? JsonPrimitive }
+                        ?.let { if (it.isString) it.asString else null }
+
+                    if (pushedAt != null) {
+                        if (fourMonthsAgo.isBefore(Instant.parse(pushedAt))) {
+                            return "Active"
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    if (spigotUpdateDate != null) {
+        return "Old"
+    }
+
+    if (spigot404) {
+        return "Unavailable"
+    }
+
+    return null
 }
 
 @Suppress("PropertyName")
@@ -128,3 +240,12 @@ fun format(error: ValidationError, value: String, path: String): String = when (
     is TypeError -> "Value $value (at $path) must be of type " + error.expectedTypes.joinToString(" or ") + " (found " + error.foundTypes.joinToString(" or ") + ")"
     else -> "Value $value (at $path): " + error.message
 }
+
+fun get(url: String): HttpResponse<String> = httpClient.send(
+    HttpRequest.newBuilder(URI.create(url))
+        .GET()
+        .build(),
+    HttpResponse.BodyHandlers.ofString()
+)
+fun HttpResponse<String>.getJson(): JsonElement = gson.fromJson(body(), JsonElement::class.java)
+fun getJson(url: String): JsonElement = get(url).getJson()
