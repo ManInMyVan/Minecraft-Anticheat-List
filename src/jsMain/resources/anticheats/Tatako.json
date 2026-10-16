@@ -1,0 +1,18 @@
+{
+  "platform": "Bukkit",
+  "status": "Active",
+  "versions": "1.8.8 - 1.12.2 ( 1.13 ~ latest is beta )",
+  "spigot": null,
+  "github": "tjshtqwq/TTKDAAClient",
+  "price": "Free",
+  "links": [
+    {
+      "name": "Dedicated Site",
+      "url": "https://www.hezhongkj.top/tatako"
+    },
+    {
+      "name": "GitHub（Not the full version）",
+      "url": "https://github.com/tjshtqwq/TTKDAAClient"
+    }
+  ]
+}
