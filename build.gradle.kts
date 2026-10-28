@@ -22,7 +22,7 @@ buildscript {
     }
     dependencies {
         classpath("de.marhali:json5-java:3.0.0")
-        classpath("com.google.code.gson:gson:2.14.0")
+        classpath("com.google.code.gson:gson:2.15.0")
         classpath("net.jimblackler.jsonschemafriend:core:0.12.5")
     }
 }
