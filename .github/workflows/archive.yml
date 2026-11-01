@@ -2,8 +2,9 @@ name: Archive
 
 on:
   workflow_dispatch:
-  release:
-    types: [published]
+  deployment
+  #release:
+  #  types: [published]
 
 concurrency:
   group: "archive"
