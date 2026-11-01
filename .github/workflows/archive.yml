@@ -13,12 +13,9 @@ jobs:
   archive:
     name: Archive
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Archive on Wayback Machine
         uses: JamieMagee/wayback@v2
         with:
-          #url: https://maninmyvan.github.io/Minecraft-Anticheat-List/
+          url: https://maninmyvan.github.io/Minecraft-Anticheat-List/
           saveOutlinks: true
