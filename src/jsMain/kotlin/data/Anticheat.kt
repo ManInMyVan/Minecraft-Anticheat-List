@@ -49,30 +49,28 @@ class Anticheat(
         val spigotData = getSpigotData()
 
         if (spigotData == null && spigot != null && github == null) {
-            status = Unavailable
+            status = Unknown
             return
         }
 
-        if (status == null) {
-            // avoid using GitHub api because rate limits
-            if (spigotData != null && fourMonthsAgo < spigotData.lastUpdate) {
-                status = Active
-                return
-            }
+        // avoid using GitHub api because rate limits
+        if (spigotData != null && fourMonthsAgo < spigotData.lastUpdate) {
+            status = Active
+            return
+        }
 
-            val githubData = getGitHubData()
+        val githubData = getGitHubData()
 
-            if (githubData == null) {
-                status = Old
-                return
-            }
+        if (githubData == null) {
+            status = Old
+            return
+        }
 
-            status = when {
-                githubData.private -> Unavailable // TODO: does this even work?
-                githubData.archived -> Discontinued
-                fourMonthsAgo < githubData.lastPush -> Active
-                else -> Old
-            }
+        status = when {
+            githubData.private -> Unavailable // TODO: does this even work?
+            githubData.archived -> Discontinued
+            fourMonthsAgo < githubData.lastPush -> Active
+            else -> Old
         }
     }
 
